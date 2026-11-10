@@ -1,0 +1,9 @@
+site_name: Club Ladder Rules
+site_url: https://cycleracing-club.github.io/clubladder-rules/
+repo_url: https://github.com/cycleracing-club/clubladder-rules
+repo_name: cycleracing-club/clubladder-rules
+
+theme:
+  name: material
+  palette:
+    scheme: default
