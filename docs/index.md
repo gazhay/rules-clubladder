@@ -405,7 +405,7 @@ Note: Discord remains captains only, and all communication with race control sho
 
 To be eligible to race, riders must Link their Zwift account with Ladder - [https://ladder.cycleracing.club/](https://ladder.cycleracing.club/editself) when joining for the first time.
 
-<img width="1320" height="685" alt="Link_with_Zwift" src="https://github.com/user-attachments/assets/50e6092f-73b3-4caf-8a77-9056dfdf6885" />
+<img width="750" height="340" alt="Link_with_Zwift" src="https://github.com/user-attachments/assets/50e6092f-73b3-4caf-8a77-9056dfdf6885" />
 
 Clicking ‘Login with Zwift’ redirects them to sign in with their Zwift login credentials.
 
@@ -422,7 +422,7 @@ This is an **official** link with Zwift. Riders who do not link with Zwift will 
 
 Once linked successfully you will get a confirmation: 
 
-<img width="1311" height="379" alt="Account_linked_sucessfully" src="https://github.com/user-attachments/assets/7d47dcc7-bfcb-4e7c-a5c7-90125766188e" />
+<img width="750" height="190" alt="Account_linked_sucessfully" src="https://github.com/user-attachments/assets/7d47dcc7-bfcb-4e7c-a5c7-90125766188e" />
 
 If the rider is on a roster this can also be verified by the Z icon next to their name:
 
@@ -439,17 +439,17 @@ If a rider on a roster has unlinked their Zwift account, there will be a warning
 ## Creating & Editing A Team
 
 1. Upon first login you will be greeted with “Register a team” button. You must create your team using the following format to differentiate between different teams from the same club: “Clubname” “Team Name””. Eg. “ESCO Picklebacks”. Complete all other details in the profile setup.
-2. Navigate to the “Team” tab [1] and add your riders by their Zwift ID [2]. After riders have been added and undertaken their first race, they will be locked into the roster until the next transfer window..
+2. Navigate to the “Team” tab [1] and add your riders by their Zwift ID [2]. After riders have been added and undertaken their first race, they will be locked into the roster until the next transfer window.
 
-[](https://lh7-us.googleusercontent.com/eQuwrS9-PEZVqgOmB6ZqJqkribGzeM-CJGOKkDbN8mTV-_idDqWnD-hOcXX4Zz2LJt3j7Vr_YJ8hMkQw0WVJcjuS1Emhb6FIOYUiQsSeO-uuJb7dGbOHLiThWSI0Jl6LjgIQxGwS-kgjMMA61VzMB3A)
+<img width="550" height="305" alt="image(1)" src="https://github.com/user-attachments/assets/acdd3a6b-1d86-461d-9851-1841c3caa966" />
 
-1. As you add riders, the system will visualise which ranks can still be added to the team to keep it within the 3 rank spread rule. Your first rider can be anyone, after that it will show you which riders could be added and stay in range. *eg. Below I have added only bronze riders, so you could add any of these ranks and stay within a range of 3. If in this example you were to add a copper rider, the range would reduce so you could then only add to silver.*
+3. As you add riders, the system will visualise which ranks can still be added to the team to keep it within the 3 rank spread rule. Your first rider can be anyone, after that it will show you which riders could be added and stay in range. *eg. Below I have added only bronze riders, so you could add any of these ranks and stay within a range of 3. If in this example you were to add a copper rider, the range would reduce so you could then only add to silver.*
 
-![Untitled](Untitled%202.png)
+<img width="259" height="154" alt="Untitled 2" src="https://github.com/user-attachments/assets/a61bf9b7-77ba-4c96-bd10-28cb71b9c93a" />
 
 4. Riders who are eligible to be removed (see [👨‍⚖️ Rules](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md)  - been inactive on ladder for a certain period etc.) may be removed from the roster by pressing the red X on the right of their stats. This is the same process for removing riders during the transfer window.
 
-![Untitled](Untitled.jpeg)
+<img width="270" height="195" alt="Untitled" src="https://github.com/user-attachments/assets/00c1d244-4809-4faa-874d-1a087298a278" />
 
 ## Accepting / Creating an Auction Offer
 
@@ -457,39 +457,42 @@ The preferred method of creating a challenge is using the “availability auctio
 
 Once you know your team availability for a specific day and time, first check on your team dashboard to see if a team within your challenge range has an existing offer you can accept:
 
-![Available Offers.JPG](Available_Offers.jpg)
+<img width="750" height="260" alt="Available_Offers" src="https://github.com/user-attachments/assets/d416f3f9-7c15-45fd-be75-a9f83d22971b" />
 
-![3.JPG](3.jpg)
 
-Pay attention to any special requests such as  a number requesting a 3v3 or 4v4.
+Pay attention to any special requests such as  a number requesting a 3v3 or 4v4:
 
-(This is a *request* so not against the rules to race 5v3 for example, but it is considered good practice and within the spirit of fair competition, to accomodate such requests.)
+<img width="60" height="45" alt="3" src="https://github.com/user-attachments/assets/677a933d-3152-4eb0-b254-056ad002f6c8" />
 
-![start time.JPG](start_time.jpg)
+(This is a *request* so not against the rules to race 5v3 for example, but it is considered good practice and within the spirit of fair competition, to accommodate such requests.)
 
-An open Auction Offer will show you the time ‘window’ that the team is offering to start the fixture
 
-![accepting.JPG](accepting.jpg)
+An open Auction Offer will show you the time ‘window’ that the team is offering to start the fixture:
 
-Click ‘Accept Offer’ and then you can specify the start time within that window before it creates the Fixture.
+<img width="411" height="280" alt="start_time" src="https://github.com/user-attachments/assets/2ec6fb2f-74ec-49de-901e-c8cbfeee400e" />
 
-Accepting an offer is a [commitment](https://app.notion.com/p/Accepting-Creating-an-Auction-Offer-321167d503d0805da4e6de833356ca73?pvs=21) to race and cannot be cancelled later.
+
+Click ‘Accept Offer’ and then you can specify the start time within that window before it creates the Fixture:
+
+<img width="340" height="250" alt="accepting" src="https://github.com/user-attachments/assets/a8bdfe0e-56ac-4b30-98ec-a64bb8fda6e7" />
+
+Accepting an offer is a **commitment to race** and cannot be cancelled later.
 
 If you don’t see an appropriate offer available, you can create your own to publish:
 
 Note that Offers have to be further than 24 hours in future from the point of creation otherwise the system removes them - to assume 2 teams won’t have time to both find 5 riders, choose a course, create the event and get everyone signed up in time. (If you want a race within 24 hours, you need to use the Discord method).
 
-Go to your team dashboard page (e.g. [https://ladder.cycleracing.club/teamView/Roaring Rhinos](https://ladder.cycleracing.club/teamView/Roaring%20Rhinos)) and scroll down to Availability Auctions. Here you can click ‘+Create New Auction Offer’.
+Go to your team [dashboard page](https://ladder.cycleracing.club/dashboard) and scroll down to Availability Auctions. Here you can click ‘+Create New Auction Offer’.
 
 Check your timezone is shown correctly, select the date you want to race, and a time window for the race start e.g. 19:00 - 19:30.
 The system will show the local time, and the UTC time for the Auction.
-Us the buttons to make any special *requests* such as 3v3, 4v4, or [steering off](https://app.notion.com/p/Making-A-Challenge-Manually-via-Discord-Website-05ad115f3cec48d08427fcbc0a68e7b0?pvs=21).
+Use the buttons to make any special *requests* such as 3v3, 4v4, or steering off.
 
-![new offer.JPG](new_offer.jpg)
+<img width="400" height="380" alt="new_offer" src="https://github.com/user-attachments/assets/6165b5b4-f5bf-422f-99b1-1201fbe93f6b" />
 
-To finish, click Canel to cancel, or to publish - either click ‘+Create Auction Offer’ for a one off offer, or ‘Create Repeat Weekly’ if you want to offer the same slot <u>every</u> week.
+To finish, click Cancel to cancel, or to publish - either click ‘+Create Auction Offer’ for a one off offer, or ‘Create Repeat Weekly’ if you want to offer the same slot every week.
 
-Please remember that if another team accepts an offer then it is a commitment to race - you cannot cancel later because you forgot to delete an automatic recurring offer! The fixture would have to be re-arranged or the team unable to race would have to [Forfeit](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) counting as a strike against the team.
+Please remember that if another team accepts an offer then it is a commitment to race - you cannot cancel later because you forgot to delete an automatic recurring offer! The fixture would have to be re-arranged or the team unable to race would have to Forfeit - counting as a strike against the team.
 
 ## Making A Challenge Manually (via Discord/Website)
 
@@ -497,29 +500,29 @@ The challenging team are responsible for most aspects of race setup, undertaking
 
 Women's teams can challenge any team within range globally (mixed or women’s), but may only be challenged by other women's teams. 
 
-The preferred method of creating a challenge is using the “[availability auction](https://app.notion.com/p/Accepting-Creating-an-Auction-Offer-321167d503d0805da4e6de833356ca73?pvs=21)” feature, though the “old” way of organising is still summarised below as a backup.
+The preferred method of creating a challenge is using the Availability Auction feature, though the “old” way of organising is still summarised below as a backup.
 
 ### Via Discord / Website ‘Challenge’ Method
 
 1. In the [#race-organisation Discord channel](https://discordapp.com/channels/928942633844355122/1075443165928103966) (please navigate to the one for your specific region), create a New Post, and @ tag the captain of the opposing team you wish to challenge and here you can start any discussion on the date and time. Teams being challenged have 24 hours to respond to the challenge. Note: Please refrain from challenging multiple teams for the same time and date to "hedge your bets", it's ok to enquire about availability of more than one team at a time but once you've started the process of making a challenge it should be with a single team.
     
-    [](https://lh7-us.googleusercontent.com/wuGOATIAFuo6W589qn-vbxQOodfMY3-wkVueCLseQ9x-OKf7z62tJDkH3V1S9NUsWqceC7md_qf4z-0mniqGi88MR3BvM5Ft4gXnfra1_MKFXvR9GS2Xt3bGEDgxvXdTBbSObP72a_7L0vWlM9jw5xw)
+<img width="608" height="226" alt="image(2)" src="https://github.com/user-attachments/assets/9cd90733-acd5-4d8f-8400-4aa218b29533" />
     
 2. Navigate to the league view in the ladder site and hit the blue challenge button.
 3. The system will ask that you to check;
     1. You have approached this team on discord to agree a fixture?
-    2. Ensured you have the riders to fulfill this race?
+    2. Ensured you have the riders to fulfil this race?
     
-    Click “OK”, this will prompt you to propose a day, time and [Steering on/off](https://app.notion.com/p/Making-A-Challenge-Manually-via-Discord-Website-05ad115f3cec48d08427fcbc0a68e7b0?pvs=21) , and then click the ‘Challenge’ button, after which it will send the challenge to the opposing captain.
+    Click “OK”, this will prompt you to propose a day, time and steering on/off, and then click the ‘Challenge’ button, after which it will send the challenge to the opposing captain.
     
 4. Once the challenge has been formally accepted, the challenging team then have 36 hours to confirm their course choice (this is deliberately done after agreeing time and date, to stop the other team declining on the basis that the just don’t like the course). If the challenging team fail to propose a course within 36 hours then it will flip to the opposition to make the choice.
 5. The challenging captain can then complete the Route Selection and Powerup Selection
 before clicking Create Event.
+
+<img width="1338" height="629" alt="Route_Selection" src="https://github.com/user-attachments/assets/563638c3-a110-4552-bf5d-075d04e11ce1" />
     
-    ![Route Selection.JPG](Route_Selection.jpg)
-    
-6. This will instantly and automatically create the Zwift Event Link - which the captain should then share the link with the opposition Captain in the Discord thread, and with the riders of their own team who will be racing.
-7. Any change requests should use the [Change Event button](https://app.notion.com/p/Changing-race-event-details-14b167d503d080b7b88bc727ef877bb8?pvs=21) on the Fixture page.
+7. This will instantly and automatically create the Zwift Event Link - which the captain should then share the link with the opposition Captain in the Discord thread, and with the riders of their own team who will be racing.
+8. Any change requests should use the Change Event button on the Fixture page (only the team who made the original course selection will see this button option available).
 
 ---
 
@@ -533,13 +536,9 @@ As some of you are aware, we have been developing a method to allow the potentia
 4. The same is true for auctions, during the offer you can choose "steering off" alongside the *request* for numbers of riders.
 5. Once the Fixture is in place, the Steering Disabled icon will be visible (before the course and PU’s are chosen):
 
-![Steering Off.png](Steering_Off.png)
+<img width="1486" height="866" alt="Steering_Off" src="https://github.com/user-attachments/assets/7d7b12ef-db6a-4069-9669-a242789732fa" />
 
 Note that at the time of release, it has passed on only the most basic testing and may be withdrawn at any stage.
-
----
-
-[Backup Clubs Process](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
 
 ---
 
@@ -552,7 +551,7 @@ The preferred method of creating and accepting a challenge is using the “[avai
 1. Ensure your team captain has joined and is monitoring [#race-organisation Discord](https://discord.gg/NZuedrjf9V).
 2. Once a challenge has been made by another team, respond to accept or propose a new time within 36 hours of a challenge being made.
     
-    [](https://lh7-us.googleusercontent.com/5lPQib1hOB0R6242zEQiq5dWFJSl-Eat8XLewxYYlfkuAKbY20fnarPtrfoYJYxGZ3vFV0bUU-AiOw0SxdQow7eA93zg6Kb-ZnabnOyygXGJJssU5nTOa7HXEyORDhbfD71cn9uBHBM4pTndseD_uhA)
+  <img width="575" height="540" alt="image(4)" src="https://github.com/user-attachments/assets/6eb7f41e-2e7a-4309-bb9b-d60b05e712e0" />
     
 3. Once a challenge has been accepted, the challenging captain will confirm their course choice within 36 hours of the challenge being made, and then provide you with race links, you should distribute these to your team.
 4. If you have any concerns with any of this please raise with the other captain in the first instance, any issues can be escalated to [#ladder-captains-race-control](https://discordapp.com/channels/928942633844355122/941419628922548274).
@@ -564,19 +563,19 @@ Event creation has transitioned from a manual process to something a bit more au
 
 ### Using the “Change Event” Button.
 
-When viewing the fixture page on the Club Ladder website there is a “Change Event” button for the team which specified the course setup, the “home” team.
+When viewing the fixture page on the Club Ladder website there is a “Change Event” button for the team which specified the course setup, the “home” team:
 
-![2026-03-05_09-24.58.png](2026-03-05_09-24.58.png)
+<img width="405" height="62" alt="2026-03-05_09-24 58" src="https://github.com/user-attachments/assets/a5d650f0-4ecd-45ec-a7ec-5f0d4d9a39c0" />
 
-This will bring up a dialog box for you to request changes 
+This will bring up a dialogue box for you to request changes:
 
-![2026-03-05_09-25.10.png](2026-03-05_09-25.10.png)
+<img width="511" height="752" alt="2026-03-05_09-25 10" src="https://github.com/user-attachments/assets/a917fab9-8ecb-43d2-95e5-663286bcaee6" />
 
 Once submitted, the Club Ladder bot will create a message in the [🚴🏿ladder-event-changes](https://discord.com/channels/928942633844355122/1327608550200967268) channel on the Club Ladder discord server.
 
-![2026-03-05_09-25.28.png](2026-03-05_09-25.28.png)
+<img width="869" height="449" alt="2026-03-05_09-25 28" src="https://github.com/user-attachments/assets/6787c6c6-f553-4b15-9b64-9a922ca5ed27" />
 
-At least one Captain/Vice-Captain from the “away” team should agree the change (where necessary) by clicking the blue check mark (☑️ ) reaction. 
+At least one Captain/Vice-Captain from each team should approve the change on Discord by clicking the blue check mark (☑️ ) reaction. 
 
 When an admin has completed the change they will add a green check mark ( ✅ ) 
 
