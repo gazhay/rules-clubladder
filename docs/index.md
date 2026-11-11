@@ -87,25 +87,28 @@ The league has a greater onus than normal on captains/managers of individual tea
 
 ## 2. Team Composition & Roster Management
 
-1. All teams are organised using [ZwiftRacing App](https://www.zwiftracing.app/reference/ranks) rankings. The ranking on the Ladder Site reflects the Max 30 day “open/mixed” ranking as of the beginning of each “transfer window”. All existing riders on a team will have their rank will be frozen as of that date. New riders who are added between transfer windows will have their rank saved when they are first added to a roster. Any further reference to “rank” on the site refers to this frozen rank.
-    - During normal operation of the ladder (between transfer windows) a rider will not be able to drop down a rank even if their ZR.app ranking changes (e.g., a rider whose 30d rank drops from Platinum to Gold will remain a Platinum until the next transfer window.)
-    - If a rider increases rank, that new rank will be reflected on the ladder site. So if the Platinum rider upgrades to Amethyst, they will immediately become an Amethyst on the ladder site.
-2. Riders must have a valid ZR ranking to take part in ladder. This is based upon the rider’s max 30d ranking as of the first day of the transfer window.
-If a rider does not have a 30d ranking, a max 90d ranking will be used instead.
-Any rider without a ranking cannot be added to a roster and, if already on a roster,  must be removed by the end of the transfer window.
-    1. Note that any rider who races in a ladder race without a ZR rank, and goes on to gain a rank from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a ranking”. In an instance where ZR correctly prevents this rider from gaining a rank, no suspension will be required.
-3. All riders in a squad must be spread over no more than 3 ranks eg. an Emerald squad may comprise riders from Emerald down to Amethyst level. This is the case even if a team is competing cross division, eg. if an Emerald team has challenged a Ruby team to a race.
-    1. In women’s ladder, ranks Emerald (3) to Diamond (1) will be treated as a single rank ie. A rank 1 rider in a women's team may also race with a rank 5 rider. 
-4. In an instance where riders in a squad upgrade beyond the 3 rank spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. 
-    1. In an instance where the team fielded in any one race has a rank spread of greater than 3 ranks, the highest ranked riders in the squad will score 50% points (rounded up). *Eg. In the example of a team with riders Emerald down to Amethyst, if rider(s) promoted to Ruby enter a race with team mates at Amethyst level, the Ruby rider(s) will score 50% points.*
-    2. Any rider upgrading beyond the 3 rank spread of the team may choose to transfer to a different team, even if out with a transfer window.
-        1. (To do this - the Captain of the new ‘Target’ team for the outlier, can add them to to the roster, and the system will allow the transfer.)
-    3. In a team covering 3 ranks, the allowed spread of the team is the middle (median average) rider in a squad +- 1 rank, however if enough riders within a squad upgrade rank beyond this 3 rank spread, and the captain chooses not to transfer them, this will change the team middle (median average), and therefore the riders that can be added to the squad. Essentially if enough of your riders rank up, the allowed rank of new riders will move upwards. To make this easy, the team dashboard will always visualise the rider ranks that may currently be added to the roster.
-    4. Any readjustment of rank (by reset) where the rank drops >1 rank, will not be entitled to a rank reset on ladder until the next [Transfer Window](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-    5. Any rider having a manual reset of vELO score is temporarily suspended from racing Ladder, until they have done minimum 1 new qualifying race to accurately reset their vELO, before they can then continue racing in the Ladder series.
-5. Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely, however note this does not free up a roster space if done outwith a transfer window.
+1. All teams are organised using a rider’s Zwift [zMAP](https://zwiftinsider.com/fitness-metrics-web/) value.
+“*zMAP estimates your Maximal Aerobic Power using your best short-duration power efforts from the last 90 days*” - [Zwift](https://support.zwift.com/en_us/fitness-metrics-faq-Sk0Cebzti).
+The rider’s zMAP value on the Ladder Site reflects the value provided to us directly from Zwift, as of the beginning of each “transfer window”. All existing riders on a team will have their zMAP value frozen as of that date. New riders who are added between transfer windows will have their zMAP value saved when they are first added to a roster. Any further reference to “zMAP” on the site refers to this frozen rank.
+    - During normal operation of the ladder (between transfer windows) a rider will not be able to drop down in zMAP value.
+    - If a rider increases zMAP value, that new value will be reflected on the ladder site, and used until the following Transfer Window reset.
+2. Riders must have a valid zMAP value to take part in ladder. This is based upon the rider’s Zwift zMAP value as of the first day of each Transfer Window or Season Reset.
+Any rider without a zMAP value in Zwift cannot be added to a roster and, if already on a roster, must be removed by the end of the transfer window.
+    1. Note that any rider who races in a ladder race without a zMAP value, and goes on to gain a zMAP value from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a zMAP value”.
+3. A team must not have a zMAP spread of greater than 1.2.
+   a. There is a zMAP ‘floor’ and ‘ceiling’;
+    - Any rider with zMAP under 2.5 will be treated as 2.5 for the purposes of all spread rules.
+    - Any rider with zMAP over 5.8 will be treated as 5.8 for the purposes of all spread rules.
+4. In an instance where riders in a squad upgrade beyond the permitted zMAP spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. They are referred to as ‘Outliers’.
+    1. Any rider upgrading beyond the permitted zMAP spread and becoming an Outlier(s) of the team, may choose to transfer to a different team immediately, even if outwith a transfer window.
+       Or, captains can choose to keep upgraders, and transfer the lower ranked Outlier(s) members to make their spread compliant if they wish to do so, even if outwith a transfer window.
+       - (To do this - the Captain of the new ‘target’ team for the Outlier, can add them to to their roster and the system will allow the transfer - the rider does not need "released" frst.)
+    3. In an instance where the team fielded in any one race has a spread of greater than the permitted zMAP spread, the highest “ranked” riders that breach the spread for the squad will score 50% points (rounded up).
+    *E.g. In the example of a team with riders ranging from 3.0 zMAP to 4.3 zMAP, if rider(s) promoted to 4.3 zMAP enter a race with team mates at 3.0 zMAP level, the 4.3 zMAP rider(s) will score 50% points.*
+    5. Any readjustment of zMAP (by reset request to Zwift for example) where the zMAP drops >1.0, will not be entitled to a Ladder zMAP reset until the next Transfer Window.
+5. Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely.
 6. There is a limit of 15 riders per roster.
-7. Other than the cases noted above (rank spread, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
+7. Other than the cases noted above (zMAP spread Outlier, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
 8. Riders may be active for one team only, irrespective of sub league. Therefore if a club is entering multiple teams of the same rank you must use a different roster for each team.
 
 ## 3. Race Format & Participation
@@ -118,10 +121,9 @@ Any rider without a ranking cannot be added to a roster and, if already on a ros
         - No ladder position changes will be applied to either team as a result of the race;
         - No belt transfers will occur;
         - Disqualifications issued during the race remain valid and on the rider's record.
-2. Teams may race in a maximum of one race per “day”.
-"day" in this regard is defined as "within the same 24 hour period". Another way to understand this is that Teams may race in a maximum of one race per +/- 12 hour period.
+2. Teams are not permitted to race twice in a period of +/- 12 hours of any race they are participating in.
 3. A maximum of 5 riders per team are allowed to enter the race and pen. Should anyone wish to DS they should do so using [fan view](https://zwiftinsider.com/race-spectating/).
-    1. If the system detects more than 5 riders from one team then the team will be disqualified.
+    1. If the system detects more than 5 riders from one team then the team will be disqualified. There will be no exceptions.
 4. To ensure correct processing of results everyone is encouraged to save and leave the event after completion - and by 2.5 hours since event start <u>at the very latest</u>.
 All riders must save their Club Ladder race activities to Zwift. Deletion of the activity containing the race data will result in DQ and persistent DQ will result in suspension from the Ladder.
 5. If a team has not competed in a race in the last 21 days they will become “zombied” in the league and teams will be able to skip them in their challenge range (eg. if you have 2 Zombie teams within your 7 team challenge range, you can then challenge up to 9 teams above you). Teams who are inactive for 35 days or more will be removed entirely.
@@ -129,15 +131,16 @@ All riders must save their Club Ladder race activities to Zwift. Deletion of the
 ## 4. Challenge & Scheduling Rules
 
 1. Challenging teams will select at least one powerup or a maximum of two powerups for use in their race.
-2. All riders in each team must wear the same jersey and include their team name against their in game name. The challenging team have first choice of jersey where 2 teams normally wear the same kit.
-3. Teams can only reject challenges for "good reason", generally this would be because they can't get a team together for the proposed time, or they already have a challenge agreed, we would also consider a situation where a team has only been challenged and not made a challenge in a number of weeks to be good reason. 
+    1. For a trial period as of 22/10/2026, the first Power-Ups will be assigned to all riders in the Race Pen (other power-ups will still function as before, you just also start with one).
+3. All riders in each team must wear the same jersey and include their team name against their in game name. The challenging team have first choice of jersey where 2 teams normally wear the same kit.
+4. Teams can only reject challenges for "good reason", generally this would be because they can't get a team together for the proposed time, or they already have a challenge agreed, we would also consider a situation where a team has only been challenged and not made a challenge in a number of weeks to be good reason. 
 Teams who reject challenges without good reason, or who forfeit 2 or more races in any 2 month period, will be removed from the ladder. Teams removed in this way must wait a minimum of 7 days before requesting to Play On again.
     1. Regarding the policing of rejecting challenges without "good reason" ;
         - The Ladder's preferred way of organising races is to create [Auction Offers](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) for your own team, and to accept Open Auction Offers available to you from surrounding teams.
         - We would define a “direct challenge” as a 1:1 availability enquiry between captains of two (and only two) teams. Once the “challenge” has been thrown down, all effort should be made between the two captains to find a mutual agreeable date and time for a race. Ignoring the request, insisting on unworkable dates/times, or otherwise avoiding a race is then subject to sanction.
         - Mass tags are not challenges but general enquiries about availability, and just like a higher team inviting a team below to challenge are not obligatory for the receiving parties.
         - Ladder Committee cannot police all Discord discussions and offers to race where multiple captains are "mass tagged" , but can police 1:1 challenges if rejected without good reason.
-4. Captains must raise any issues with race control within 24 hours of race finish, after this time no changes will be possible.
+5. Captains must raise any issues with race control within 24 hours of race finish, after this time no changes will be possible.
 
 ## 5. Equipment & Technical Requirements
 
@@ -152,7 +155,8 @@ External or secondary log recordings cannot be accepted as substitute
 
 ### 5.2. Verification & Account Linking
 
-1. **Mandatory Account Linking:** All riders must connect their Zwift account to their Ladder account and maintain an active authorization link to be eligible to race. Unlinked riders will not receive points or results.
+1. **Mandatory Account Linking:** All riders must connect their Zwift account to their Ladder account and maintain an active authorisation link to be eligible to race. Unlinked riders will not receive points or results.
+Riders who participate in races unlinked to Zwift will receive a short 10 day suspension.
 2. **Spot Checks:** The Committee reserves the right to conduct random Rider Spot Checks to audit hardware pairing, data streams, and trainer difficulty compliance.
 
 ### 5.3 Faulty Equipment & Infringements
@@ -161,7 +165,7 @@ External or secondary log recordings cannot be accepted as substitute
     1. **Individual Impact:** Continuing to race on faulty hardware that affects an individual result incurs a DQ from the event and a 10-day ban.
     2. **Peloton/Tactical Impact:** Continuing to race on faulty hardware that alters the overall race dynamic, results in a 30 day ban for the rider and a race DQ.
     The whole team also receive DQ if they were victorious.
-2.  **Nullified Results:** If a result is annulled on Zwift or ZwiftRacing.app due to hardware failure, the team captain must notify the Ladder Race Committee within 24 hours to process an equipment DQ. Failure to report within 24 hours results in a retrospective DQ and a 30-day ban (classified as a major infringement).
+2.  **Nullified Results:** If a rider requests a result to be annulled on Zwift and/or ZwiftRacing.app due to hardware failure, the team captain must notify the Ladder Race Committee within 24 hours to process an equipment DQ on the Ladder result. Failure to report within 24 hours results in a retrospective DQ and a 30-day ban (classified as a major infringement).
 
 ## 6. Bike & Gameplay Standards
 
@@ -180,7 +184,9 @@ This does include if riders are on separate ladder teams but race for the same C
 
 1. All riders and teams must keep their data and information accurate and up to date, particularly where it impacts performance.
     1. If inaccurate data (weight, height, FTP etc) was used during a Ladder race, that leads to a rider deciding to have Zwift and/or ZwiftRacing.app to nullify the effort/result, it is the captain's responsibility to notify the Ladder Race Committee immediately to have DQ instated within 24 hours of the Ladder race, for Inaccurate Data.
-    2. If a rider knowingly participates in a race with inaccurate data (weight, height, FTP etc), they should notify the race via message, and immediately leave the event.
+    2. A weight verification is very different from the Zwift compMetrics weight. If a rider has manipulaster their Zwift compMetrics weight (intentionally or by accident e.g. by account sharing), that rider will be temporarily suspended from racing Ladder and not be eligible until such a time as Zwift reports a more correct value for them.
+       e.g. If you account share and someone sets a PB and your Zwift weight gets “stuck” 30kg lighter than you verify at - you are suspended until you have Zwift reset it correctly.
+    4. If a rider knowingly participates in a race with inaccurate data (weight, height, FTP etc), they should notify the race via message, and immediately leave the event.
     If they continue in the race and it primarily impacts the performance of an individual rider only, the rider in question will be disqualified from that individual race result, and the rider will receive a 10 day ban - regardless of their individual finishing position.
     If they continue in the race and it primarily impacts the performance of the team as a whole, and may have impacted the whole race dynamic, then the whole team will be disqualified if they won, or only the rider disqualified if the team lost, plus the rider will receive a 30 day ban in either result outcome.
 2. In order to compete, all riders must have opted in to share their data with the Ladder system, in line with our [privacy policy](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md). This is done by going to [https://ladder.cycleracing.club](https://ladder.cycleracing.club/) and clicking the “Login with Zwift” button to link your Zwift account to Ladder. Any rider who has not linked their account, or who later unlinks their Zwift account, will be barred from racing until they have done so.
@@ -214,9 +220,6 @@ Note: Presently only one Women's ladder exists, nominally EMEA, however teams fr
 
 ### Rule Differences
 
-- Teams will be bound by a 3 rank spread of ZR mixed 30D rank, however ranks Emerald (3) to Diamond (1) will be treated as a single rank ie. A rank 1 rider in a Women's team may also race with a rank 5 rider.
-- S~~hort term we will remove play on requirements for women’s teams, in order to get the league set up more quickly. Once the initial intake of teams was done, Play On would become active as normal.~~
-As of December 2025, Women’s teams now also [Play On](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) to the Ladder.
 - Teams can toggle between “mixed” and, “women’s team” during a transfer window only.
 - Once active, a Women's team can challenge any team within range globally (Mixed or Women’s), but may only be challenged by other Women's teams.
 
@@ -228,47 +231,40 @@ Riders will only be re-admitted after a ban if Race Committee is confident the r
 
 ## <u>**Offences:**</u>
 
-| **Rule Link** | **Description** | **Infringement level** |
-| --- | --- | --- |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | All riders must have a valid ZR 30 day rank (or 90 day rank when the fallback option is active) in order to race. | 10 day suspension * |
+| **Description** | **Infringement level** |
+| --- | --- |
+| All riders must have a valid zMAP in order to race. | 10 day suspension |
+| All riders must be Zwift linked in order to race. | 10 day suspension |
 |  |  |  |
-|  | Data Corrupt. | Trivial Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | No Zpower riders are allowed. | Trivial Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | All riders must record heart rate in game. | Trivial Infringement. |
+| Data Corrupt. | Trivial Infringement. |
+| No Zpower riders are allowed. | Trivial Infringement. |
+| All riders must record heart rate in game. | Trivial Infringement. |
 |  |  |  |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | All riders must record cadence in game. | Minor Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) 
-****[Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) | Correct use of equipment / equipment error. | Minor Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | Use of “sticky watts”. | Minor Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | Private data. | Minor Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) 
-****[Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) | Use of “micro bursts” , “sprint coast technique” and performances deemed suspicious, unnatural or exhibiting “unusual” technique. | Minor Infringement.
-
-* *Treated as a Major Infringement violation if sufficient reason to believe it's the rider rather than equipment causing it.* |
+| All riders must record cadence in game. | Minor Infringement. |
+| Correct use of equipment / equipment error. | Minor Infringement. |
+| Use of “sticky watts”. | Minor Infringement. |
+| Private data or deleting Zwift Ladder race activity file. | Minor Infringement. |
+| Use of “micro bursts” , “sprint coast technique” and performances deemed suspicious, unnatural or exhibiting “unusual” technique. | Minor Infringement.<br>*\* Treated as a Major Infringement violation if sufficient reason to believe it's the rider rather than equipment causing it.* |
 |  |  |  |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | FTP mismatch, incorrect weight etc. | Major Infringement. |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) 
-****[Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) | Failed Spot Check. | Major Infringement. |
+| FTP mismatch, incorrect weight etc. | Major Infringement. |
+| Failed Spot Check. | Major Infringement. |
 |  |  |  |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | Nullifying of Zwift and/or ZwiftRacing.app effort/result from a Ladder race due to faulty equipment issue, without notifying Ladder Committee. | Treated as a <u>2nd</u> Major Infringement violation. |
+| Nullifying of Zwift and/or ZwiftRacing.app effort/result from a Ladder race due to faulty equipment issue, without notifying Ladder Committee. | Treated as a <u>2nd</u> Major Infringement violation. |
 |  |  |  |
-| [Link](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) **** | Data consent. | Gross Misconduct. |
-| 
-**** | Use of “coffee stops” or ERG mode. | Gross Misconduct. |
+| Removing Data Consent | Gross Misconduct. |
+| Use of “coffee stops”, "Watt Lock" or ERG mode. | Gross Misconduct. |
 
 ---
 
 ## <u>**Infringement Penalties:**</u>
 
-|  | **1st Violation** | **2nd Violation** | **3rd Violation** | **4th Violation** | **5th Violation** |
+|  | **1st<br>Violation** | **2nd<br>Violation** | **3rd<br>Violation** | **4th<br>Violation** | **5th<br>Violation** |
 | --- | --- | --- | --- | --- | --- |
 | **Trivial Infringement** | Race Penalty | Race Penalty | Race Penalty | Race Penalty | Race Penalty |
-| **Minor Infringement 
-#** Strikes within 180 day period. | Race Penalty | Race Penalty | 30 day suspension | Race Penalty | 60 day suspension *(alternating race penalty/ suspension thereafter)* |
-| **Major Infringement**
-# strikes all time | Race Penalty | 30 day suspension | 90 day suspension | Lifetime ban |  |
+| **Minor Infringement**<br># strikes within 180 day period. | Race Penalty | Race Penalty | 30 day suspension | Race Penalty | 60 day suspension *(alternating race penalty/ suspension thereafter)* |
+| **Major Infringement**<br># strikes all time | Race Penalty | 30 day suspension | 90 day suspension | Lifetime ban |  |
 | **Gross Misconduct** | Lifetime Ban |  |  |  |  |
-| [World Class/Equipment verification](https://app.notion.com/p/Rider-Performance-Verification-838c178e237b42e48b5b2c5908e67723?pvs=21) | Can race while pending verification for 7 days max (World Class), 6 days (Equipment verification). Then suspended until verified. |  |  |  |  |
+| [World Class/Equipment verification](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#world-class-ability) | Can race while pending verification for 7 days max (World Class), 6 days (Equipment verification). Then suspended until verified. |  |  |  |  |
 
 Where a rider has a combination of multiple minor and major infringements, race control will exercise discretion in applying appropriate sanctions.
 
@@ -347,7 +343,7 @@ There are two new pages "[Rungs](https://ladder.cycleracing.club/rungs)" and "[B
 
 # 🔁 Transfer Windows & ‘Seasons’
 
-The league is ongoing at all times and teams may join and leave at any time. There is no regular “seasons” as such however the ladder is broken up by transfer windows every 60 days during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.
+The league is ongoing at all times and teams may join and leave at any time. 'Seasons' are usually reserved for major changes to ladder setup, however the ladder is broken up by transfer windows every 60 days, during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.
 
 These windows will run for the last 7 days of February, April, June, August, October and December. 
 
@@ -992,348 +988,10 @@ Any shadow banned riders are auto-banned at Ladder, but even if they were not, i
 
 All notable changes to the rulebook will be documented here.
 
-## 23/10/26
+## TBC
 
-- Added [Header Note](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) regarding velo1 (legacy).
+- New rulebook published.
 
-## 15/10/26
-
-- Update to [8.2 - Data Consent](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) to reference linking Zwift account with Ladder.
-- Addition of ['How To Guide' > Linking / Unlinking with Zwift (new data consent)](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-- Additions made to [📷 Glossary](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 03/10/26
-
-- Update to layout of [📷 Glossary](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-- Minor update of wording to [🎲Rider Spot Check](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md)  and [🌍 World Class Verification Process](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md)  to clarify about use of a Rider’s Verification Portal..
-
-## 29/09/26
-
-- Update of wording to [How To > Rider Spot Check](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) (clarifying time limits when used for World Class Verification).
-
-## 16/09/26
-
-- Update to wording of [How To > Creating & Editing A Team](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 07/09/26
-
-- Update to [Rules > 5. Equipment & Technical Requirements](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) - update of wording, HRM and cadence now required for minimum 50% of a Ladder race.
-
-## 02/09/26
-
-- Update of [1.1.a - Eligibility](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) - from “majority of riders” to “minimum of 60%”.
-
-## 17/08/26
-
-- Addition of [3.4 - Time frame to Save Activity](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 04/06/26
-
-- Update to [6.1 - Bike & Gameplay Standards](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 30/05/26
-
-- Update to ['How To' Guides > Changing Race Event Details](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 27/05/26
-
-- Update to [4.3 Play On after being removed from Ladder](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-- Addition of [8.1.a and 8.1.b - Innacurate Data](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 14/05/26
-
-- Addition of [3.1.b - Friendly Races](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 30/04/26
-
-- Addition of [(Trial) Composite Teams](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 24/04/26
-
-- Update to wording of;
-[2.2 Team Composition & Roster Management](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) - regarding rank needed to race Ladder.
-[4.3 Challenge & Scheduling Rules](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) - regarding Forfeiting.
-
-## 02/04/26
-
-- Further updated [World Class verification process](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) to include cooling off period and clarify re-verification attempts.
-- [Infringement Penalties](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) table updated to reflect 7 day window to verify World Class verification.
-
-## 1/04/26
-
-- Refined [World Class verification process](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md), adding in game dual recording as verification option, reducing verification window to 7 days post race, and some other trivial process changes.
-
-## 26/03/26
-
-- Published new Race Book page.
-*Note - any historic links or rule numbers in the Changelog before this update won't work as they refer to old links / old page - but the text is still relevant. Rules are now grouped under relevant sub-headings, so are essentially "numbered" differently than the historic version.*
-
----
-
-## 16/03/26
-
-- Added rule for [Gender Category Assignment](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## 12/03/26
-
-- Minor additions (links) to [Playing onto the Ladder](https://app.notion.com/p/Playing-onto-the-ladder-3511a2a5fc4a4f07b66767e51f2dec91?pvs=21).
-- Added [Accepting / Creating an Auction Offer](https://app.notion.com/p/Accepting-Creating-an-Auction-Offer-321167d503d0805da4e6de833356ca73?pvs=21) to How To Guide.
-- Updated [Making A Challenge Manually (via Discord/Website)](https://app.notion.com/p/Making-A-Challenge-Manually-via-Discord-Website-05ad115f3cec48d08427fcbc0a68e7b0?pvs=21) in How To Guide.
-
-## 11/03/26
-
-- Added Auction Offer request symbols to [Glossary](https://app.notion.com/p/Glossary-3a6842aea3b046368a12208c6f9c3ce3?pvs=21).
-- [Infringment Penalties](https://app.notion.com/p/Sanctions-c9e2a2af62fd4874818e3c96fa3d291d?pvs=21) table updated - Private Data and Unusual Style downgraded from Major to Minor Infringements.
-
-## 10/03/26
-
-- [Infringment Penalties](https://app.notion.com/p/Sanctions-c9e2a2af62fd4874818e3c96fa3d291d?pvs=21) table reworded from “ban” to “suspensions”.
-- Update of [Rule #20](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) as per [Discord announcement.](https://discord.com/channels/928942633844355122/942736823615098890/1480863971182641234)
-
-## 22/02/26
-
-- Addition of [Rule #4 e)](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) and [22 a)](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21).
-
-## 21/02/26
-
-- Updated [Women's Ladder Rule Amendments](https://app.notion.com/p/Women-s-Ladder-Rule-Amendments-135167d503d0803c829fe80b88c76686?pvs=21) to include Play On.
-- Updated [Scoring & Results](https://app.notion.com/p/Scoring-Results-d32da076107649a88404f64d171855e0?pvs=21) with updated Bonus Drop procedure.
-
-## 19/02/26
-
-- Added “Watopian In Review” to [Glossary](https://app.notion.com/p/Glossary-3a6842aea3b046368a12208c6f9c3ce3?pvs=21).
-
-## 10/02/26
-
-- Addition of [Rule #33](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21).
-- [Offences table](https://app.notion.com/p/Sanctions-c9e2a2af62fd4874818e3c96fa3d291d?pvs=21) updated with Data Corrupt.
-
-## 09/02/26
-
-- Additional check step added to [Private Data](https://app.notion.com/p/Private-Data-35e5c76ef16c420f9e6730665be35686?pvs=21) .
-
-## 24/01/26
-
-- Additional wording added to [Adding / Changing a Team Admin](https://app.notion.com/p/How-to-change-add-a-Captain-or-Team-Admin-Vice-Captain-1a7167d503d080fab1dcd0ec56b8b7c0?pvs=21) .
-- Updated wording to [Rule #4](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) to reflect the removal of downgrading rank in-between Transfer Windows
-- Addition of [Rule #4d](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21).
-
-## 23/01/26
-
-- Addition of  [Rungs & Belts](https://app.notion.com/p/Rungs-Belts-2f1167d503d08073b844e00d438aec09?pvs=21) .
-
-## 04/12/25
-
-- Update of 90 day fallback rank to [Rule #2b](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) .
-- Update regarding use of Zwiftalizer to [Rider Spot Check](https://app.notion.com/p/Rider-Spot-Check-41998c50670d42ba9d2b8814b86da727?pvs=21) .
-- Addition of [Rule #32](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21) regarding multiple riders of a Club failing Verification & Performance review.
-
-## 24/11/25
-
-- Addition of “Steering Choice” to  [Making A Challenge](https://app.notion.com/p/Making-A-Challenge-Manually-via-Discord-Website-05ad115f3cec48d08427fcbc0a68e7b0?pvs=21) .
-
-## 27/10/25
-
-- Addition of rule #31.
-
-## 20/10/25
-
-- Updated World Class Verification Process, to include verification log file as well as race activity log file.
-
-## 21/09/25
-
-- Updated Playing Onto The Ladder instructions.
-
-## 26/08/25
-
-- Updated wording in Glossary regarding padlock icon.
-- Updated How To section on adding Team Admins (Vice Captains).
-
-## 13/08/25
-
-- Update to Glossary to remove legacy icons.
-- Sanctions table updated in line with new / recently updated rules.
-
-## 01/08/25
-
-- Addition of rule #30 regarding nullifying a reult on Zwift and/or [ZwiftRacing.app](http://ZwiftRacing.app) due to faulty equipment.
-
-## 23/07/25
-
-- Rules #1 + #2 updated to reflect change in Roster refresh / rider ranks at time of transfer windows, implemented at Transfer window at end of June 2025.
-
-## 21/3/25
-
-- Added sub-rule 2a regarding suspension for racing without ZR rank.
-- Added sub-rule 19a regarding team DQ if more than 5 team riders detected in event.
-- Added UTC as official time to rule 28.
-- Added rule 29 regarding violation disqualification for individual / teams.
-
-[Rules](https://app.notion.com/p/Rules-46b6a1299afa40088080a8fdf27e0a98?pvs=21)
-
-- Updated layout of [🚓 Sanctions](https://app.notion.com/p/Sanctions-c9e2a2af62fd4874818e3c96fa3d291d?pvs=21) for easier understanding and greater clarity.
-
-## 13/3/25
-
-- Updated [How to change/add a Captain or Vice Captain of a Ladder Team](https://app.notion.com/p/How-to-change-add-a-Captain-or-Team-Admin-Vice-Captain-1a7167d503d080fab1dcd0ec56b8b7c0?pvs=21) to include VC instructions.
-
-## 4/3/25
-
-- Updated [Changing race time](https://app.notion.com/p/Changing-race-event-details-14b167d503d080b7b88bc727ef877bb8?pvs=21) in How To section, to the updated [Changing race event details](https://app.notion.com/p/Changing-race-event-details-14b167d503d080b7b88bc727ef877bb8?pvs=21) now done via a Discord request.
-
-## 28/2/25
-
-- Added note in [▶ Playing onto the Ladder](https://app.notion.com/p/Playing-onto-the-ladder-3511a2a5fc4a4f07b66767e51f2dec91?pvs=21) for captains to include a link to team page when requesting to Play On.
-
-## 28/2/25
-
-- [How to report bugs 🐞](https://app.notion.com/p/How-to-report-bugs-1a8167d503d080ce923cea2b80a53b39?pvs=21)
-- [How to purge a refused Data Consent](https://app.notion.com/p/How-to-purge-a-refused-Data-Consent-1a8167d503d080f08799fa4ce5c64636?pvs=21)
-
-## 27/2/25
-
-- [How to change the Captain of a Ladder Team](https://app.notion.com/p/How-to-change-add-a-Captain-or-Team-Admin-Vice-Captain-1a7167d503d080fab1dcd0ec56b8b7c0?pvs=21)
-
-## 7/2/25
-
-- Updated PlayOn “added with loss”
-- Added note about fixture organisation with PlayOn
-
-## 7/2/25
-
-- Removed Joining>Women’s ladder page in preference to top level women’s page
-
-## 6/2/25
-
-- Added official language to the rules (28)
-
-## 9/1/25
-
-- Update of results processing schedule [Midnight or midday following results finalisation (whichever is soonest): Position change on Ladder and final results updated to ZR.app.](https://app.notion.com/p/Midnight-or-midday-following-results-finalisation-whichever-is-soonest-Position-change-on-Ladder--16e167d503d080a08f61c8f2332ead09?pvs=21)
-
-## 1/1/25
-
-- [The canonical source of results is always the Ladder website, this is the only source where we can completely guarantee complete accuracy. We do however push final results & DQ’s to [Zwiftracing](https://www.zwiftracing.app).app so these should also prove accurate in most cases. We do not update final results in Zwiftpower, and don't take any responsibility for how results appear there.](https://app.notion.com/p/The-canonical-source-of-results-is-always-the-Ladder-website-this-is-the-only-source-where-we-can-c-16e167d503d0803292f7fafb09bb36da?pvs=21)
-- [Results Schedule ](https://app.notion.com/p/Results-Schedule-16e167d503d08009a8c2fca31541d7b0?pvs=21)
-- [Rider Registration](https://app.notion.com/p/Rider-Registration-16e167d503d08039aa32dff86e19944f?pvs=21)
-
-## 15/11/24
-
-- Revised sanctions [](https://app.notion.com/p/b04e9dc41523479bbd306aafc0f007a1?pvs=21)
-
-## 8/11/24
-
-- Clarification on using a power meter with wheel on trainers [Where riders have access to multiple power meters, they must pair their direct drive smart trainer/ smartbike as the primary power source for in game measurement and must have a controllable trainer/bike connected if they have one. In an instance of a rider having a wheel on trainer, such as a Kickr Snap, they may use a secondary power meter. This allows Zwift to enforce a minimum 30% trainer difficulty. This will be checked through random[Rider Spot Check](https://app.notion.com/p/Rider-Spot-Check-41998c50670d42ba9d2b8814b86da727?pvs=21) ](https://app.notion.com/p/Where-riders-have-access-to-multiple-power-meters-they-must-pair-their-direct-drive-smart-trainer--ceeba6ecbfc84a80a8568e6b503e533f?pvs=21)
-- Clarified failed spot check as major infringement [](https://app.notion.com/p/b04e9dc41523479bbd306aafc0f007a1?pvs=21)
-- Clarified punishments for racing without rank [*Note that any rider who races in a ladder race without a ZR rank, and goes on to gain a rank from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a ranking”. In an instance where ZR correctly prevents this rider from gaining a rank, no suspension will be required.*](https://app.notion.com/p/Note-that-any-rider-who-races-in-a-ladder-race-without-a-ZR-rank-and-goes-on-to-gain-a-rank-from-th-563c5b0ca3354933b02f4bd173972220?pvs=21)
-
-## 7/11/24 (Women’s Ladder Details)
-
-- [On the Ladder site hit the [big button](https://ladder.cycleracing.club/teamRegister) at the top of the page to register your team, and at the same time verify your Discord account. Upon entering, each team will select one of the following categories:](https://app.notion.com/p/On-the-Ladder-site-hit-the-big-button-at-the-top-of-the-page-to-register-your-team-and-at-the-same--7512763b803149e783e1e38859747a3c?pvs=21)
-- [In women’s ladder, ranks Emerald (3) to Diamond (1) will be treated as a single rank ie. A rank 1 rider in a women's team may also race with a rank 5 rider. ](https://app.notion.com/p/In-women-s-ladder-ranks-Emerald-3-to-Diamond-1-will-be-treated-as-a-single-rank-ie-A-rank-1-ri-137167d503d0806aa06fcf26eeba8a36?pvs=21)
-- [Women's teams can challenge any team within range globally (mixed or women’s), but may only be challenged by other women's teams. 
-
-The preferred method of creating a challenge is using the “[availability auction](https://app.notion.com/p/Accepting-Creating-an-Auction-Offer-321167d503d0805da4e6de833356ca73?pvs=21)” feature, though the “old” way of organising is still summarised below as a backup.](https://app.notion.com/p/Women-s-teams-can-challenge-any-team-within-range-globally-mixed-or-women-s-but-may-only-be-chall-137167d503d08027969dd2e90367e123?pvs=21)
-- [The league is ongoing at all times and teams may join and leave at any time. There is no regular “seasons” as such however the ladder is broken up by transfer windows every 60 days during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.](https://app.notion.com/p/The-league-is-ongoing-at-all-times-and-teams-may-join-and-leave-at-any-time-There-is-no-regular-se-e2ec7847abb54bd688c3999d61f03031?pvs=21)
-
-## 1/10/24
-
-- Removal of 90d rank fallback [All teams are organised using [ZwiftRacing App](https://www.zwiftracing.app/reference/ranks) rankings. The ranking on the Ladder Site reflects the Max 30 day “open/mixed” ranking as of the beginning of each “transfer window”. All existing riders on a team will have their rank will be frozen as of that date. New riders who are added between transfer windows will have their rank saved when they are first added to a roster. Any further reference to “rank” on the site refers to this frozen rank.](https://app.notion.com/p/All-teams-are-organised-using-ZwiftRacing-App-rankings-The-ranking-on-the-Ladder-Site-reflects-the--3f12522f1708438d8c134f4d79de9412?pvs=21)
-- Clarification of what happens when a rider races without data consent [In order to compete, all riders must have [opted in](https://app.notion.com/p/ARCHIVED-Club-Ladder-Race-Book-b2dca4b01d9047bd85d5ecbe8f578570?pvs=21) to share their data with the Ladder system, in line with our [privacy policy](https://app.notion.com/p/e52174cb811d40d4a7b64d074619022a?pvs=21). Any rider who has not opted in will be barred from racing until they have done so. Captains must inform race control once a previously barred rider has opted in so we can readmit them.](https://app.notion.com/p/In-order-to-compete-all-riders-must-have-opted-in-to-share-their-data-with-the-Ladder-system-in-li-d3e8c6098eb2442fba2720370cf9dc7b?pvs=21)
-
-## 10/9/24
-
-- [WhatsApp Image 2024-09-10 at 14.32.00_681b39ce.jpg](https://app.notion.com/p/6728c6beacae4cb0935168ce1f7a4fd9?pvs=21)
-
-## 6/9/24
-
-- [Rider Spot Check](https://app.notion.com/p/Rider-Spot-Check-41998c50670d42ba9d2b8814b86da727?pvs=21)
-
-## 1/9/24
-
-- [Where riders have access to multiple power meters, they must pair their direct drive smart trainer/ smartbike as the primary power source for in game measurement and must have a controllable trainer/bike connected if they have one. In an instance of a rider having a wheel on trainer, such as a Kickr Snap, they may use a secondary power meter. This allows Zwift to enforce a minimum 30% trainer difficulty. This will be checked through random[Rider Spot Check](https://app.notion.com/p/Rider-Spot-Check-41998c50670d42ba9d2b8814b86da727?pvs=21) ](https://app.notion.com/p/Where-riders-have-access-to-multiple-power-meters-they-must-pair-their-direct-drive-smart-trainer--ceeba6ecbfc84a80a8568e6b503e533f?pvs=21)
-- [](https://app.notion.com/p/b04e9dc41523479bbd306aafc0f007a1?pvs=21) Move of Sticky Watts to minor offence.
-- [DQ for sticky watts is automatic, and is for the most part an “open and shut case” as the system is accurate in spotting this. The main instances of false positives is where riders have significant device or equipment issues which cause the sticky watts. However as Sticky Watts and Equipment Issues both constitute a minor infringement, race control do not investigate these further as both are punished the same. As a captain you may well want to investigate the issue with your rider to help resolve future issues. Please see the guide here [Sticky Watt/Equipment Analysis](https://app.notion.com/p/Sticky-Watt-Equipment-Analysis-8129853b215f4fc3ac13e9d1d2351bcb?pvs=21) ](https://app.notion.com/p/DQ-for-sticky-watts-is-automatic-and-is-for-the-most-part-an-open-and-shut-case-as-the-system-is--132c1d6d6ee2447d9875d96d3142f04e?pvs=21)
-- [Sticky Watt/Equipment Analysis](https://app.notion.com/p/Sticky-Watt-Equipment-Analysis-8129853b215f4fc3ac13e9d1d2351bcb?pvs=21)
-
-## 2/8/24
-
-- Clarification of “tie” rules [In the event of a “tie”, the result will be judged to be a failure to win by the challenging team (loss) and a successful defence by the challenged team (win).](https://app.notion.com/p/In-the-event-of-a-tie-the-result-will-be-judged-to-be-a-failure-to-win-by-the-challenging-team-l-9291e1d1a6304e02a4adb09149ce7d2e?pvs=21)
-- 50% points clarification [In an instance where the team fielded in any one race has a rank spread of greater than 3 ranks, the highest ranked riders in the squad will score 50% points (rounded up). *Eg. In the example of a team with riders Emerald down to Amethyst, if rider(s) promoted to Ruby enter a race with team mates at Amethyst level, the Ruby rider(s) will score 50% points.*](https://app.notion.com/p/In-an-instance-where-the-team-fielded-in-any-one-race-has-a-rank-spread-of-greater-than-3-ranks-the-9b20b6578dda418387dff9b7087a07bd?pvs=21)
-
-## 10/7/24
-
-- Added details of availability auction feature.
-    
-    [Accepting A Challenge](https://app.notion.com/p/Accepting-A-Challenge-f7f566b809c2497181b610c0d8edda10?pvs=21)
-    
-    [<u>Making A Challenge Manually (via Discord/Website)</u>](https://app.notion.com/p/Making-A-Challenge-Manually-via-Discord-Website-05ad115f3cec48d08427fcbc0a68e7b0?pvs=21)
-    
-
-## 3/7/24
-
-- [In order to compete, all riders must have [opted in](https://app.notion.com/p/ARCHIVED-Club-Ladder-Race-Book-b2dca4b01d9047bd85d5ecbe8f578570?pvs=21) to share their data with the Ladder system, in line with our [privacy policy](https://app.notion.com/p/e52174cb811d40d4a7b64d074619022a?pvs=21). Any rider who has not opted in will be barred from racing until they have done so. Captains must inform race control once a previously barred rider has opted in so we can readmit them.](https://app.notion.com/p/In-order-to-compete-all-riders-must-have-opted-in-to-share-their-data-with-the-Ladder-system-in-li-d3e8c6098eb2442fba2720370cf9dc7b?pvs=21)
-
-## 2/7/24
-
-- [Riders must have a valid ZR 30 day rank to be added to a roster and must have a valid 30 day rank to remain on a roster during a transfer window.](https://app.notion.com/p/Riders-must-have-a-valid-ZR-30-day-rank-to-be-added-to-a-roster-and-must-have-a-valid-30-day-rank-to-9af063b5242349e4a2bb9f208f579fd4?pvs=21)
-
-## 14/6/24
-
-- [Teams can only reject challenges for "good reason", generally this would be because they can't get a team together for the proposed time, or they already have a challenge agreed, we would also consider a situation where a team has only been challenged and not made a challenge in a number of weeks to be good reason. Teams who reject/forfeit 2 or more races in any 2 month period without good reason will be removed from the ladder and have to play on again.](https://app.notion.com/p/Teams-can-only-reject-challenges-for-good-reason-generally-this-would-be-because-they-can-t-get-a-b09fd1029bf44331bea501d02fc68e74?pvs=21)
-
-## 16/5/24
-
-- [If you fail to win you will be added some number of places below the team you challenged. Work your way back up!](https://app.notion.com/p/If-you-fail-to-win-you-will-be-added-some-number-of-places-below-the-team-you-challenged-Work-your--af784d79d2d74b89a02a8f958a196dfe?pvs=21)
-
-## 10/5/24
-
-- Clarification of “season” v “transfer windows” [The league is ongoing at all times and teams may join and leave at any time. There is no regular “seasons” as such however the ladder is broken up by transfer windows every 60 days during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.](https://app.notion.com/p/The-league-is-ongoing-at-all-times-and-teams-may-join-and-leave-at-any-time-There-is-no-regular-se-e2ec7847abb54bd688c3999d61f03031?pvs=21) & [On a more infrequent basis we will need to move to a new season for admin purposes, this will most likely happen at September of every year but may happen at other ad hoc times depending on admin requirements.](https://app.notion.com/p/On-a-more-infrequent-basis-we-will-need-to-move-to-a-new-season-for-admin-purposes-this-will-most-l-fe2da86318c4437baafac0ab264157ae?pvs=21)
-- Clarification on when a rider may or may not be moved or removed in season [Other than the cases noted above (rank spread, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.](https://app.notion.com/p/Other-than-the-cases-noted-above-rank-spread-inactive-rider-riders-may-not-be-removed-or-transfer-38d6b71efbbb488ca8b14bd9e5afdca4?pvs=21)
-- Details about planned women’s ladder [‣](https://app.notion.com/p/8b2a5dd589cb4b37963ef5e9d19c8082?pvs=21)
-- [Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely, however note this does not free up a roster space if done outwith a transfer window.](https://app.notion.com/p/Once-a-rider-has-been-inactive-on-a-roster-for-30-days-they-become-a-free-agent-who-can-be-moved-fre-204839e9799c4d9ab07118667cfec532?pvs=21)
-
-## 3/5/24
-
-- [*Note that any rider who races in a ladder race without a ZR rank, and goes on to gain a rank from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a ranking”. In an instance where ZR correctly prevents this rider from gaining a rank, no suspension will be required.*](https://app.notion.com/p/Note-that-any-rider-who-races-in-a-ladder-race-without-a-ZR-rank-and-goes-on-to-gain-a-rank-from-th-563c5b0ca3354933b02f4bd173972220?pvs=21)
-- Publication of world class verification requirements (previously provided privately to captains)
-
-[World Class Verification Process](https://app.notion.com/p/World-Class-Verification-Process-ce12116f0a64438ba6b9a3cbd7537947?pvs=21)
-
-## 24/4/24
-
-- Removed exception for Diamond riders to have 30D rank. [Riders must have a valid ZR 30 day rank to be added to a roster and must have a valid 30 day rank to remain on a roster during a transfer window.](https://app.notion.com/p/Riders-must-have-a-valid-ZR-30-day-rank-to-be-added-to-a-roster-and-must-have-a-valid-30-day-rank-to-9af063b5242349e4a2bb9f208f579fd4?pvs=21)
-- Adjustment to ban lengths (not major infringement length was adjusted again after initial change, now correct). [Sanctions](https://app.notion.com/p/Sanctions-c9e2a2af62fd4874818e3c96fa3d291d?pvs=21)
-
-## 8/4/24
-
-- Clarification of event request turnaround. [Zwift events team work EMEA working hours (Monday-Friday 9-5). You should allow up to 24 hours on a  normal workday for event creation, though normally it will be done much quicker. Remember if you request an event over a weekend, you should still allow 24 hours on a workday (ie. 24 hours starting Monday 9am). If you request outwith EMEA working hours you may receive a generic response from out of hours support, you can ignore this. Note, they will use your email from the Ladder system so please make sure that it is correct, and that you are receiving email from the ladder email domain (check your spam!).](https://app.notion.com/p/Zwift-events-team-work-EMEA-working-hours-Monday-Friday-9-5-You-should-allow-up-to-24-hours-on-a--991d819a40384c0c880f91c1833b6cad?pvs=21)
-
-## 22/2/2024
-
-- More detail added to rank spread rule. [In a team covering 3 ranks, the allowed spread of the team is the middle (median average) rider in a squad +- 1 rank, however if enough riders within a squad upgrade rank beyond this 3 rank spread, and the captain chooses not to transfer them, this will change the team middle (median average), and therefore the riders that can be added to the squad. Essentially if enough of your riders rank up, the allowed rank of new riders will move upwards. To make this easy, the team dashboard will always visualise the rider ranks that may currently be added to the roster.](https://app.notion.com/p/In-a-team-covering-3-ranks-the-allowed-spread-of-the-team-is-the-middle-median-average-rider-in-a-6f7d79e9082d42b3ad37abb53d000cf2?pvs=21)
-- Further detail added to creating and editing teams to cover removing riders. [Creating & editing a team](https://app.notion.com/p/Creating-editing-a-team-0241f61596144caa92e1a715fecf6e67?pvs=21)
-- [Backup Clubs Process](https://app.notion.com/p/Backup-Clubs-Process-5f1084e746dd4a58ae804296dc862b60?pvs=21)
-
-## 21/02/2024
-
-- [Anyone under investigation by ZADA or another recognised sports governing body will be suspended from ladder competition until such time that any investigation is complete. Anyone then sanctioned by ZADA or an official body will be banned for life from ladder competition, unless that body later finds their ban to have been made in error.](https://app.notion.com/p/Anyone-under-investigation-by-ZADA-or-another-recognised-sports-governing-body-will-be-suspended-fro-a9e0fd18a4324e80a40025bd8fde68fc?pvs=21)
-- [Penalties will be escalated on a # strikes in a given period. However we do reserve the right to impose a longer suspension or lifetime ban immediately for anything race control deem gross misconduct.](https://app.notion.com/p/Penalties-will-be-escalated-on-a-strikes-in-a-given-period-However-we-do-reserve-the-right-to-imp-4284b359f7374f099205e4ad422d7c78?pvs=21)
-- Details of verification and performance reviews.
-
-[Rider Performance & Verification ](https://app.notion.com/p/Rider-Performance-Verification-838c178e237b42e48b5b2c5908e67723?pvs=21)
-
-- Removed requirement for choosing race category at sign up. [All teams are organised using [ZwiftRacing App](https://www.zwiftracing.app/reference/ranks) rankings. The ranking on the Ladder Site reflects the Max 30 day “open/mixed” ranking as of the beginning of each “transfer window”. All existing riders on a team will have their rank will be frozen as of that date. New riders who are added between transfer windows will have their rank saved when they are first added to a roster. Any further reference to “rank” on the site refers to this frozen rank.](https://app.notion.com/p/All-teams-are-organised-using-ZwiftRacing-App-rankings-The-ranking-on-the-Ladder-Site-reflects-the--3f12522f1708438d8c134f4d79de9412?pvs=21)
-- Removed system for licensing a rider once season starts. [Riders must have a valid ZR 30 day rank to be added to a roster and must have a valid 30 day rank to remain on a roster during a transfer window.](https://app.notion.com/p/Riders-must-have-a-valid-ZR-30-day-rank-to-be-added-to-a-roster-and-must-have-a-valid-30-day-rank-to-9af063b5242349e4a2bb9f208f579fd4?pvs=21)
-- Changed rank spread to 3 ranks. [All riders in a squad must be spread over no more than 3 ranks eg. an Emerald squad may comprise riders from Emerald down to Amethyst level. This is the case even if a team is competing cross division, eg. if an Emerald team has challenged a Ruby team to a race.](https://app.notion.com/p/All-riders-in-a-squad-must-be-spread-over-no-more-than-3-ranks-eg-an-Emerald-squad-may-comprise-rid-479e99a262ab40a7ba85042a1b1a1fa7?pvs=21)
-- [In an instance where riders in a squad upgrade beyond the 3 rank spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. ](https://app.notion.com/p/In-an-instance-where-riders-in-a-squad-upgrade-beyond-the-3-rank-spread-they-may-remain-in-that-squ-fd1d061bc9d2464ab81ad8ab24cd9e33?pvs=21)
-- [](https://app.notion.com/p/e0e08af27f6f4b1e8f6194b9014c5251?pvs=21)
-
-[Transfer Windows / Seasons](https://app.notion.com/p/Transfer-Windows-Seasons-b23507d261754c2780866628524c14bc?pvs=21)
-
-[Private Data](https://app.notion.com/p/Private-Data-35e5c76ef16c420f9e6730665be35686?pvs=21)
-
-.
 
 # Privacy & Cookie Policy
 
@@ -1350,9 +1008,9 @@ We collect or use the following information to create race results and undertake
 - Names and contact details, provided to us when you create an account.
 - Upon completion of each ladder race we collect account profile information, race performance and basic biometric information as made available on your public profile on Zwift, Zwiftpower & ZwiftRacing.
 
-## Lawful bases
+## Lawful basis
 
-Our lawful bases for collecting or using personal information to create race results and undertake performance verification are:
+Our lawful basis for collecting or using personal information to create race results and undertake performance verification are:
 
 - Your explicit consent prior to participating in any event.
 
