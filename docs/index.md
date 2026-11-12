@@ -8,323 +8,11 @@ Teams are bound by an allowed range in rider zMAP value as we believe it reflect
 (Historically teams were bound by ZwiftRacing.app vELO1 rankings, rather than relying on legacy Zwiftpower categories.)
 The league mixes all teams, all rankings, together in one league, allowing for a strong team at the upper end of one ranking level to challenge themselves against lower ranked teams of the ranking level above.
 
-# 🆕 Joining The Ladder Competition
-
-Teams can sign up to participate in the league at any time with new teams able to “Play On” to the ladder at a time that suits them (though we may cap numbers at times so might need to operate a waiting list system).
-
-## Registering A Team
-
-After you have read through the race book and are happy that you meet all requirements for entry, you are ready to enter. Teams may join the ladder at any time, though on rare occasions we may pause or delay entry due to race control workload or league capacity, however if you can please complete all joining steps and race control will advise of any delay when you get to the “playing on” step.
-
-1. Visit the [ladder site](https://ladder.cycleracing.club/summary) to register yourself as a captain (if you have not done so already).
-2. Once you have received your verification email (check spam if you don’t receive it) and confirmed your email address, you are ready to register your team.
-3. On the Ladder site hit the [big button](https://ladder.cycleracing.club/teamRegister) at the top of the page to register your team, and at the same time verify your Discord account. Upon entering, each team will select one of the following categories:
-- **Mixed**: Part of the mixed ladder, with a choice of 3 regions.
-- **Women’s**: Restricted to only female riders (denoted by your Zwift account gender). Can challenge any team within range globally, but may only be challenged by other women's teams. Note: Presently only one women's ladder exists, nominally EMEA, however teams from any region may enter, on the expectation that most teams will prefer emea time slots.
- 
- <img width="1906" height="589" alt="image 1" src="https://github.com/user-attachments/assets/367b694a-7e95-4c4e-baf8-6415ab8d3f72" />
- 
-4. Ensure you have joined the [Ladder Captains Discord](https://discord.gg/WcAFJaS4pr) and followed all onboarding instructions to gain access to the necessary channels.
-5. Once all these steps are complete, and you are ready to start racing, you can follow the steps in [Playing on to the Ladder](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-
-## Playing on to the Ladder
-
-After teams have registered their team, they may “play on” to the ladder at any time. This allows teams to “earn” their way onto the ladder at the right level for them by challenging other teams already on the ladder. Please follow these steps.
-
-1. Ensure that you have a minimum of 5 riders registered on your roster.
-2. All riders on the roster must be Zwift-linked and within the permitted zMAP team-spread-range in order to be approved for Play On (see [Rules](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#%E2%80%8D%EF%B8%8F-rules)).
-3. Create a post in [#play-on](https://discord.com/channels/928942633844355122/1214340115372179548), include a URL link to your team page in your message, and make sure to tag @Club Ladder Race Committee informing them that you are ready to enter the ladder.
-    1. Note that if you are a *returning* team , you may require a roster refresh first to address any issues - please tag @Club Ladder Race Committee to do this.
-4. Once Race Committee have approved you will be allocated a number of suitable opponents from the ladder. Pick your opponents carefully as win or lose you will be placed around these opponents in the ladder.
-    1. See [here](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#accepting--creating-an-auction-offer) for the preferred method of accepting an opposition’s auction offer or creating your own.
-    2. See [here](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#making-a-challenge-manually-via-discordwebsite) for creating a Challenge manually via Discord communication with an opposing Captain.
-5. If you win your play on race, you’ll enter the ladder above the team you just played.
-6. If you fail to win you will be added some number of places below the team you challenged. Work your way back up!
-7. When in PlayOn status, your team will only be able to arrange one race. 
-This is because when a team is on the ladder there are only a specific set of teams that you will be eligible to race against.  Allowing multiple PlayOn fixtures would mean that you could race against teams outside this normal allowance.
-
-Note: All play on races take place under identical rules to all other ladder races, including any special events or themes that might be in place at that time.
-
-# 👨‍⚖️ Rules
-
-The ladder system is automated to implement a number of these rules, and it is the responsibility of the captains of teams in each race to monitor adherence to the rules, the race committee will not proactively monitor all races.
-
-Due to the automated nature of our systems and large volume of races happening, it is simply not possible to manually override rules, so if the computer says no, that's the final word. Any captain who still wishes to raise an issue with any race can do so with the race committee via [#ladder-captains-race-control](https://discordapp.com/channels/928942633844355122/941419628922548274) Discord.
-
-We have a zero tolerance policy where rules have been broken and will not hesitate to cancel race results or remove/relegate riders or teams from the league entirely where rules have been broken.
-
-The race committee decision is final and there is no formal appeals process.
-
-## 1. Eligibility
-The league has a greater onus than normal on captains/managers of individual teams taking on organisation of individual events, in order to take part each team must have:
-1. Clubs, teams and riders must be of good standing within the Zwift community with no history of cheating or other controversy. It is expected that a minimum of 60% of riders within a team are members of the club they are representing. All applications for participation will be reviewed by the race committee, who reserve the right to reject applications they feel will not make a positive contribution to the series.
-2. (Trial) Composite Teams (Spring 2026):<br>As a temporary trial, teams composed of riders from more than one club may be permitted to participate. Composite teams are not self-administered; they must be created and configured directly by a Moderator.<br>Participation under this arrangement is conditional on Moderator approval and will remain under review, after which it may be made permanent, extended, or discontinued.
-3. An appointed captain per team to be the main point of contact.
-4. Created an account on Discord and [joined the series server](https://discord.gg/NZuedrjf9V) with your team name and captain clearly identified in your Discord server name. (eg. Douglas [Captain Electric Spirit Co. Picklebacks]).
-5. Created a Captain/VC account on the [Ladder wesbite](https://ladder.cycleracing.club/).
-6. Familiarised themselves with the entire Rulebook and the roster rankings system.
-7. Commit to their team racing minimum 1 race every 3 weeks.
-8. Commit to abide by the rules set out within this document.
-
-## 2. Team Composition & Roster Management
-
-1. All teams are organised using a rider’s Zwift [zMAP](https://zwiftinsider.com/fitness-metrics-web/) value.<br>“*zMAP estimates your Maximal Aerobic Power using your best short-duration power efforts from the last 90 days*” - [Zwift](https://support.zwift.com/en_us/fitness-metrics-faq-Sk0Cebzti).<br>The rider’s zMAP value on the Ladder Site reflects the value provided to us directly from Zwift, as of the beginning of each “transfer window”. All existing riders on a team will have their zMAP value frozen as of that date. New riders who are added between transfer windows will have their zMAP value saved when they are first added to a roster. Any further reference to “zMAP” on the site refers to this frozen rank.
-     1. During normal operation of the ladder (between transfer windows) a rider will not be able to drop down in zMAP value.
-     2. If a rider increases zMAP value, that new value will be reflected on the ladder site, and used until the following Transfer Window reset.
-3. Riders must have a valid zMAP value to take part in ladder. This is based upon the rider’s Zwift zMAP value as of the first day of each Transfer Window or Season Reset.
-Any rider without a zMAP value in Zwift cannot be added to a roster and, if already on a roster, must be removed by the end of the transfer window.
-    1. Note that any rider who races in a ladder race without a zMAP value, and goes on to gain a zMAP value from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a zMAP value”.
-4. A team must not have a zMAP spread of greater than 1.2.
-   a. There is a zMAP ‘floor’ and ‘ceiling’;
-    - Any rider with zMAP under 2.5 will be treated as 2.5 for the purposes of all spread rules.
-    - Any rider with zMAP over 5.8 will be treated as 5.8 for the purposes of all spread rules.
-5. In an instance where riders in a squad upgrade beyond the permitted zMAP spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. They are referred to as ‘Outliers’.
-    1. Any rider upgrading beyond the permitted zMAP spread and becoming an Outlier(s) of the team, may choose to transfer to a different team immediately, even if outwith a transfer window.
-       Or, captains can choose to keep upgraders, and transfer the lower ranked Outlier(s) members to make their spread compliant if they wish to do so, even if outwith a transfer window.
-       - (To do this - the Captain of the new ‘target’ team for the Outlier, can add them to to their roster and the system will allow the transfer - the rider does not need "released" frst.)
-    3. In an instance where the team fielded in any one race has a spread of greater than the permitted zMAP spread, the highest “ranked” riders that breach the spread for the squad will score 50% points (rounded up).
-    *E.g. In the example of a team with riders ranging from 3.0 zMAP to 4.3 zMAP, if rider(s) promoted to 4.3 zMAP enter a race with team mates at 3.0 zMAP level, the 4.3 zMAP rider(s) will score 50% points.*
-    5. Any readjustment of zMAP (by reset request to Zwift for example) where the zMAP drops >1.0, will not be entitled to a Ladder zMAP reset until the next Transfer Window.
-6. Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely.
-7. There is a limit of 15 riders per roster.
-8. Other than the cases noted above (zMAP spread Outlier, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
-9. Riders may be active for one team only, irrespective of sub league. Therefore if a club is entering multiple teams of the same rank you must use a different roster for each team.
-
-## 3. Race Format & Participation
-
-1. Teams for each race consist of 5 riders, you may enter with fewer riders but you’ll score less points.
-    1. In an instance where a team cannot field a full team, we would encourage them to have a conversation with an opposing captain to see if racing with less than 5 might be agreeable, however this might not always be possible, especially with short notice until race time (we’d consider anything within 24 hours of race time to be short notice), in which case racing with mismatched numbers is also possible.
-    2. Friendly Races
-    If fewer than 3 riders from either team are recorded as starters, the race is automatically classified as a Friendly and the following conditions apply:
-        - The result is still recorded and displayed on the results page, marked as Friendly;
-        - No ladder position changes will be applied to either team as a result of the race;
-        - No belt transfers will occur;
-        - Disqualifications issued during the race remain valid and on the rider's record.
-2. Teams are not permitted to race twice in a period of +/- 12 hours of any race they are participating in.
-3. A maximum of 5 riders per team are allowed to enter the race and pen. Should anyone wish to DS they should do so using [fan view](https://zwiftinsider.com/race-spectating/).
-    1. If the system detects more than 5 riders from one team then the team will be disqualified. There will be no exceptions.
-4. To ensure correct processing of results everyone is encouraged to save and leave the event after completion - and by 2.5 hours since event start at the very latest.
-All riders must save their Club Ladder race activities to Zwift. Deletion of the activity containing the race data will result in DQ and persistent DQ will result in suspension from the Ladder.
-5. If a team has not competed in a race in the last 21 days they will become “zombied” in the league and teams will be able to skip them in their challenge range (eg. if you have 2 Zombie teams within your 7 team challenge range, you can then challenge up to 9 teams above you). Teams who are inactive for 35 days or more will be removed entirely.
-
-## 4. Challenge & Scheduling Rules
-
-1. Challenging teams will select at least one powerup or a maximum of two powerups for use in their race.
-    1. For a trial period as of 22/10/2026, the first Power-Ups will be assigned to all riders in the Race Pen (other power-ups will still function as before, you just also start with one).
-3. All riders in each team must wear the same jersey and include their team name against their in game name. The challenging team have first choice of jersey where 2 teams normally wear the same kit.
-4. Teams can only reject challenges for "good reason", generally this would be because they can't get a team together for the proposed time, or they already have a challenge agreed, we would also consider a situation where a team has only been challenged and not made a challenge in a number of weeks to be good reason. 
-Teams who reject challenges without good reason, or who forfeit 2 or more races in any 2 month period, will be removed from the ladder. Teams removed in this way must wait a minimum of 7 days before requesting to Play On again.
-    1. Regarding the policing of rejecting challenges without "good reason" ;
-        - The Ladder's preferred way of organising races is to create [Auction Offers](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#accepting--creating-an-auction-offer) for your own team, and to accept Open Auction Offers available to you from surrounding teams.
-        - We would define a “direct challenge” as a 1:1 availability enquiry between Captains/VCs of two (and only two) teams. Once the “challenge” has been thrown down, all effort should be made between the two captains to find a mutual agreeable date and time for a race. Ignoring the request, insisting on unworkable dates/times, or otherwise avoiding a race is then subject to sanction.
-        - Mass tags are not challenges but general enquiries about availability, and just like a higher team inviting a team below to challenge are not obligatory for the receiving parties.
-        - Ladder Committee cannot police all Discord discussions and offers to race where multiple captains are "mass tagged" , but can police 1:1 challenges if rejected without good reason.
-5. Captains must raise any issues with race control within 24 hours of race finish, after this time no changes will be possible.
-
-## 5. Equipment & Technical Requirements
-
-### 5.1. Mandatory Hardware & Setup.
-
-1. **Controllable Resistance Required:** All riders must use a Smart Bike, Direct-Drive Smart Trainer, or Smart Wheel-On Trainer capable of dynamic resistance control (Trainer Difficulty). Dumb trainers, standard spin bikes, and non-controllable exercise bikes are strictly prohibited.
-2. **Primary Power Source:** Riders must pair their Smart Bike or Direct-Drive trainer as the primary power and resistance source in Zwift.
-3. **External Power Meters (Exceptions Only):** External power meters (e.g., power pedals or crank meters) are strongly discouraged. They are permitted only on controllable smart trainers (such as wheel-on units) that do not natively report accurate power or cadence.
-4. **Estimated Power Banned:** Estimated power (e.g., ZPower, PowerPod) is completely banned.
-5. **Mandatory Metrics:** Cadence and Heart rate must be recorded in game, for minimum 50% of any Ladder race.
-External or secondary log recordings cannot be accepted as substitute
-
-### 5.2. Verification & Account Linking
-
-1. **Mandatory Account Linking:** All riders must connect their Zwift account to their Ladder account and maintain an active authorisation link to be eligible to race. Unlinked riders will not receive points or results.
-Riders who participate in races unlinked to Zwift will receive a short 10 day suspension.
-2. **Spot Checks:** The Committee reserves the right to conduct random Rider Spot Checks to audit hardware pairing, data streams, and trainer difficulty compliance.
-
-### 5.3 Faulty Equipment & Infringements
-
-1. **In-Race Faults:** If a rider knowingly experiences miscalibration, unrealistic power, or faulty telemetry during a race, they must message the field and immediately exit the event.
-    1. **Individual Impact:** Continuing to race on faulty hardware that affects an individual result incurs a DQ from the event and a 10-day ban.
-    2. **Peloton/Tactical Impact:** Continuing to race on faulty hardware that alters the overall race dynamic, results in a 30 day ban for the rider and a race DQ.
-    The whole team also receive DQ if they were victorious.
-2.  **Nullified Results:** If a rider requests a result to be annulled on Zwift and/or ZwiftRacing.app due to hardware failure, the team captain must notify the Ladder Race Committee within 24 hours to process an equipment DQ on the Ladder result. Failure to report within 24 hours results in a retrospective DQ and a 30-day ban (classified as a major infringement).
-
-## 6. Bike & Gameplay Standards
-
-1. Riders have a free bike choice for any event. For the avoidance of doubt this excludes handcycles or Trike.
-2. When riders encounter lapped or dropped riders, the dropped or lapped riders are not restricted in any way. They may seek to gain an advantage from or offer an advantage to the passing riders.
-3. Unconventional pedalling techniques which may manipulate the game or trainers are prohibited, these include but are not limited to techniques such as “sticky watts”, “micro bursts” & “sprint coast technique”. More info is available in [Rider Performance, Spot Checks & Verification](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#-rider-performance-spot-checks--verification).
-
-## 7. Performance Integrity & Anti-Doping
-
-1. Anyone under investigation by ZADA or another recognised sports governing body will be suspended from ladder competition until such time that any investigation is complete. Anyone then sanctioned by ZADA or an official body will be banned for life from ladder competition, unless that body later finds their ban to have been made in error.
-2. The list of rules is non exhaustive, the race committee reserves the right to remove riders for any performance deemed suspicious, unnatural or exhibiting “unusual” technique that may (knowingly or unknowingly) manipulate the game performance, or that is not reflective of riding a bike in real life.
-3. Club Ladder is by application from Clubs of good standing. Any Club that has multiple roster members failing [Rider Performance, Spot Checks & Verification](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#-rider-performance-spot-checks--verification) within any 6 month period may be reviewed by Club Ladder Race Committee as to their future eligibility to compete on the Ladder.
-This does include if riders are on separate ladder teams but race for the same Club, and is to ensure continued Standards of [Eligibility](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#1-eligibility) .
-
-## 8. Data & Administrative Requirements
-
-1. All riders and teams must keep their data and information accurate and up to date, particularly where it impacts performance.
-    1. If inaccurate data (weight, height, FTP etc) was used during a Ladder race, that leads to a rider deciding to have Zwift and/or ZwiftRacing.app to nullify the effort/result, it is the captain's responsibility to notify the Ladder Race Committee immediately to have DQ instated within 24 hours of the Ladder race, for Inaccurate Data.
-    2. A weight verification is very different from the Zwift compMetrics weight. If a rider has manipulaster their Zwift compMetrics weight (intentionally or by accident e.g. by account sharing), that rider will be temporarily suspended from racing Ladder and not be eligible until such a time as Zwift reports a more correct value for them.
-       e.g. If you account share and someone sets a PB and your Zwift weight gets “stuck” 30kg lighter than you verify at - you are suspended until you have Zwift reset it correctly.
-    4. If a rider knowingly participates in a race with inaccurate data (weight, height, FTP etc), they should notify the race via message, and immediately leave the event.
-    If they continue in the race and it primarily impacts the performance of an individual rider only, the rider in question will be disqualified from that individual race result, and the rider will receive a 10 day ban - regardless of their individual finishing position.
-    If they continue in the race and it primarily impacts the performance of the team as a whole, and may have impacted the whole race dynamic, then the whole team will be disqualified if they won, or only the rider disqualified if the team lost, plus the rider will receive a 30 day ban in either result outcome.
-2. In order to compete, all riders must have opted in to share their data with the Ladder system, in line with our [privacy policy](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#privacy--cookie-policy). This is done by going to [https://ladder.cycleracing.club](https://ladder.cycleracing.club/) and clicking the “Login with Zwift” button to link your Zwift account to Ladder. Any rider who has not linked their account, or who later unlinks their Zwift account, will be barred from racing until they have done so.
-3. Gender Category Assignment.
-For the purposes of category eligibility and race registration, this series adopts the gender designation recorded on a participant's Zwift account as the sole and definitive basis for category assignment.
-We do not have the ability, authority, or remit to verify, challenge, or assess any rider's gender beyond the designation held by Zwift. Any requests to amend your own in-game gender, or any queries regarding participants gender category must be directed to [Zwift](https://www.zwift.com/uk/contact-us) directly, as this falls entirely outside the jurisdiction of the Ladder series and its organisers
-4. The official language of Club Ladder is English. The official timezone of Club Ladder is UTC.
-
-## 9. Penalties & Enforcement
-
-1. Where a violation has been committed that primarily impacts the performance of an <u>individual</u> rider only, the rider in question will be disqualified from that individual race result.
-2. Trespass riders are riders who are not on a team roster before the race starts.
-The whole team will be disqualified if they won, or only the rider disqualified if the team lost, and in both instances the Trespass rider will receive a 10 day ban.
-
-## 10. Women’s Ladder Rule Amendments
-
-This is a temporary information page relating to women’s ladder. Women’s ladder operates to a set of rules broadly similar to the mixed ladder, therefore all rules and guidance can be found in the main rule book.
-
-### Structure
-
-Women’s ladders are structured as part of the overall ladder structure, meaning they can choose to participate as part of the wider regional or global ladder should they wish to.
-
-Upon entering, each team will select one of the following categories:
-
-- **Mixed**: Part of the Mixed ladder.
-- **Women’s**: Can challenge any team within range globally, but may only be challenged by other Women's teams.
-  
-<img width="500" height="350" alt="Untitled" src="https://github.com/user-attachments/assets/bd4062aa-a88d-4dd2-a3b9-0baa4a645534" />
-
-Note: Presently only one Women's ladder exists, nominally EMEA, however teams from any region may enter, on the expectation that most teams will prefer EMEA time slots.
-
-### Rule Differences
-
-- Teams can toggle between “mixed” and, “women’s team” during a transfer window only.
-- Once active, a Women's team can challenge any team within range globally (Mixed or Women’s), but may only be challenged by other Women's teams.
-
-# 🚓 Sanctions
-
-Penalties will be escalated on a # strikes in a given period. However we do reserve the right to impose a longer suspension or lifetime ban immediately for anything race control deem gross misconduct.
-
-Riders will only be re-admitted after a ban if Race Committee is confident the rider has resolved their issues.
-
-## <u>**Offences:**</u>
-
-| **Description** | **Infringement level** |
-| --- | --- |
-| All riders must have a valid zMAP in order to race. | 10 day suspension |
-| All riders must be Zwift linked in order to race. | 10 day suspension |
-|  |  |  |
-| Data Corrupt. | Trivial Infringement. |
-| No Zpower riders are allowed. | Trivial Infringement. |
-| All riders must record heart rate in game. | Trivial Infringement. |
-|  |  |  |
-| All riders must record cadence in game. | Minor Infringement. |
-| Correct use of equipment / equipment error. | Minor Infringement. |
-| Use of “sticky watts”. | Minor Infringement. |
-| Private data or deleting Zwift Ladder race activity file. | Minor Infringement. |
-| Use of “micro bursts” , “sprint coast technique” and performances deemed suspicious, unnatural or exhibiting “unusual” technique. | Minor Infringement.<br>*\* Treated as a Major Infringement violation if sufficient reason to believe it's the rider rather than equipment causing it.* |
-|  |  |  |
-| FTP mismatch, incorrect weight etc. | Major Infringement. |
-| Failed Spot Check. | Major Infringement. |
-|  |  |  |
-| Nullifying of Zwift and/or ZwiftRacing.app effort/result from a Ladder race due to faulty equipment issue, without notifying Ladder Committee. | Treated as a <u>2nd</u> Major Infringement violation. |
-|  |  |  |
-| Removing Data Consent | Gross Misconduct. |
-| Use of “coffee stops”, "Watt Lock" or ERG mode. | Gross Misconduct. |
-
----
-
-## <u>**Infringement Penalties:**</u>
-
-|  | **1st<br>Violation** | **2nd<br>Violation** | **3rd<br>Violation** | **4th<br>Violation** | **5th<br>Violation** |
-| --- | --- | --- | --- | --- | --- |
-| **Trivial Infringement** | Race Penalty | Race Penalty | Race Penalty | Race Penalty | Race Penalty |
-| **Minor Infringement**<br># strikes within 180 day period. | Race Penalty | Race Penalty | 30 day suspension | Race Penalty | 60 day suspension *(alternating race penalty/ suspension thereafter)* |
-| **Major Infringement**<br># strikes all time | Race Penalty | 30 day suspension | 90 day suspension | Lifetime ban |  |
-| **Gross Misconduct** | Lifetime Ban |  |  |  |  |
-| [World Class/Equipment verification](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#world-class-ability) | Can race while pending verification for 7 days max (World Class), 6 days (Equipment verification). Then suspended until verified. |  |  |  |  |
-
-Where a rider has a combination of multiple minor and major infringements, race control will exercise discretion in applying appropriate sanctions.
-
-# 🗺 Route Selection
-
-Course choice is made by the challenging team with courses based on the below rough guidance.
-
-- 15-25km in length, with a target race time of approx 30-45 minutes (for the majority of riders in that category).
-- Consist of one or multiple laps of a circuit, or a balanced point to point course. This is intended to ensure balanced courses and not ones that are all uphill (or down!), if you have a balanced point to point course in mind you can check with the race committee if it can be used.
-
-These criteria are only a guide, and teams may mutually agree on a course not meeting this criteria, but the team being challenged will always have the power to refuse a course that does not fit the published guidance. Where a custom finish is selected the captain choosing <u>must</u> make the opposition aware it is not a standard finish.
-
-As noted above, during mandatory periods Route Selection may be restricted to a list of pre-approved routes.
-
-# 📣 Race Refereeing
-
-It is the responsibility of the Captains to police the events they are racing in, in the first instance raising problems with the opposing captain, and escalating to Race Control if you fail to resolve it between you, please tag @Club Ladder Race Committee in [#ladder-captains-race-control](https://discordapp.com/channels/928942633844355122/941419628922548274).
-
-Our systems automatically pull event data from Zwift so there should be no need to go anywhere else to check results and rider categories and the most accurate and up to date results can always be found on the club ladder website. 
-
-All results should become finalised within our system c.6 hours after race finish, with ladder positions moving up to 24 hours later. During that 6 hour window, results should be treated as pending, therefore any escalations of issues should happen after 6 hours, but before the 24 hour ladder move.
-
-# 🏅 Scoring & Results
-
-Points are allocated to all 10 riders who finish the race, as follows: 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. In an instance where a rider is disqualified for breach of rules, riders finishing below them are promoted up a position.
-
-Points for riders in each team are combined with the winning team being the one with the highest points total.
-
-League standings are automatically updated based on the results of each event c.24 hours after the event finish.
-
-In the event of a “tie”, the result will be judged to be a failure to win by the challenging team (loss) and a successful defence by the challenged team (win).
-
-Bonus drop will engage after your 3rd consecutive defeat. Any further defeats will include the bonus drop.
-
-- The scale of your loss will determine your bonus drop. If you are completely blown away, the drop will be higher than if its a close race.
-- The drop will be between 1 and 7 places (or however many teams we have currently set as the number of teams that can be challenged)
-- The bonus drop positions will be assessed only on region, not World positions.
-
-The canonical source of results is always the Ladder website, this is the only source where we can completely guarantee complete accuracy. We do however push final results & DQ’s to [Zwiftracing](https://www.zwiftracing.app).app so these should also prove accurate in most cases. We do not update final results in Zwiftpower, and don't take any responsibility for how results appear there.
-
-## Results Schedule
-
-Race: Provisional results immediately available via ladder website.
-
-Race +6 Hours: All auto checks finalised and result marked final if no race control investigation required. 
-
-Race +72 hours: If manual results check is required, this will typically be completed within 72 hours of race completion, during which time the result will still be marked provisional. Note only a small number of flags will get manual intervention, typically these are, though not limited to, World Class Verification or unusual style DQ. After manual checks are complete, race will be marked final.
-
-Midnight or midday following results finalisation (whichever is soonest): Position change on Ladder and final results updated to ZR.app.
-
-Note: In the unlikely event of a manual intervention by race control after a result has been marked final, any changes to the result will not be reflected in ZR.app.
-
-# 🥊 Rungs & Belts
-
-## Rungs
-
-Each region is divided into a number of "rungs", essentially just groups / leagues / divisions of the regional ladder.
-Rungs do not affect movement on the ladder, so if you can happily ignore them if you want and Ladder will function the same for you as it always did.
-
-## Belts
-
-Rungs were needed was as a way to reintroduce (May 2025) Belts to the Ladder.
-Belts are a challenge system much like in Boxing or similar sports, where a challenger can win the belt by defeating the current holder.
-Each Rung of the ladder now has a Belt associated with it. 
-Anyone in the same Rung is entitled to challenge the belt holder for that rung. Potentially allowing you to win and move up the ladder by quite a large number of teams.
-
-## Belt Movement
-
-The actual rules on this become complicated pretty quickly, as normal ladder movement happens, some belts will be in the "wrong" rung.
-If this happens, anyone from the rung the belt is from can still challenge the team.
-However, the next time a belt holder races - if they are not in the correct rung -- they will lose the belt.
-(If the challenger to them *is* in the correct rung, they will receive the belt even if they are the losers. If both teams are out of the correct rung, the belt will be handed to someone within the correct rung instead)
-Belts also will be "dropped" by a holding team after 14 days if they don't complete another race. (Note currently, you *must* race in that 14 days, if you have a match-up on the 15th or 16th day, you will already have lost the Belt by then)
-
-There are two new pages "[Rungs](https://ladder.cycleracing.club/rungs)" and "[Belts](https://ladder.cycleracing.club/Belts)" under the "More" option in the navigation bar, or just visit "/rungs" and "/belts" on the site.
-
 # 🔁 Transfer Windows & ‘Seasons’
 
 The league is ongoing at all times and teams may join and leave at any time. 'Seasons' are usually reserved for major changes to ladder setup, however the ladder is broken up by transfer windows every 60 days, during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.
 
-These windows will run for the last 7 days of February, April, June, August, October and December. 
+These windows will run for the last 7 days of February, April, June, August, October and December.
 
 Teams must retain a minimum of 5 core riders during a transfer window, if they wish to change more riders then the team should be removed and a new team entered.
 
@@ -376,7 +64,7 @@ A number of equipment requirements exist in Ladder.
 - No Zpower (or any device which estimates power in a similar manner, such as power pod).
 - No “spin” or “exercise” bikes.
 - Where riders have access to multiple power meters, they must pair trainer/bike as the primary power source for in game measurement.
-- A controllable trainer/bike must be connected if the rider has one. 
+- A controllable trainer/bike must be connected if the rider has one.
 These will be checked through random [Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
 
 # ❔ ‘How To’ Guides
@@ -419,7 +107,7 @@ This is an **official** link with Zwift. Riders who do not link with Zwift will 
 
 - Your login details - You are logging in to Zwift directly and they are then authorising us limited access to your data.
 
-Once linked successfully you will get a confirmation: 
+Once linked successfully you will get a confirmation:
 
 <img width="500" height="120" alt="Account_linked_sucessfully" src="https://github.com/user-attachments/assets/7d47dcc7-bfcb-4e7c-a5c7-90125766188e" />
 
@@ -497,29 +185,29 @@ Please remember that if another team accepts an offer then it is a commitment to
 
 The challenging team are responsible for most aspects of race setup, undertaking all steps below. Teams can challenge another team no more than 7 places above them in the team ladder. Teams may challenge others of a higher rank as long as they are within 7 places. Challenges can be made up to a week in advance.
 
-Women's teams can challenge any team within range globally (mixed or women’s), but may only be challenged by other women's teams. 
+Women's teams can challenge any team within range globally (mixed or women’s), but may only be challenged by other women's teams.
 
 The preferred method of creating a challenge is using the Availability Auction feature, though the “old” way of organising is still summarised below as a backup.
 
 ### Via Discord / Website ‘Challenge’ Method
 
 1. In the [#race-organisation Discord channel](https://discordapp.com/channels/928942633844355122/1075443165928103966) (please navigate to the one for your specific region), create a New Post, and @ tag the captain of the opposing team you wish to challenge and here you can start any discussion on the date and time. Teams being challenged have 24 hours to respond to the challenge. Note: Please refrain from challenging multiple teams for the same time and date to "hedge your bets", it's ok to enquire about availability of more than one team at a time but once you've started the process of making a challenge it should be with a single team.
-    
+
 <img width="400" height="170" alt="image(2)" src="https://github.com/user-attachments/assets/9cd90733-acd5-4d8f-8400-4aa218b29533" />
-    
+
 2. Navigate to the league view in the ladder site and hit the blue challenge button.
 3. The system will ask that you to check;
     1. You have approached this team on discord to agree a fixture?
     2. Ensured you have the riders to fulfil this race?
-    
+
     Click “OK”, this will prompt you to propose a day, time and steering on/off, and then click the ‘Challenge’ button, after which it will send the challenge to the opposing captain.
-    
+
 4. Once the challenge has been formally accepted, the challenging team then have 36 hours to confirm their course choice (this is deliberately done after agreeing time and date, to stop the other team declining on the basis that the just don’t like the course). If the challenging team fail to propose a course within 36 hours then it will flip to the opposition to make the choice.
 5. The challenging captain can then complete the Route Selection and Powerup Selection
 before clicking Create Event.
 
 <img width="600" height="300" alt="Route_Selection" src="https://github.com/user-attachments/assets/563638c3-a110-4552-bf5d-075d04e11ce1" />
-    
+
 7. This will instantly and automatically create the Zwift Event Link - which the captain should then share the link with the opposition Captain in the Discord thread, and with the riders of their own team who will be racing.
 8. Any change requests should use the Change Event button on the Fixture page (only the team who made the original course selection will see this button option available).
 
@@ -549,9 +237,9 @@ The preferred method of creating and accepting a challenge is using the “[avai
 
 1. Ensure your team captain has joined and is monitoring [#race-organisation Discord](https://discord.gg/NZuedrjf9V).
 2. Once a challenge has been made by another team, respond to accept or propose a new time within 36 hours of a challenge being made.
-    
+
   <img width="300" height="270" alt="image(4)" src="https://github.com/user-attachments/assets/6eb7f41e-2e7a-4309-bb9b-d60b05e712e0" />
-    
+
 3. Once a challenge has been accepted, the challenging captain will confirm their course choice within 36 hours of the challenge being made, and then provide you with race links, you should distribute these to your team.
 4. If you have any concerns with any of this please raise with the other captain in the first instance, any issues can be escalated to [#ladder-captains-race-control](https://discordapp.com/channels/928942633844355122/941419628922548274).
 
@@ -574,9 +262,9 @@ Once submitted, the Club Ladder bot will create a message in the [🚴🏿ladder
 
 <img width="400" height="210" alt="2026-03-05_09-25 28" src="https://github.com/user-attachments/assets/6787c6c6-f553-4b15-9b64-9a922ca5ed27" />
 
-At least one Captain/Vice-Captain from each team should approve the change on Discord by clicking the blue check mark (☑️ ) reaction. 
+At least one Captain/Vice-Captain from each team should approve the change on Discord by clicking the blue check mark (☑️ ) reaction.
 
-When an admin has completed the change they will add a green check mark ( ✅ ) 
+When an admin has completed the change they will add a green check mark ( ✅ )
 
 *Note : it may take a while for the system to re-scan the event details after any change, there may be a delay in the appearance on the website, but you can check Zwift or Zwift companion to confirm the changes were made correctly*
 
@@ -587,29 +275,29 @@ If an event needs a change (start time, course choice, course distance / number 
 You **must** include;
 
 - **The link to the ladder website fixture you want to change**
-    
+
     e.g. "[https://ladder.cycleracing.club/fixture/3003](https://ladder.cycleracing.club/fixture/3003)"
-    
+
 - **A link to the discord thread where the opposing team have agreed to the change**
-    
+
     (Required for time/date changes and route changes outside normal guidance)
-    
+
 - **The actual change you want**
-    
+
     All times should be submitted in UTC time zone format
-    
+
 ## Backup Clubs Process
 
 This guide summarises how to create an event using the Zwift Clubs functionality in companion app. This can be used as a backup only when the Ladder Website is unable to create an event (this would be announced on Discord).
 
-1. Create the event within your Zwift club in companion app, ensuring race results are on, late join off, and non-club members are able to participate. 
-    
+1. Create the event within your Zwift club in companion app, ensuring race results are on, late join off, and non-club members are able to participate.
+
     [](https://lh7-us.googleusercontent.com/d3n52_yXoELYQ9srETd9Q_RDiYDPKbUmw_M2JrfZs7ZsTH4bons-qL7GA29pKwgXobai3LdK2d9AtN8WYyeQUy10dDZSXfzkFlAFE-XQvTXfUk2HcHfY18hJj_wQgq_z8jgcX9kBRFpyugW6)
-    
+
 2. Races must be created using a consistent format: “Club ladder <fixture id>” The fixture ID can be found in the URL of the race on the ladder site.
-    
+
     ![Untitled](Untitled%204.png)
-    
+
 3. Copy the “share event” link and add it to the system under the appropriate fixture and share with the opposing captain.
 
 *Note: Certain limitations exist on course choices within Clubs, and it is not possible to dictate specific power ups (or try to turn steering off).*
@@ -620,7 +308,7 @@ This guide summarises how to create an event using the Zwift Clubs functionality
 2. If you'd like to investigate any possible device issues, first ask your rider to locate their log files for the ride in question - https://support.zwift.com/locating-log-files-BykKO63fr
 3. Use Zwiftalizer to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods. [Zwiftalizer](https://zwiftalizer.com/)
 
-Zwiftalizer provides a range of guides and tips to help you from uploading files, to analysis and resolving issues, so we would ask captains use their site rather than asking race control, who will likely just point you towards their help pages anyway. 
+Zwiftalizer provides a range of guides and tips to help you from uploading files, to analysis and resolving issues, so we would ask captains use their site rather than asking race control, who will likely just point you towards their help pages anyway.
 Zwiftalizer Help: [https://zwiftalizer.com/help](https://zwiftalizer.com/help)
 Zwiftalizer Video Guides: [https://www.youtube.com/@zwiftalizer](https://www.youtube.com/@zwiftalizer)
 
@@ -630,15 +318,15 @@ A random sample of riders will be flagged every week to check equipment complies
 Evidence should be submitted via the rider’s Verification Portal.
 
 1. If a rider is randomly selected for spot check you will see this notified on the results page, the team admin page, the rider profile page and the captain will receive an email notification (if they’ve opted in to emails). The notification on results page is signified by a small dice.
-    
+
     <img width="250" height="80" alt="1000035381" src="https://github.com/user-attachments/assets/e0fa7309-48ab-45ed-aff8-3cd142592039" />
 
     2. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
 3. (Preferred), the rider should upload their log file to [Zwiftalizer](https://zwiftalizer.com/).
     1. Note that Zwiftalizer now only allows 5 free uses if you register an account.
-        
+
         If you no longer have any free uses available, please contact the @Club Ladder Race Committee on Discord via your captain, to discuss how to proceed.
-        
+
 4. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
 
 <img width="200" height="110" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
@@ -692,24 +380,24 @@ Have someone else film for you, or, film yourself using a mirror so that you are
 
 1. Set up scales suitable for measuring body weight in the middle of a room on a hard, even surface, with nothing nearby to hold on to.
 2. Find a solid heavy object (approx 10kg) that you can comfortably carry. Object must clearly indicate the mass of the object (e.g., “10kg” printed on the face of a kettlebell).
-3. Make sure you are wearing sports/cycling shorts and a jersey. 
+3. Make sure you are wearing sports/cycling shorts and a jersey.
 
 ### During the test
 
 1. Start recording a video on any device; for example, a cell phone
-2. Show your face on the video. 
+2. Show your face on the video.
 3. Show yourself performing a live internet search for the current time and date, and the results that it gives. You must clearly show the URL of the website and refresh the webpage so it is clear that the time and date are current. Screenshots of mobile phone clocks or computer desktop clocks will not be accepted.
 4. Show the scales.
 5. Zero the scales and show the zero reading.
 6. Show the portion of the object(s) showing the mass of the object (e.g., label or printing on the object).
 7. Place the heavy object(s) weight on the scales and show the reading. Zoom in so that the reading is clear on the video.
 8. Take the object(s) off and show the reading.
-9. Pick up the scale and turn it over to show that there is nothing on the underside of the scale or on the floor. This must be shown clearly on the video. 
+9. Pick up the scale and turn it over to show that there is nothing on the underside of the scale or on the floor. This must be shown clearly on the video.
 10. Place the scale back on the floor approximately 30cm away from the previous location.
-11.  Stand on the scales yourself (without the weight) and show the reading. Zoom in so that the reading is clear on the video. 
-12. Take yourself off and show the zero reading. 
-13. Stand on the scales with the object and show the reading. Zoom in so that the reading is clear on the video. 
-14. Take yourself off and show the zero reading. 
+11.  Stand on the scales yourself (without the weight) and show the reading. Zoom in so that the reading is clear on the video.
+12. Take yourself off and show the zero reading.
+13. Stand on the scales with the object and show the reading. Zoom in so that the reading is clear on the video.
+14. Take yourself off and show the zero reading.
 15. Stop recording.
 
 ### After the test
@@ -756,7 +444,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 5. Set the cycle computer to record at 1 second intervals.
 6. Set the Trainer Difficulty to a minimum at 50% for the full duration of the test.
 7. Ride a 10-20 minute warm up of your own choosing.
-8. Perform spindown of trainer (if applicable) and calibrate zero-offset of power meter after the warmup (follow spindown and zero-offset calibration instructions below). 
+8. Perform spindown of trainer (if applicable) and calibrate zero-offset of power meter after the warmup (follow spindown and zero-offset calibration instructions below).
 
 ### Test details
 
@@ -793,24 +481,24 @@ In an instance where a rider does not ride outside, they can provide dual record
     Creating a new account via a different login method only created duplicate accounts).
 3. New Vice Captain needs to register a VC account on ladder website [https://ladder.cycleracing.club/signup](https://ladder.cycleracing.club/signup)
 4. Existing captain goes to their team management page , and should use the Change Team Admins button to assign a Team Admin (Vice Captain)
-    
+
 <img width="300" height="80" alt="Change_Team_Admins" src="https://github.com/user-attachments/assets/b4784100-59de-4057-af69-739b0eb925b6" />
-    
+
 5. In the Edit Admins menu, use the drop-down menu and select your Vice Captain.
-    
+
     Note that the list of admins is drag-able, with the top placed name being assigned as Captain.
-    
+
 6. The list will be of anyone registered as captain/vc on the Ladder website, *and* who is part of the same ZP club the team was attached to. Otherwise they don't appear.
-    
+
     (Note - we get the Club data from zwiftracing so you need to do an activity that zwiftracing will recognise, for it to pass through to our system)
-    
+
 7. If they do not appear in this list, please double check that they have completed step #2 above, and that they are registered to the same Zwift Power club that the Ladder team is attached to, as their <u>primary</u> club.
 
 - Note that resigning your Captain or Vice Captain account on the ladder website, *might* automatically remove your corresponding role on Discord (if you have Discord verified). If you require reassigning then you will need to message a Club Committee member asking them to re-assign it to you.
 
 ## Bug Reporting
 
-1. Please report any bugs via the appropriate Discord channel [🐞 bug-reporting](https://discord.com/channels/928942633844355122/1117086488597897226/1186701415809286194) 
+1. Please report any bugs via the appropriate Discord channel [🐞 bug-reporting](https://discord.com/channels/928942633844355122/1117086488597897226/1186701415809286194)
 2. This channel will only accept new messages that include a http link (either to fixture, team, or rider.) Others are automatically deleted. This is done to help speed up support time by the race committee - “help us to help you!”
 3. When reporting a bug, the more information we have the quicker we can assist in helping, please try to report with information such as the following :-
 - <u>Title</u>: Keep it brief and use correct terms. A best practice is to include the name of the feature where you found an issue. A good example could be 'CHALLENGE - Unable to challenge [XXX] team'.
@@ -827,92 +515,92 @@ In an instance where a rider does not ride outside, they can provide dual record
 
 2.            ***Refusing consent will mean you cannot ride in the Ladder series.***
 
-3. Consent must be given by a rider, and not on their behalf, and can be given at [https://ladder.cycleracing.club/riderConsent](https://ladder.cycleracing.club/riderConsent) 
+3. Consent must be given by a rider, and not on their behalf, and can be given at [https://ladder.cycleracing.club/riderConsent](https://ladder.cycleracing.club/riderConsent)
 4. If a rider has rejected Data Consent and later wishes to join the ladder, an Amin must be contacted to change / purge the Data Consent.
 
     <img width="300" height="480" alt="bfb00937-bf69-4855-8033-a0ac51513680" src="https://github.com/user-attachments/assets/3232f217-0a24-42b4-8820-e1fd167e19d7" />
-    
+
 5. Use the [#ladder-captains-race-control](https://discord.com/channels/928942633844355122/941419628922548274) channel on Discord, and provide the rider ID number, and tag @ClubLadderRaceCommittee asking nicely for them to Purge data consent so that the riders can then resubmit their consent.
 
 # 📷 Glossary
 
 - (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
-    
+
     <img width="75" height="90" alt="image 7" src="https://github.com/user-attachments/assets/add837bf-18fe-46a2-b11e-04bd1f5f5a93" />
-    
+
 - This padlock icon denotes that the user *preference* is Private activities, and serves as a reminder for captains to ask the rider to save Ladder races as a Public Activity on Zwift.
-    
+
     <img width="75" height="80" alt="image 8" src="https://github.com/user-attachments/assets/f70fb175-640a-4900-a22a-5ba90420d6d1" />
-    
+
 - Rider / roster refresh - icon should only be visible during an open Transfer Window (if a new rider added to roster shows errors, try this manual refresh in the first instance).
-    
+
     <img width="46" height="47" alt="image 9" src="https://github.com/user-attachments/assets/58236eb5-1e73-4a3c-a67a-8e421f050b58" />  
 
 - (Legacy - Rider has no valid 30day rank on [https://www.zwiftracing.app](https://www.zwiftracing.app/))
-    
+
     <img width="68" height="35" alt="image 10" src="https://github.com/user-attachments/assets/c91b5dd4-6213-4611-b8e1-16badacb4eed" />
 
 - Team is in a ‘Zombie’ state, and can be bypassed in challenges.
-    
+
     <img width="37" height="34" alt="image 11" src="https://github.com/user-attachments/assets/a71917d6-589d-456f-aefb-8b738636efd0" />
 
 - Team is in a ‘dead’ state, and will be removed from the ladder.
-    
+
     <img width="53" height="36" alt="image 12" src="https://github.com/user-attachments/assets/9536737b-ff6c-4c6a-9ce0-9a9f4e162692" />
 
 - ‘Cancel’ on a fixture not yet accepted - this cancels the fixture, nothing changes.
-    
+
     <img width="419" height="225" alt="image 13" src="https://github.com/user-attachments/assets/7e8088cf-d309-4cc7-ab69-43fdb7c22b1e" />
 
 - (Displayed on captains team admin page). Represents the ranks that may currently be added to the team, this will change based on the riders currently on the roster. Yellow shaded rank represents the median rank in the team and riders can be added +/- 1 rank from this.
-    
+
     <img width="171" height="106" alt="image 14" src="https://github.com/user-attachments/assets/e499ed7a-9c8a-4c4d-af64-7997e5c49e24" />
 
 - If the challenging team fail to propose a course within 36 hours then it will flip to the opposition to make the choice.
-    
+
     <img width="168" height="38" alt="image 15" src="https://github.com/user-attachments/assets/5f3f9783-a86e-4cd0-a1e0-081fd0e6ff31" />
 
 - W= Won challenge, L= Lost challenge, D= Defended challenge (i.e. you were the higher ranked team and you defended a challenge from the team below).
-    
+
     <img width="122" height="31" alt="image 16" src="https://github.com/user-attachments/assets/f5d8605c-663c-4038-8e0e-b1667dfc1221" />
 
 - This indicates a rides has been given a [shadow ban](https://forums.zwift.com/t/riders-cant-see-me-in-race/627466) directly from Zwift. The rider would need to contact Zwift directly to find out what the issue is.
 Any shadow banned riders are auto-banned at Ladder, but even if they were not, if they turn up to a race they wouldn't appear in the results anyway so there is nothing we can do. The ladder ban is more of a notification for the rider to go and ask Zwift about the ban.
-    
+
     <img width="450" height="110" alt="image 17" src="https://github.com/user-attachments/assets/a2816913-510a-4d10-a290-1db873e86ed6" />
 
 - <u>**Once the challenge has been Accepted:**</u>
-    
+
     ‘Random’ will generate a random course choice for you.
-    
+
     ‘Surrender course section’ flips the decision to the opposing team to be able to choose.
-    
+
     ‘Forfeit’ will forfeit the entire fixture (note this is ***not*** a Cancellation - the forfeiting team will “lose” the fixture).
-    
+
     <img width="393" height="358" alt="image 18" src="https://github.com/user-attachments/assets/e3654aec-6cae-4945-bb0e-d5ccd9c10715" />
 
 - <u>**Auction Offer Symbols:**</u>
-    
+
     A number ‘3’ in Hexagon indicates the team are requesting a 3v3 in their offer.
     Note this is a *request.*
-    
+
     <img width="37" height="35" alt="image 19" src="https://github.com/user-attachments/assets/b9d18844-602a-409a-a578-42fa13caab2a" />
-    
+
     A number ‘4’ in Hexagon indicates the team are requesting a 4v4 in their offer.
     Note this is a *request.*
-    
+
     <img width="34" height="32" alt="image 20" src="https://github.com/user-attachments/assets/dbed7189-5c79-4b86-ae59-9c350ff7eaaf" />
-    
+
     A number ‘5’ in Hexagon indicates a standard 5v5 offer.
-    
+
     <img width="36" height="31" alt="image 21" src="https://github.com/user-attachments/assets/479faa8f-49ed-4428-b978-110bc25f09c3" />
-    
+
 - The rider on a roster will have a ’Z’ symbol next to their name if they have Linked their Zwift account to Ladder (authorised Data Consent).
-    
+
     <img width="261" height="40" alt="Rider_linked_Z" src="https://github.com/user-attachments/assets/86787620-1693-4c07-9cda-bfbde0b36151" />
 
 - The rider on a roster will have a warning triangle ⚠ symbol next to their name if they have unlinked their Zwift account from Ladder. This means they are not eligible to race.
-    
+
     <img width="91" height="61" alt="image 22" src="https://github.com/user-attachments/assets/6f470170-c008-48c6-973e-325e1d02acef" />
 
 # 📜 Changelog
