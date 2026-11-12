@@ -1,9 +1,27 @@
 site_name: Club Ladder Rules
-site_url: https://cycleracing-club.github.io/clubladder-rules/
-repo_url: https://github.com/cycleracing-club/clubladder-rules
-repo_name: cycleracing-club/clubladder-rules
+site_url: https://gazhay.github.io/rules-clubladder/
+
+repo_url: https://github.com/gazhay/rules-clubladder
+repo_name: gazhay/rules-clubladder
 
 theme:
   name: material
-  palette:
-    scheme: default
+
+plugins:
+  - search
+  - with-pdf:
+      author: Club Ladder Race Committee
+      copyright: Club Ladder
+      cover_title: Club Ladder Race Book
+      output_path: pdf/club-ladder-race-book.pdf
+      enabled_by_default: true
+
+nav:
+  - Home: index.md
+  - Joining The Ladder: joining.md
+  - Rules: rules.md
+  - Sanctions: sanctions.md
+  - Route Selection: route-selection.md
+  - Race Refereeing: refereeing.md
+  - Scoring & Results: scoring.md
+  - Download PDF: pdf/club-ladder-race-book.pdf
