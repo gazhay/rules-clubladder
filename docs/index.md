@@ -58,10 +58,9 @@ The race committee decision is final and there is no formal appeals process.
 ## 1. Eligibility
 The league has a greater onus than normal on captains/managers of individual teams taking on organisation of individual events, in order to take part each team must have:
 1. Clubs, teams and riders must be of good standing within the Zwift community with no history of cheating or other controversy. It is expected that a minimum of 60% of riders within a team are members of the club they are representing. All applications for participation will be reviewed by the race committee, who reserve the right to reject applications they feel will not make a positive contribution to the series.
-2. (Trial) Composite Teams (Spring 2026):
-    As a temporary trial, teams composed of riders from more than one club may be permitted to participate. Composite teams are not self-administered; they must be created and configured directly by a Moderator. Participation under this arrangement is conditional on Moderator approval and will remian under review, after which it may be made permanent, extended, or discontinued.
+2. (Trial) Composite Teams (Spring 2026):<br>As a temporary trial, teams composed of riders from more than one club may be permitted to participate. Composite teams are not self-administered; they must be created and configured directly by a Moderator.<br>Participation under this arrangement is conditional on Moderator approval and will remain under review, after which it may be made permanent, extended, or discontinued.
 3. An appointed captain per team to be the main point of contact.
-4. Created an account on Discord and [joined the series server](https://discord.gg/NZuedrjf9V) with your team name and captain clearly identified in your Discord server name. (eg. Douglas [Captain Electric Spirit Co. Picklebacks])
+4. Created an account on Discord and [joined the series server](https://discord.gg/NZuedrjf9V) with your team name and captain clearly identified in your Discord server name. (eg. Douglas [Captain Electric Spirit Co. Picklebacks]).
 5. Created a Captain/VC account on the [Ladder wesbite](https://ladder.cycleracing.club/).
 6. Familiarised themselves with the entire Rulebook and the roster rankings system.
 7. Commit to their team racing minimum 1 race every 3 weeks.
