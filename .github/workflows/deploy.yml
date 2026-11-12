@@ -1,55 +1,32 @@
-name: Deploy MkDocs with PDF
+site_name: Club Ladder Rules
+site_url: https://gazhay.github.io/rules-clubladder/
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+repo_url: https://github.com/gazhay/rules-clubladder
+repo_name: gazhay/rules-clubladder
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+theme:
+  name: material
+  logo: assets/logo-t.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.sections
+    - navigation.expand
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+plugins:
+  - search
+  - with-pdf:
+      author: Club Ladder Race Committee
+      copyright: Club Ladder
+      cover_title: Club Ladder Race Book
+      output_path: pdf/club-ladder-race-book.pdf
+      enabled_by_default: true
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install System Dependencies for PDF
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 fonts-noto-color-emoji
-
-      - name: Install Python Dependencies
-        run: |
-          pip install mkdocs-material mkdocs-with-pdf
-
-      - name: Build MkDocs Site & PDF
-        run: mkdocs build
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+nav:
+  - Home: index.md
+  - Joining The Ladder: joining.md
+  - Rules: rules.md
+  - Sanctions: sanctions.md
+  - Route Selection: route-selection.md
+  - Race Refereeing: refereeing.md
+  - Scoring & Results: scoring.md
+  - Download PDF: pdf/club-ladder-race-book.pdf  
