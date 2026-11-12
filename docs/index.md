@@ -8,6 +8,14 @@ Teams are bound by an allowed range in rider zMAP value as we believe it reflect
 (Historically teams were bound by ZwiftRacing.app vELO1 rankings, rather than relying on legacy Zwiftpower categories.)
 The league mixes all teams, all rankings, together in one league, allowing for a strong team at the upper end of one ranking level to challenge themselves against lower ranked teams of the ranking level above.
 
+1. **[Joining The Ladder](joining.md).**
+2. **[Rules](rules.md).**
+3. **[Sanctions](sanctions.md).**
+4. **[Scoring](scoring.md).**
+5. **[Route Selection](route-selection.md).**
+6. **[Race refereeing](refereeing.md).**
+
+
 # 🔁 Transfer Windows & ‘Seasons’
 
 The league is ongoing at all times and teams may join and leave at any time. 'Seasons' are usually reserved for major changes to ladder setup, however the ladder is broken up by transfer windows every 60 days, during which riders can move between teams, teams can move between leagues, or during which race control might implement rule changes.
