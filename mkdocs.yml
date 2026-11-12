@@ -1,8 +1,8 @@
 site_name: Club Ladder Rules
 site_url: https://gazhay.github.io/rules-clubladder/
 
-repo_url: https://github.com/gazhay/rules-clubladder
-repo_name: gazhay/rules-clubladder
+#repo_url: https://github.com/gazhay/rules-clubladder
+#repo_name: gazhay/rules-clubladder
 
 theme:
   name: material
