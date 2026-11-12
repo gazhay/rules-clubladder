@@ -6,7 +6,11 @@ repo_name: gazhay/rules-clubladder
 
 theme:
   name: material
-
+  logo: assets/logo-t.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.sections
+    - navigation.expand
 plugins:
   - search
   - with-pdf:
