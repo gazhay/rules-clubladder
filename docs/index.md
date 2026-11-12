@@ -405,7 +405,7 @@ Note: Discord remains captains only, and all communication with race control sho
 
 To be eligible to race, riders must Link their Zwift account with Ladder - [https://ladder.cycleracing.club/](https://ladder.cycleracing.club/editself) when joining for the first time.
 
-<img width="750" height="340" alt="Link_with_Zwift" src="https://github.com/user-attachments/assets/50e6092f-73b3-4caf-8a77-9056dfdf6885" />
+<img width="500" height="200" alt="Link_with_Zwift" src="https://github.com/user-attachments/assets/50e6092f-73b3-4caf-8a77-9056dfdf6885" />
 
 Clicking ‘Login with Zwift’ redirects them to sign in with their Zwift login credentials.
 
@@ -422,7 +422,7 @@ This is an **official** link with Zwift. Riders who do not link with Zwift will 
 
 Once linked successfully you will get a confirmation: 
 
-<img width="750" height="190" alt="Account_linked_sucessfully" src="https://github.com/user-attachments/assets/7d47dcc7-bfcb-4e7c-a5c7-90125766188e" />
+<img width="500" height="120" alt="Account_linked_sucessfully" src="https://github.com/user-attachments/assets/7d47dcc7-bfcb-4e7c-a5c7-90125766188e" />
 
 If the rider is on a roster this can also be verified by the Z icon next to their name:
 
@@ -506,7 +506,7 @@ The preferred method of creating a challenge is using the Availability Auction f
 
 1. In the [#race-organisation Discord channel](https://discordapp.com/channels/928942633844355122/1075443165928103966) (please navigate to the one for your specific region), create a New Post, and @ tag the captain of the opposing team you wish to challenge and here you can start any discussion on the date and time. Teams being challenged have 24 hours to respond to the challenge. Note: Please refrain from challenging multiple teams for the same time and date to "hedge your bets", it's ok to enquire about availability of more than one team at a time but once you've started the process of making a challenge it should be with a single team.
     
-<img width="608" height="226" alt="image(2)" src="https://github.com/user-attachments/assets/9cd90733-acd5-4d8f-8400-4aa218b29533" />
+<img width="400" height="170" alt="image(2)" src="https://github.com/user-attachments/assets/9cd90733-acd5-4d8f-8400-4aa218b29533" />
     
 2. Navigate to the league view in the ladder site and hit the blue challenge button.
 3. The system will ask that you to check;
@@ -519,7 +519,7 @@ The preferred method of creating a challenge is using the Availability Auction f
 5. The challenging captain can then complete the Route Selection and Powerup Selection
 before clicking Create Event.
 
-<img width="1338" height="629" alt="Route_Selection" src="https://github.com/user-attachments/assets/563638c3-a110-4552-bf5d-075d04e11ce1" />
+<img width="600" height="300" alt="Route_Selection" src="https://github.com/user-attachments/assets/563638c3-a110-4552-bf5d-075d04e11ce1" />
     
 7. This will instantly and automatically create the Zwift Event Link - which the captain should then share the link with the opposition Captain in the Discord thread, and with the riders of their own team who will be racing.
 8. Any change requests should use the Change Event button on the Fixture page (only the team who made the original course selection will see this button option available).
@@ -536,7 +536,7 @@ As some of you are aware, we have been developing a method to allow the potentia
 4. The same is true for auctions, during the offer you can choose "steering off" alongside the *request* for numbers of riders.
 5. Once the Fixture is in place, the Steering Disabled icon will be visible (before the course and PU’s are chosen):
 
-<img width="1486" height="866" alt="Steering_Off" src="https://github.com/user-attachments/assets/7d7b12ef-db6a-4069-9669-a242789732fa" />
+<img width="750" height="430" alt="Steering_Off" src="https://github.com/user-attachments/assets/7d7b12ef-db6a-4069-9669-a242789732fa" />
 
 Note that at the time of release, it has passed on only the most basic testing and may be withdrawn at any stage.
 
@@ -551,7 +551,7 @@ The preferred method of creating and accepting a challenge is using the “[avai
 1. Ensure your team captain has joined and is monitoring [#race-organisation Discord](https://discord.gg/NZuedrjf9V).
 2. Once a challenge has been made by another team, respond to accept or propose a new time within 36 hours of a challenge being made.
     
-  <img width="575" height="540" alt="image(4)" src="https://github.com/user-attachments/assets/6eb7f41e-2e7a-4309-bb9b-d60b05e712e0" />
+  <img width="300" height="270" alt="image(4)" src="https://github.com/user-attachments/assets/6eb7f41e-2e7a-4309-bb9b-d60b05e712e0" />
     
 3. Once a challenge has been accepted, the challenging captain will confirm their course choice within 36 hours of the challenge being made, and then provide you with race links, you should distribute these to your team.
 4. If you have any concerns with any of this please raise with the other captain in the first instance, any issues can be escalated to [#ladder-captains-race-control](https://discordapp.com/channels/928942633844355122/941419628922548274).
@@ -565,15 +565,15 @@ Event creation has transitioned from a manual process to something a bit more au
 
 When viewing the fixture page on the Club Ladder website there is a “Change Event” button for the team which specified the course setup, the “home” team:
 
-<img width="405" height="62" alt="2026-03-05_09-24 58" src="https://github.com/user-attachments/assets/a5d650f0-4ecd-45ec-a7ec-5f0d4d9a39c0" />
+<img width="200" height="30" alt="2026-03-05_09-24 58" src="https://github.com/user-attachments/assets/a5d650f0-4ecd-45ec-a7ec-5f0d4d9a39c0" />
 
 This will bring up a dialogue box for you to request changes:
 
-<img width="511" height="752" alt="2026-03-05_09-25 10" src="https://github.com/user-attachments/assets/a917fab9-8ecb-43d2-95e5-663286bcaee6" />
+<img width="250" height="380" alt="2026-03-05_09-25 10" src="https://github.com/user-attachments/assets/a917fab9-8ecb-43d2-95e5-663286bcaee6" />
 
 Once submitted, the Club Ladder bot will create a message in the [🚴🏿ladder-event-changes](https://discord.com/channels/928942633844355122/1327608550200967268) channel on the Club Ladder discord server.
 
-<img width="869" height="449" alt="2026-03-05_09-25 28" src="https://github.com/user-attachments/assets/6787c6c6-f553-4b15-9b64-9a922ca5ed27" />
+<img width="400" height="210" alt="2026-03-05_09-25 28" src="https://github.com/user-attachments/assets/6787c6c6-f553-4b15-9b64-9a922ca5ed27" />
 
 At least one Captain/Vice-Captain from each team should approve the change on Discord by clicking the blue check mark (☑️ ) reaction. 
 
