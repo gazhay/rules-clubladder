@@ -599,34 +599,6 @@ You **must** include;
     
     All times should be submitted in UTC time zone format
     
-
-## Private Data
-
-To save race control time, please take these steps <u>before</u> raising any issues with us about activity privacy. The system will keep scanning periodically for up to 6 hours post race, so you have this window to try and resolve your private data issues yourself, although we would always recommend having settings correct before race start as retrospective changes cannot always be guaranteed to work. Should issues persist beyond 6 hours please raise any issues with race control.
-
-The critical thing is that the ride is public, regardless of your general account settings.
-
-<u>**Troubleshooting:**</u>
-1. Wait minimum 2 hours after <u>session</u> (not race) finish to ensure the system has had time to process the file correctly (note also, if you change your settings per the steps below, you may then have to wait another 2 hours for the system to scan again).
-
-2. Check your individual activity is public when saving. Regardless of your account settings, these can override and make an activity private, this is the most common error: 
-
-![Untitled](Untitled%203.png)
-
-[https://support.zwift.com/en_us/overriding-your-default-activity-privacy-settings-HyMxaIu4r](https://support.zwift.com/en_us/overriding-your-default-activity-privacy-settings-HyMxaIu4r)
-
-3. If this doesn't work, set your whole profile public (this may not always be necessary but is a "belts and braces" step). This is the "approve follow requests" toggle in your companion app profile. At the same time you can ensure the default activity privacy setting is public.
-
-![Untitled](Untitled%201.jpeg)
-
-5. Use Zwiftpower to check your activities are now public. Your activity bolt will be <u>blue</u> for public, <u>green</u> for private.
-6. An additonal way to check is via the Zwift Companion App - if you search for a rider that was in the same Ladder race, go to their Activities, go to the Ladder race and then click on the Results and click on the riders one by one in results - they should load their individual Activities but if it fails for a rider, and displays “Activity details could not be loaded” this is another indicator the Activity was saved as Private. 
-
-[screen-20260206-102721-1770373625291.mp4](screen-20260206-102721-1770373625291.mp4)
-
-7. If after completing all these steps your future activities still appear private when using ZP as a check, please contact Zwift support for help.
-8. Only contact race control if you have completed all the above steps, your ZP activities are showing public, and ladder events are still showing private.
-
 ## Backup Clubs Process
 
 This guide summarises how to create an event using the Zwift Clubs functionality in companion app. This can be used as a backup only when the Ladder Website is unable to create an event (this would be announced on Discord).
@@ -670,7 +642,7 @@ Evidence should be submitted via the rider’s Verification Portal.
         
 4. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
 
-<img width="390" height="220" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
+<img width="200" height="110" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
 <img width="220" height="100" alt="image 4" src="https://github.com/user-attachments/assets/1cbb0869-5b1b-472b-a8d1-7c251ae351b0" />
 
 1. Input the riders Zwift ID (this will not be requested if you are submitting directly from their profile).
@@ -823,7 +795,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 3. New Vice Captain needs to register a VC account on ladder website [https://ladder.cycleracing.club/signup](https://ladder.cycleracing.club/signup)
 4. Existing captain goes to their team management page , and should use the Change Team Admins button to assign a Team Admin (Vice Captain)
     
-<img width="591" height="166" alt="Change_Team_Admins" src="https://github.com/user-attachments/assets/b4784100-59de-4057-af69-739b0eb925b6" />
+<img width="300" height="80" alt="Change_Team_Admins" src="https://github.com/user-attachments/assets/b4784100-59de-4057-af69-739b0eb925b6" />
     
 5. In the Edit Admins menu, use the drop-down menu and select your Vice Captain.
     
@@ -850,8 +822,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 - <u>Steps to reproduce</u>: A screenshot is a proof that you had a problem, but keep in mind that your developer might not be able to reproduce the bug. Make sure to describe, with as much detail as possible, the steps you took before you encountered the bug.
 - <u>Expected result vs. actual result</u>: Explain what results you expected - be as specific as possible. Just saying "the app doesn’t work as expected" is not useful. It's also helpful to describe what you actually experienced.
 
-## Purge A Refused Data Consent
-(legacy - see [Linking / Unlinking with Zwift (new data consent)](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#linking--unlinking-with-zwift-new-data-consent))
+## Purge A Refused Data Consent<br>(legacy - see [Linking / Unlinking with Zwift (new data consent)](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#linking--unlinking-with-zwift-new-data-consent))
 
 1. In order to create race results and undertake the performance verification necessary for fair racing we require to collect and store some of your data, we need your consent to do this. This data includes any publicly available personal and performance data on your Zwift, ZwiftPower or ZwiftRacing profile. Without your consent unfortunately you will be unable to participate in any ladder events. If you’d like to find out more information about the data we collect and how we use it, please refer to our [privacy policy](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#privacy--cookie-policy).
 
@@ -860,7 +831,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 3. Consent must be given by a rider, and not on their behalf, and can be given at [https://ladder.cycleracing.club/riderConsent](https://ladder.cycleracing.club/riderConsent) 
 4. If a rider has rejected Data Consent and later wishes to join the ladder, an Amin must be contacted to change / purge the Data Consent.
 
-    <img width="931" height="1421" alt="bfb00937-bf69-4855-8033-a0ac51513680" src="https://github.com/user-attachments/assets/3232f217-0a24-42b4-8820-e1fd167e19d7" />
+    <img width="300" height="480" alt="bfb00937-bf69-4855-8033-a0ac51513680" src="https://github.com/user-attachments/assets/3232f217-0a24-42b4-8820-e1fd167e19d7" />
     
 5. Use the [#ladder-captains-race-control](https://discord.com/channels/928942633844355122/941419628922548274) channel on Discord, and provide the rider ID number, and tag @ClubLadderRaceCommittee asking nicely for them to Purge data consent so that the riders can then resubmit their consent.
 
@@ -868,7 +839,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 
 - (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
     
-    <img width="100" height="133" alt="image 7" src="https://github.com/user-attachments/assets/add837bf-18fe-46a2-b11e-04bd1f5f5a93" />
+    <img width="75" height="90" alt="image 7" src="https://github.com/user-attachments/assets/add837bf-18fe-46a2-b11e-04bd1f5f5a93" />
     
 - This padlock icon denotes that the user *preference* is Private activities, and serves as a reminder for captains to ask the rider to save Ladder races as a Public Activity on Zwift.
     
@@ -909,7 +880,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 - This indicates a rides has been given a [shadow ban](https://forums.zwift.com/t/riders-cant-see-me-in-race/627466) directly from Zwift. The rider would need to contact Zwift directly to find out what the issue is.
 Any shadow banned riders are auto-banned at Ladder, but even if they were not, if they turn up to a race they wouldn't appear in the results anyway so there is nothing we can do. The ladder ban is more of a notification for the rider to go and ask Zwift about the ban.
     
-    <img width="1871" height="452" alt="image 17" src="https://github.com/user-attachments/assets/a2816913-510a-4d10-a290-1db873e86ed6" />
+    <img width="450" height="110" alt="image 17" src="https://github.com/user-attachments/assets/a2816913-510a-4d10-a290-1db873e86ed6" />
 
 - <u>**Once the challenge has been Accepted:**</u>
     
