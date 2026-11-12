@@ -10,6 +10,7 @@ We have a zero tolerance policy where rules have been broken and will not hesita
 The race committee decision is final and there is no formal appeals process.
 
 ## 1. Eligibility
+
 The league has a greater onus than normal on captains/managers of individual teams taking on organisation of individual events, in order to take part each team must have:
 1. Clubs, teams and riders must be of good standing within the Zwift community with no history of cheating or other controversy. It is expected that a minimum of 60% of riders within a team are members of the club they are representing. All applications for participation will be reviewed by the race committee, who reserve the right to reject applications they feel will not make a positive contribution to the series.
 2. (Trial) Composite Teams (Spring 2026):<br>As a temporary trial, teams composed of riders from more than one club may be permitted to participate. Composite teams are not self-administered; they must be created and configured directly by a Moderator.<br>Participation under this arrangement is conditional on Moderator approval and will remain under review, after which it may be made permanent, extended, or discontinued.
