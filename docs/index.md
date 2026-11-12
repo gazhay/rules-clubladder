@@ -646,8 +646,8 @@ This guide summarises how to create an event using the Zwift Clubs functionality
 ## Sticky Watt/Equipment Analysis
 
 1. Where a sticky watts flag is given, race control will still check that it is not a false flag, if the DQ remains 24 hours after race finish, you can assume it is correct.
-2. If you'd like to investigate any possible device issues, first ask your rider to locate their log files for the ride in question [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
-3. Use Zwiftalizer to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods. [https://zwiftalizer.com/](https://zwiftalizer.com/)
+2. If you'd like to investigate any possible device issues, first ask your rider to locate their log files for the ride in question - https://support.zwift.com/locating-log-files-BykKO63fr
+3. Use Zwiftalizer to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods. [Zwiftalizer](https://zwiftalizer.com/)
 
 Zwiftalizer provides a range of guides and tips to help you from uploading files, to analysis and resolving issues, so we would ask captains use their site rather than asking race control, who will likely just point you towards their help pages anyway. 
 Zwiftalizer Help: [https://zwiftalizer.com/help](https://zwiftalizer.com/help)
@@ -660,27 +660,26 @@ Evidence should be submitted via the rider’s Verification Portal.
 
 1. If a rider is randomly selected for spot check you will see this notified on the results page, the team admin page, the rider profile page and the captain will receive an email notification (if they’ve opted in to emails). The notification on results page is signified by a small dice.
     
-    ![1000035381.png](1000035381.png)
-    
-2. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
+    <img width="250" height="80" alt="1000035381" src="https://github.com/user-attachments/assets/e0fa7309-48ab-45ed-aff8-3cd142592039" />
+
+    2. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
 3. (Preferred), the rider should upload their log file to [Zwiftalizer](https://zwiftalizer.com/).
     1. Note that Zwiftalizer now only allows 5 free uses if you register an account.
         
-        If you no longer have any free uses available, please contact the @Club Ladder Race Comittee on Discord via your captain, to discuss how to proceed.
+        If you no longer have any free uses available, please contact the @Club Ladder Race Committee on Discord via your captain, to discuss how to proceed.
         
 4. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
 
-![image.png](image%203.png)
-
-![image.png](image%204.png)
+<img width="390" height="220" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
+<img width="220" height="100" alt="image 4" src="https://github.com/user-attachments/assets/1cbb0869-5b1b-472b-a8d1-7c251ae351b0" />
 
 1. Input the riders Zwift ID (this will not be requested if you are submitting directly from their profile).
 
-![image.png](image%205.png)
+<img width="330" height="110" alt="image 5" src="https://github.com/user-attachments/assets/c56ca82d-72a5-4ac9-8ca5-7a051e7f16db" />
 
 1. Upload the necessary details. It is preferred that you give us a Zwiftalizer link, though you may also give us the log file directly.
 
-![image.png](image%206.png)
+<img width="200" height="150" alt="image 6" src="https://github.com/user-attachments/assets/6a921e4e-44d0-4f69-ac03-b5dd3a85a059" />
 
 1. Once submitted, race control will review within 72 hours. If you don’t hear anything from us within this time, all is well. If we need anything more, like analysis of a further ride, then we’ll get in touch via the team captain.
 
@@ -693,7 +692,7 @@ A rider will be immediately suspended from the ladder if they:
 - Refuse to verify
 
 A rider who fails a verification attempt during the 14-day window *may* be invited to re-attempt within that 14 day window, at the discretion of Race Control e.g. if due to a minor technical fault in one of the steps carried out.
-Each failed verification submission will be recorded as a Major Infringement - see [Infringment Penalties](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) for full details.
+Each failed verification submission will be recorded as a Major Infringement - see [Infringement Penalties](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) for full details.
 Suspension is lifted only upon successful verification.
 
 If the 14-day window expires without successful verification, the following cooling periods apply before re-attempts are permitted, if invited to do so:
@@ -702,20 +701,15 @@ Each subsequent failed re-attempt will be recorded as a further Major Infringeme
 
 ## <u>Verification Requirements:</u>
 
-### Provided via Rider Verification Portal on ladder website
-
-1. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) process - they have 14 days to do so.
-
-### Provided to race control via Discord LADA discussion thread
-
-1. [Weight verification video](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
-2. A link to their public Strava profile, or accept race control request to follow on Strava.
-3. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) process.
+### Provided via Rider Verification Portal on ladder website.<br>They have 14 days to do so.
+1. [Weight verification video](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#weigh-in-verification-process).
+2. A link to their Strava profile, and if Private - accept race control request to follow on Strava.
+3. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check) process.
 4. One of the following which show capability at least at the level shown in the flagged event. These are listed in order of preference i.e. if selecting indoor verification test, a reason must be given why an outdoor test cannot be completed:
     1. Dual recording of the event in question, with duals uploaded to Zwiftpower, original fit files from both devices provided to race control and photo/screenshots provided of Trainer & Power Meter Serial Numbers & Firmware Version.
     2. Verified ZADA (or similar, eg Mywhoosh verification) test within the last 12 months- Please provide a copy of the test, confirmation of receipt from the governing body and evidence of participation in the verified event (ZGP, World Championships etc.).
-    3. [FIT files of the rider’s best efforts outdoors for the duration flagged](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) (ie. if you’ve been flagged for 5m, provide 5m data), link to effort on Strava and original FIT files provided directly to race control. These can be historical best efforts within the last 12 months or done specifically for the purposes of verification.
-    4. In an instance of a rider not being able to verify outdoors, an indoor power test with their [best efforts over the required duration - dual recorded on Zwift](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
+    3. FIT files of the rider’s [best efforts outdoors](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#outdoor-power-verification) for the duration flagged (i.e. if you’ve been flagged for 5m, provide 5m data), link to effort on Strava and original FIT files provided directly to race control. These can be historical best efforts within the last 12 months or done specifically for the purposes of verification.
+    4. In an instance of a rider not being able to verify outdoors, an indoor power test with their [best efforts over the required duration - dual recorded on Zwift](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#in-game-power-verification).
 
 ### Weigh In Verification Process
 
@@ -755,7 +749,7 @@ Have someone else film for you, or, film yourself using a mirror so that you are
 
 ### Outdoor Power Verification
 
-This may be done specifically for the purposes of verification, or be a previous ride provided the ride is recorded in such a way that meets the necessary criteria. It may also be from multiple different rides if different power durations are being requested (ie. send us 1m verification from one ride and 20m verification from another)
+This may be done specifically for the purposes of verification, or be a previous ride provided the ride is recorded in such a way that meets the necessary criteria. It may also be from multiple different rides if different power durations are being requested (i.e. send us 1m verification from one ride and 20m verification from another)
 
 ### Test Details
 
@@ -810,7 +804,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 
 ### **How to change Captain of a Ladder Team**
 
-1. New captain needs to make themselves known on discord (in **⁠[new-rider-intros](https://discord.com/channels/928942633844355122/928942634305720380)** ) , so as to be given Captains access - including updating their Discord Server nickname to inlcude both Club and Team as per the welcome instruction.
+1. New Captains/VCs needs to make themselves known on discord (in **⁠[new-rider-intros](https://discord.com/channels/928942633844355122/928942634305720380)**) , so as to be given Captains access - including updating their Discord Server nickname to include both Club and Team as per the welcome instruction.
 2. A new Captain or Vice Captain will first need to register a Captain/VC account on the ladder website [https://ladder.cycleracing.club/signup](https://ladder.cycleracing.club/signup)
     1. If a user has an existing <u>Rider</u> account for the website, this can be upgraded to a Captain / Vice Captain account by using the [Captain/Vice Captain Sign-in](https://ladder.cycleracing.club/signin). Use your existing Rider login (Google or Discord), to upgrade their account.
     Creating a new account via a different login method only created duplicate accounts).
@@ -829,7 +823,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 3. New Vice Captain needs to register a VC account on ladder website [https://ladder.cycleracing.club/signup](https://ladder.cycleracing.club/signup)
 4. Existing captain goes to their team management page , and should use the Change Team Admins button to assign a Team Admin (Vice Captain)
     
-    ![Change Team Admins.JPG](Change_Team_Admins.jpg)
+<img width="591" height="166" alt="Change_Team_Admins" src="https://github.com/user-attachments/assets/b4784100-59de-4057-af69-739b0eb925b6" />
     
 5. In the Edit Admins menu, use the drop-down menu and select your Vice Captain.
     
@@ -857,76 +851,65 @@ In an instance where a rider does not ride outside, they can provide dual record
 - <u>Expected result vs. actual result</u>: Explain what results you expected - be as specific as possible. Just saying "the app doesn’t work as expected" is not useful. It's also helpful to describe what you actually experienced.
 
 ## Purge A Refused Data Consent
-(legacy - see [Linking / Unlinking with Zwift (new data consent)](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md))
+(legacy - see [Linking / Unlinking with Zwift (new data consent)](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#linking--unlinking-with-zwift-new-data-consent))
 
-1. In order to create race results and undertake the performance verification necessary for fair racing we require to collect and store some of your data, we need your consent to do this. This data includes any publicly available personal and performance data on your Zwift, Zwiftpower or ZwiftRacing profile. Without your consent unfortunately you will be unable to participate in any ladder events. If you’d like to find out more information about the data we collect and how we use it, please refer to our [privacy policy](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
+1. In order to create race results and undertake the performance verification necessary for fair racing we require to collect and store some of your data, we need your consent to do this. This data includes any publicly available personal and performance data on your Zwift, ZwiftPower or ZwiftRacing profile. Without your consent unfortunately you will be unable to participate in any ladder events. If you’d like to find out more information about the data we collect and how we use it, please refer to our [privacy policy](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#privacy--cookie-policy).
 
 2.            ***Refusing consent will mean you cannot ride in the Ladder series.***
 
 3. Consent must be given by a rider, and not on their behalf, and can be given at [https://ladder.cycleracing.club/riderConsent](https://ladder.cycleracing.club/riderConsent) 
 4. If a rider has rejected Data Consent and later wishes to join the ladder, an Amin must be contacted to change / purge the Data Consent.
-    
-    ![consent.png](bfb00937-bf69-4855-8033-a0ac51513680.png)
+
+    <img width="931" height="1421" alt="bfb00937-bf69-4855-8033-a0ac51513680" src="https://github.com/user-attachments/assets/3232f217-0a24-42b4-8820-e1fd167e19d7" />
     
 5. Use the [#ladder-captains-race-control](https://discord.com/channels/928942633844355122/941419628922548274) channel on Discord, and provide the rider ID number, and tag @ClubLadderRaceCommittee asking nicely for them to Purge data consent so that the riders can then resubmit their consent.
 
 # 📷 Glossary
 
-- (On results page), rider has been randomly selected for a [🎲Rider Spot Check](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md).
+- (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
     
-    ![image.png](image%207.png)
+    <img width="100" height="133" alt="image 7" src="https://github.com/user-attachments/assets/add837bf-18fe-46a2-b11e-04bd1f5f5a93" />
     
-
 - This padlock icon denotes that the user *preference* is Private activities, and serves as a reminder for captains to ask the rider to save Ladder races as a Public Activity on Zwift.
     
-    ![image.png](image%208.png)
+    <img width="75" height="80" alt="image 8" src="https://github.com/user-attachments/assets/f70fb175-640a-4900-a22a-5ba90420d6d1" />
     
-
 - Rider / roster refresh - icon should only be visible during an open Transfer Window (if a new rider added to roster shows errors, try this manual refresh in the first instance).
     
-    ![image.png](image%209.png)
-    
+    <img width="46" height="47" alt="image 9" src="https://github.com/user-attachments/assets/58236eb5-1e73-4a3c-a67a-8e421f050b58" />  
 
-- Rider has no valid 30day rank on [https://www.zwiftracing.app](https://www.zwiftracing.app/)
+- (Legacy - Rider has no valid 30day rank on [https://www.zwiftracing.app](https://www.zwiftracing.app/))
     
-    ![image.png](image%2010.png)
-    
+    <img width="68" height="35" alt="image 10" src="https://github.com/user-attachments/assets/c91b5dd4-6213-4611-b8e1-16badacb4eed" />
 
 - Team is in a ‘Zombie’ state, and can be bypassed in challenges.
     
-    ![image.png](image%2011.png)
-    
+    <img width="37" height="34" alt="image 11" src="https://github.com/user-attachments/assets/a71917d6-589d-456f-aefb-8b738636efd0" />
 
 - Team is in a ‘dead’ state, and will be removed from the ladder.
     
-    ![image.png](image%2012.png)
-    
+    <img width="53" height="36" alt="image 12" src="https://github.com/user-attachments/assets/9536737b-ff6c-4c6a-9ce0-9a9f4e162692" />
 
 - ‘Cancel’ on a fixture not yet accepted - this cancels the fixture, nothing changes.
     
-    ![image.png](image%2013.png)
-    
+    <img width="419" height="225" alt="image 13" src="https://github.com/user-attachments/assets/7e8088cf-d309-4cc7-ab69-43fdb7c22b1e" />
 
 - (Displayed on captains team admin page). Represents the ranks that may currently be added to the team, this will change based on the riders currently on the roster. Yellow shaded rank represents the median rank in the team and riders can be added +/- 1 rank from this.
     
-    ![image.png](image%2014.png)
-    
+    <img width="171" height="106" alt="image 14" src="https://github.com/user-attachments/assets/e499ed7a-9c8a-4c4d-af64-7997e5c49e24" />
 
 - If the challenging team fail to propose a course within 36 hours then it will flip to the opposition to make the choice.
     
-    ![image.png](image%2015.png)
-    
+    <img width="168" height="38" alt="image 15" src="https://github.com/user-attachments/assets/5f3f9783-a86e-4cd0-a1e0-081fd0e6ff31" />
 
 - W= Won challenge, L= Lost challenge, D= Defended challenge (i.e. you were the higher ranked team and you defended a challenge from the team below).
     
-    ![image.png](image%2016.png)
-    
+    <img width="122" height="31" alt="image 16" src="https://github.com/user-attachments/assets/f5d8605c-663c-4038-8e0e-b1667dfc1221" />
 
 - This indicates a rides has been given a [shadow ban](https://forums.zwift.com/t/riders-cant-see-me-in-race/627466) directly from Zwift. The rider would need to contact Zwift directly to find out what the issue is.
 Any shadow banned riders are auto-banned at Ladder, but even if they were not, if they turn up to a race they wouldn't appear in the results anyway so there is nothing we can do. The ladder ban is more of a notification for the rider to go and ask Zwift about the ban.
     
-    ![image.png](image%2017.png)
-    
+    <img width="1871" height="452" alt="image 17" src="https://github.com/user-attachments/assets/a2816913-510a-4d10-a290-1db873e86ed6" />
 
 - <u>**Once the challenge has been Accepted:**</u>
     
@@ -936,33 +919,31 @@ Any shadow banned riders are auto-banned at Ladder, but even if they were not, i
     
     ‘Forfeit’ will forfeit the entire fixture (note this is ***not*** a Cancellation - the forfeiting team will “lose” the fixture).
     
-    ![image.png](image%2018.png)
-    
+    <img width="393" height="358" alt="image 18" src="https://github.com/user-attachments/assets/e3654aec-6cae-4945-bb0e-d5ccd9c10715" />
 
 - <u>**Auction Offer Symbols:**</u>
     
     A number ‘3’ in Hexagon indicates the team are requesting a 3v3 in their offer.
     Note this is a *request.*
     
-    ![image.png](image%2019.png)
+    <img width="37" height="35" alt="image 19" src="https://github.com/user-attachments/assets/b9d18844-602a-409a-a578-42fa13caab2a" />
     
     A number ‘4’ in Hexagon indicates the team are requesting a 4v4 in their offer.
     Note this is a *request.*
     
-    ![image.png](image%2020.png)
+    <img width="34" height="32" alt="image 20" src="https://github.com/user-attachments/assets/dbed7189-5c79-4b86-ae59-9c350ff7eaaf" />
     
     A number ‘5’ in Hexagon indicates a standard 5v5 offer.
     
-    ![image.png](image%2021.png)
+    <img width="36" height="31" alt="image 21" src="https://github.com/user-attachments/assets/479faa8f-49ed-4428-b978-110bc25f09c3" />
     
 - The rider on a roster will have a ’Z’ symbol next to their name if they have Linked their Zwift account to Ladder (authorised Data Consent).
     
-    ![Rider linked Z.jpg](Rider_linked_Z%201.jpg)
-    
+    <img width="261" height="40" alt="Rider_linked_Z" src="https://github.com/user-attachments/assets/86787620-1693-4c07-9cda-bfbde0b36151" />
+
 - The rider on a roster will have a warning triangle ⚠ symbol next to their name if they have unlinked their Zwift account from Ladder. This means they are not eligible to race.
     
-    ![image.png](image%2022.png)
-    
+    <img width="91" height="61" alt="image 22" src="https://github.com/user-attachments/assets/6f470170-c008-48c6-973e-325e1d02acef" />
 
 # 📜 Changelog
 
