@@ -34,6 +34,12 @@ jobs:
       - name: Install Python Dependencies
         run: |
           pip install mkdocs-material mkdocs-with-pdf
+      - name: Inject Git Commit into MkDocs Config
+        run: |
+          COMMIT_HASH=$(git rev-parse --short HEAD)
+          COMMIT_DATE=$(git log -1 --format=%cd --date=short)
+          # Appends or updates cover_subtitle under the with-pdf plugin block
+          sed -i 's/cover_subtitle: .*/cover_subtitle: "Build: '$COMMIT_HASH' ($COMMIT_DATE)"/' mkdocs.yml
 
       - name: Build MkDocs Site & PDF
         run: mkdocs build

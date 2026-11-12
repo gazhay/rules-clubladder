@@ -17,6 +17,7 @@ plugins:
       author: Club Ladder Race Committee
       copyright: Club Ladder
       cover_title: Club Ladder Race Book
+      cover_subtitle: "Draft"  # Will be overwritten dynamically by GitHub Actions
       output_path: pdf/club-ladder-race-book.pdf
       enabled_by_default: true
 
