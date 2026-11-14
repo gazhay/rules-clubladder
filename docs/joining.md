@@ -11,7 +11,7 @@ After you have read through the race book and are happy that you meet all requir
 2. Once you have received your verification email (check spam if you don’t receive it) and confirmed your email address, you are ready to register your team.
 3. On the Ladder site hit the [big button](https://ladder.cycleracing.club/teamRegister) at the top of the page to register your team, and at the same time verify your Discord account. Upon entering, each team will select one of the following categories:
 - **Mixed**: Part of the mixed ladder, with a choice of 3 regions.
-- **Women’s**: Restricted to only female riders (denoted by your Zwift account gender). Can challenge any team within range globally, but may only be challenged by other women's teams. Note: Presently only one women's ladder exists, nominally EMEA, however teams from any region may enter, on the expectation that most teams will prefer emea time slots.
+- **Women’s**: Restricted to only female riders (denoted by your Zwift account gender). Can challenge any team within range globally, but may only be challenged by other women's teams. Note: Presently only one women's ladder exists, nominally EMEA, however teams from any region may enter, on the expectation that most teams will prefer EMEA time slots.
 
  <img width="1906" height="589" alt="image 1" src="https://github.com/user-attachments/assets/367b694a-7e95-4c4e-baf8-6415ab8d3f72" />
 
