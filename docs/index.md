@@ -17,3 +17,4 @@ The league mixes all teams, all rankings, together in one league, allowing for a
 7. **[Seasons & Transfer Windows](transfer.md).**
 8. **[Rider Performance & World Class](performance.md).**
 9. **[How to & FAQ](how-to.md).**
+10. **[Changelog](changelog.md).**
