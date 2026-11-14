@@ -113,9 +113,19 @@ Riders who participate in races unlinked to Zwift will receive a short 10 day su
 1. Anyone under investigation by ZADA or another recognised sports governing body will be suspended from ladder competition until such time that any investigation is complete. Anyone then sanctioned by ZADA or an official body will be banned for life from ladder competition, unless that body later finds their ban to have been made in error.
 2. The list of rules is non exhaustive, the race committee reserves the right to remove riders for any performance deemed suspicious, unnatural or exhibiting “unusual” technique that may (knowingly or unknowingly) manipulate the game performance, or that is not reflective of riding a bike in real life.
 3. Club Ladder is by application from Clubs of good standing. Any Club that has multiple roster members failing [Rider Performance, Spot Checks & Verification](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#-rider-performance-spot-checks--verification) within any 6 month period may be reviewed by Club Ladder Race Committee as to their future eligibility to compete on the Ladder.
-This does include if riders are on separate ladder teams but race for the same Club, and is to ensure continued Standards of [Eligibility](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#1-eligibility) .
+This does include if riders are on separate ladder teams but race for the same Club, and is to ensure continued Standards of [Eligibility](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#1-eligibility).
 
-## 8. Data & Administrative Requirements
+## 8. Rider Health, Safety & Duty of Care
+
+1. A rider's health and safety always comes first. Nothing in these rules, and no race result, league position or team obligation, is more important than the wellbeing of the people taking part.
+2. Riders are responsible for deciding whether they are fit to race. Anyone experiencing physical pain or abnormal discomfort before or during a race, including chest pain, dizziness, unusual breathlessness, or pain in the joints or muscles, should stop riding immediately and seek medical advice if appropriate.
+3. Club Ladder does not encourage riding while injured, unwell or in pain. Riders should not race if they are carrying an injury or illness that racing could make worse.
+4. Riders should not race under the influence of alcohol, recreational drugs, or any substance that impairs judgement, coordination or physical safety.
+5. Riders are responsible for setting up their riding space safely, including a stable trainer or bike, adequate ventilation and cooling, and hydration.
+6. Captains should make sure their riders know that withdrawing from a race, or stopping mid-race, for health or safety reasons is always acceptable, and no rider should be pressured by a captain or teammate to start or continue.
+7. Club Ladder recommends that due to the remote nature of Zwift racing that Captains implement procedures to be able to conduct welfare checks on any riders who they believe may be in immediate danger and would encourage captains to check in on the wellbeing of all team members periodically.
+
+## 9. Data & Administrative Requirements
 
 1. All riders and teams must keep their data and information accurate and up to date, particularly where it impacts performance.
     1. If inaccurate data (weight, height, FTP etc) was used during a Ladder race, that leads to a rider deciding to have Zwift and/or ZwiftRacing.app to nullify the effort/result, it is the captain's responsibility to notify the Ladder Race Committee immediately to have DQ instated within 24 hours of the Ladder race, for Inaccurate Data.
@@ -130,13 +140,13 @@ For the purposes of category eligibility and race registration, this series adop
 We do not have the ability, authority, or remit to verify, challenge, or assess any rider's gender beyond the designation held by Zwift. Any requests to amend your own in-game gender, or any queries regarding participants gender category must be directed to [Zwift](https://www.zwift.com/uk/contact-us) directly, as this falls entirely outside the jurisdiction of the Ladder series and its organisers
 4. The official language of Club Ladder is English. The official timezone of Club Ladder is UTC.
 
-## 9. Penalties & Enforcement
+## 10. Penalties & Enforcement
 
 1. Where a violation has been committed that primarily impacts the performance of an <u>individual</u> rider only, the rider in question will be disqualified from that individual race result.
 2. Trespass riders are riders who are not on a team roster before the race starts.
 The whole team will be disqualified if they won, or only the rider disqualified if the team lost, and in both instances the Trespass rider will receive a 10 day ban.
 
-## 10. Women’s Ladder Rule Amendments
+## 11. Women’s Ladder Rule Amendments
 
 This is a temporary information page relating to women’s ladder. Women’s ladder operates to a set of rules broadly similar to the mixed ladder, therefore all rules and guidance can be found in the main rule book.
 
