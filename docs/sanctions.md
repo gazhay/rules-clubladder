@@ -40,6 +40,6 @@ Riders will only be re-admitted after a ban if Race Committee is confident the r
 | **Minor Infringement**<br># strikes within 180 day period. | Race Penalty | Race Penalty | 30 day suspension | Race Penalty | 60 day suspension *(alternating race penalty/ suspension thereafter)* |
 | **Major Infringement**<br># strikes all time | Race Penalty | 30 day suspension | 90 day suspension | Lifetime ban |  |
 | **Gross Misconduct** | Lifetime Ban |  |  |  |  |
-| [World Class/Equipment verification](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#world-class-ability) | Can race while pending verification for 7 days max (World Class), 6 days (Equipment verification). Then suspended until verified. |  |  |  |  |
+| [World Class/Equipment verification](https://gazhay.github.io/rules-clubladder/performance/) | Can race while pending verification for 7 days max (World Class), 6 days (Equipment verification). Then suspended until verified. |  |  |  |  |
 
 Where a rider has a combination of multiple minor and major infringements, race control will exercise discretion in applying appropriate sanctions.
