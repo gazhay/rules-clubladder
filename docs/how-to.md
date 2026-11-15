@@ -454,7 +454,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 
 5. Use the [#ladder-captains-race-control](https://discord.com/channels/928942633844355122/941419628922548274) channel on Discord, and provide the rider ID number, and tag @ClubLadderRaceCommittee asking nicely for them to Purge data consent so that the riders can then resubmit their consent.
 
-# 📷 Glossary
+## 📷 Glossary
 
 - (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://gazhay.github.io/rules-clubladder/how-to/#rider-spot-check).
 
