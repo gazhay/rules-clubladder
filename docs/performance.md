@@ -7,7 +7,7 @@ The exact parameters of each check will not be published, and are constantly und
 
 ## World Class Ability
 
-Riders power curves are regularly checked against commonly accepted power figures for professional or world class performance at their age grade. Any rider putting out such figures will be asked by race control to [verify their ability in a number of ways](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#-world-class-verification-process) including comparable real life performance or a verified performance test by ZADA or another similar body. Riders may continue to race while pending verification but will not be allowed to continue in ladder if verification is not provided in a timely manner.
+Riders power curves are regularly checked against commonly accepted power figures for professional or world class performance at their age grade. Any rider putting out such figures will be asked by race control to [verify their ability in a number of ways](https://gazhay.github.io/rules-clubladder/how-to/#verification-requirements) including comparable real life performance or a verified performance test by ZADA or another similar body. Riders may continue to race while pending verification but will not be allowed to continue in ladder if verification is not provided in a timely manner.
 
 The team captain of any rider receiving a World Class DQ will be contacted directly by race control  within 24 hours for further information if required.
 
@@ -26,7 +26,7 @@ This is very visible from a flat top on the power curve like shown. In most inst
 <img width="128" height="55" alt="Untitled 1" src="https://github.com/user-attachments/assets/b27f3a1d-5dbe-42f2-9a3e-54e3a242f1d7" />
 
 
-DQ for sticky watts is automatic, and is for the most part an “open and shut case” as the system is accurate in spotting this. The main instances of false positives is where riders have significant device or equipment issues which cause the sticky watts. However as Sticky Watts and Equipment Issues both constitute a minor infringement, race control do not investigate these further as both are punished the same. As a captain you may well want to investigate the issue with your rider to help resolve future issues. Please see the guide [here](https://github.com/gazhay/rules-clubladder/blob/main/docs/index.md#sticky-wattequipment-analysis).
+DQ for sticky watts is automatic, and is for the most part an “open and shut case” as the system is accurate in spotting this. The main instances of false positives is where riders have significant device or equipment issues which cause the sticky watts. However as Sticky Watts and Equipment Issues both constitute a minor infringement, race control do not investigate these further as both are punished the same. As a captain you may well want to investigate the issue with your rider to help resolve future issues. Please see the guide [here](https://gazhay.github.io/rules-clubladder/how-to/#sticky-wattequipment-analysis).
 
 ## Equipment Requirements
 
@@ -36,4 +36,4 @@ A number of equipment requirements exist in Ladder.
 - No “spin” or “exercise” bikes.
 - Where riders have access to multiple power meters, they must pair trainer/bike as the primary power source for in game measurement.
 - A controllable trainer/bike must be connected if the rider has one.
-These will be checked through random [Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
+These will be checked through random [Rider Spot Check](https://gazhay.github.io/rules-clubladder/how-to/#rider-spot-check).
