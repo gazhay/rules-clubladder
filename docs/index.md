@@ -16,6 +16,6 @@ The league mixes all teams, all rankings, together in one league, allowing for a
 6. **[Race refereeing](refereeing.md).**
 7. **[Transfer Windows & Seasons](transfer.md).**
 8. **[Rider Performance & World Class](performance.md).**
-9. **['How To' & FAQ](how-to.md).**
+9. **['How To', FAQ & Glossary](how-to.md).**
 10. **[Changelog](changelog.md).**
 11. **[Privacy](privacy.md).**
