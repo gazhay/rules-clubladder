@@ -66,7 +66,7 @@ If a rider on a roster has unlinked their Zwift account, there will be a warning
 
 <img width="259" height="154" alt="Untitled 2" src="https://github.com/user-attachments/assets/a61bf9b7-77ba-4c96-bd10-28cb71b9c93a" />
 
-4. Riders who are eligible to be removed (see [👨‍⚖️ Rules](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md)  - been inactive on ladder for a certain period etc.) may be removed from the roster by pressing the red X on the right of their stats. This is the same process for removing riders during the transfer window.
+4. Riders who are eligible to be removed (see [Rules](https://gazhay.github.io/rules-clubladder/rules/)  - been inactive on ladder for a certain period etc.) may be removed from the roster by pressing the red X on the right of their stats. This is the same process for removing riders during the transfer window.
 
 <img width="270" height="195" alt="Untitled" src="https://github.com/user-attachments/assets/00c1d244-4809-4faa-874d-1a087298a278" />
 
@@ -163,7 +163,7 @@ Note that at the time of release, it has passed on only the most basic testing a
 
 ## Accepting A Challenge
 
-The preferred method of creating and accepting a challenge is using the “[availability auction](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md)” feature, though the “old” way of organising is still summarised below as a backup.
+The preferred method of creating and accepting a challenge is using the “[availability auction](https://gazhay.github.io/rules-clubladder/how-to/#accepting-creating-an-auction-offer)” feature, though the “old” way of organising is still summarised below as a backup.
 
 [https://youtube.com/shorts/UedGJrZ3aus?si=Y0ToRJbcKBpx13jp](https://youtube.com/shorts/UedGJrZ3aus?si=Y0ToRJbcKBpx13jp)
 
@@ -283,7 +283,7 @@ A rider will be immediately suspended from the ladder if they:
 - Refuse to verify
 
 A rider who fails a verification attempt during the 14-day window *may* be invited to re-attempt within that 14 day window, at the discretion of Race Control e.g. if due to a minor technical fault in one of the steps carried out.
-Each failed verification submission will be recorded as a Major Infringement - see [Infringement Penalties](Club%20Ladder%20Race%20Book%20402167d503d080648570cb89af896829.md) for full details.
+Each failed verification submission will be recorded as a Major Infringement - see [Infringement Penalties](https://gazhay.github.io/rules-clubladder/sanctions/#infringement-penalties) for full details.
 Suspension is lifted only upon successful verification.
 
 If the 14-day window expires without successful verification, the following cooling periods apply before re-attempts are permitted, if invited to do so:
@@ -293,14 +293,14 @@ Each subsequent failed re-attempt will be recorded as a further Major Infringeme
 ## <u>Verification Requirements:</u>
 
 ### Provided via Rider Verification Portal on ladder website.<br>They have 14 days to do so.
-1. [Weight verification video](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#weigh-in-verification-process).
+1. [Weight verification video](https://gazhay.github.io/rules-clubladder/how-to/#weigh-in-verification-process).
 2. A link to their Strava profile, and if Private - accept race control request to follow on Strava.
-3. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check) process.
+3. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](https://gazhay.github.io/rules-clubladder/how-to/#rider-spot-check) process.
 4. One of the following which show capability at least at the level shown in the flagged event. These are listed in order of preference i.e. if selecting indoor verification test, a reason must be given why an outdoor test cannot be completed:
     1. Dual recording of the event in question, with duals uploaded to Zwiftpower, original fit files from both devices provided to race control and photo/screenshots provided of Trainer & Power Meter Serial Numbers & Firmware Version.
     2. Verified ZADA (or similar, eg Mywhoosh verification) test within the last 12 months- Please provide a copy of the test, confirmation of receipt from the governing body and evidence of participation in the verified event (ZGP, World Championships etc.).
-    3. FIT files of the rider’s [best efforts outdoors](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#outdoor-power-verification) for the duration flagged (i.e. if you’ve been flagged for 5m, provide 5m data), link to effort on Strava and original FIT files provided directly to race control. These can be historical best efforts within the last 12 months or done specifically for the purposes of verification.
-    4. In an instance of a rider not being able to verify outdoors, an indoor power test with their [best efforts over the required duration - dual recorded on Zwift](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#in-game-power-verification).
+    3. FIT files of the rider’s [best efforts outdoors](https://gazhay.github.io/rules-clubladder/how-to/#outdoor-power-verification) for the duration flagged (i.e. if you’ve been flagged for 5m, provide 5m data), link to effort on Strava and original FIT files provided directly to race control. These can be historical best efforts within the last 12 months or done specifically for the purposes of verification.
+    4. In an instance of a rider not being able to verify outdoors, an indoor power test with their [best efforts over the required duration - dual recorded on Zwift](https://gazhay.github.io/rules-clubladder/how-to/#in-game-power-verification).
 
 ### Weigh In Verification Process
 
@@ -308,13 +308,13 @@ The full protocol for a rider measuring their weight is as follows.
 
 Have someone else film for you, or, film yourself using a mirror so that you are visible throughout the video.
 
-### Before starting the test
+**Before starting the test**
 
 1. Set up scales suitable for measuring body weight in the middle of a room on a hard, even surface, with nothing nearby to hold on to.
 2. Find a solid heavy object (approx 10kg) that you can comfortably carry. Object must clearly indicate the mass of the object (e.g., “10kg” printed on the face of a kettlebell).
 3. Make sure you are wearing sports/cycling shorts and a jersey.
 
-### During the test
+**During the test**
 
 1. Start recording a video on any device; for example, a cell phone
 2. Show your face on the video.
@@ -332,7 +332,7 @@ Have someone else film for you, or, film yourself using a mirror so that you are
 14. Take yourself off and show the zero reading.
 15. Stop recording.
 
-### After the test
+**After the test**
 
 1. Upload as an unlisted video to YouTube and share it with race control in the LADA discord thread, or share the file directly by uploading into Discord.
 2. Weight as shown in weight recording video must be the same weight as in game for the race being verified (+- reasonable adjustment for any time which has passed since the event).
@@ -342,7 +342,7 @@ Have someone else film for you, or, film yourself using a mirror so that you are
 
 This may be done specifically for the purposes of verification, or be a previous ride provided the ride is recorded in such a way that meets the necessary criteria. It may also be from multiple different rides if different power durations are being requested (i.e. send us 1m verification from one ride and 20m verification from another)
 
-### Test Details
+**Test Details**
 
 1. A link to the rider’s public Strava data.
 2. Rides must be conducted on a significant gradient (5% or more) and record both power and heart rate data.
@@ -354,7 +354,7 @@ This may be done specifically for the purposes of verification, or be a previous
 8. For any effort of 2+ minutes you will need to pace yourself to produce your maximal power output for that specific duration. In other words you do not want to “fade out” significantly in the second half of the effort. The efforts can be completed seated or standing or a combination out of both.
 9. For efforts of 1 minutes or under, you will need to do an all out or near all out effort, no need to pace yourself. Again, seated or standing is fine.
 
-### After the test
+**After the test**
 
 1. Download the original FIT files from your recording device, or if you are sending historic efforts and don’t have the original fit files you can [download these from Strava](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export). Clearly label them as to which device they came from and send them to race control via Discord.
 2. Collect details of  make, model, firmware, serial number and calibration information, slope number or calibration factor for your power meter and a photo of the hardware used. Send this to race control via Discord.
@@ -363,11 +363,11 @@ This may be done specifically for the purposes of verification, or be a previous
 
 In an instance where a rider does not ride outside, they can provide dual recorded verification from in game, using a secondary Power Meter device. This may be done specifically for the purposes of verification, or be a previous ride provided the ride is recorded in such a way that meets the following criteria.
 
-### Before Starting
+**Before Starting**
 
 1. Setup a camera to simultaneously show you, your bicycle, your trainer and the Zwift screen throughout. This can be done with a webcam and streaming software (such as Streamlabs OBS), or a mobile device.
 
-### During the test
+**During the test**
 
 1. Start streaming from the point of login. In particular, your stream must include the pairing screen and selection of the smart trainer (or smart bike), cadence sensor, and heart rate monitor. If these are automatically selected on logging in, then you must unselect them, and then reselect them.
 2. Setup Zwift to record the power from the trainer, and a separate cycle computer to record from a separate power meter (usually, power cranks / pedals).
@@ -378,14 +378,14 @@ In an instance where a rider does not ride outside, they can provide dual record
 7. Ride a 10-20 minute warm up of your own choosing.
 8. Perform spindown of trainer (if applicable) and calibrate zero-offset of power meter after the warmup (follow spindown and zero-offset calibration instructions below).
 
-### Test details
+**Test details**
 
 1. Ensure you are appropriately rested, hydrated and fed to do maximal efforts over the time periods requested.
 2. The test is composed of an effort over the power duration requested by race control, this will vary depending on your individual request. It is important that you try and achieve the best possible power output for the entire duration of each effort.
 3. For any effort of 2+ minutes you will need to pace yourself to produce your maximal power output for that specific duration. In other words you do not want to “fade out” significantly in the second half of the effort. The efforts can be completed seated or standing or a combination out of both.
 4. For efforts of 1 minutes or under, you will need to do an all out or near all out effort, no need to pace yourself. Again, seated or standing is fine.
 
-### After the test
+**After the test**
 
 1. Upload as an unlisted video to YouTube and share it with race control in the LADA discord thread, or share the file directly by uploading into Discord.
 2. Download the original [FIT files from Zwift](https://support.zwift.com/en_us/your-activity-history-and-fit-files-SJbHywdNH) and from your GPS device, clearly label them as to which device they came from and send them to race control via Discord.
@@ -441,9 +441,9 @@ In an instance where a rider does not ride outside, they can provide dual record
 - <u>Steps to reproduce</u>: A screenshot is a proof that you had a problem, but keep in mind that your developer might not be able to reproduce the bug. Make sure to describe, with as much detail as possible, the steps you took before you encountered the bug.
 - <u>Expected result vs. actual result</u>: Explain what results you expected - be as specific as possible. Just saying "the app doesn’t work as expected" is not useful. It's also helpful to describe what you actually experienced.
 
-## Purge A Refused Data Consent<br>(legacy - see [Linking / Unlinking with Zwift (new data consent)](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#linking--unlinking-with-zwift-new-data-consent))
+## Purge A Refused Data Consent<br>(legacy - see [Linking / Unlinking with Zwift (new data consent)](https://gazhay.github.io/rules-clubladder/how-to/#linking-unlinking-with-zwift-new-data-consent))
 
-1. In order to create race results and undertake the performance verification necessary for fair racing we require to collect and store some of your data, we need your consent to do this. This data includes any publicly available personal and performance data on your Zwift, ZwiftPower or ZwiftRacing profile. Without your consent unfortunately you will be unable to participate in any ladder events. If you’d like to find out more information about the data we collect and how we use it, please refer to our [privacy policy](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#privacy--cookie-policy).
+1. In order to create race results and undertake the performance verification necessary for fair racing we require to collect and store some of your data, we need your consent to do this. This data includes any publicly available personal and performance data on your Zwift, ZwiftPower or ZwiftRacing profile. Without your consent unfortunately you will be unable to participate in any ladder events. If you’d like to find out more information about the data we collect and how we use it, please refer to our [privacy policy](https://gazhay.github.io/rules-clubladder/privacy/).
 
 2.            ***Refusing consent will mean you cannot ride in the Ladder series.***
 
@@ -456,7 +456,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 
 # 📷 Glossary
 
-- (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://github.com/gazhay/rules-clubladder/edit/main/docs/index.md#rider-spot-check).
+- (On results page), rider has been randomly selected for a [🎲Rider Spot Check](https://gazhay.github.io/rules-clubladder/how-to/#rider-spot-check).
 
     <img width="75" height="90" alt="image 7" src="https://github.com/user-attachments/assets/add837bf-18fe-46a2-b11e-04bd1f5f5a93" />
 
@@ -476,7 +476,7 @@ In an instance where a rider does not ride outside, they can provide dual record
 
     <img width="37" height="34" alt="image 11" src="https://github.com/user-attachments/assets/a71917d6-589d-456f-aefb-8b738636efd0" />
 
-- Team is in a ‘dead’ state, and will be removed from the ladder.
+- Team is in a ‘dead’ state, and will be  from the ladder.
 
     <img width="53" height="36" alt="image 12" src="https://github.com/user-attachments/assets/9536737b-ff6c-4c6a-9ce0-9a9f4e162692" />
 
