@@ -1,3 +1,5 @@
+# This is a "future" rulebook for the move from velo1 to zMAP. the current live rulebook is always available via https://ladder.cycleracing.club/rules
+
 # Club Ladder Race Book
 
 The league is a team based one operating in a [ladder tournament](https://en.wikipedia.org/wiki/Ladder_tournament) format, each team can challenge others above them in the league to a race, which is then run in a 5 v 5 rider format with race points allocated based on finishing position, the team with the highest number of race points is the winner.
