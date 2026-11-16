@@ -1,5 +1,5 @@
 
-Last Updated 16.11.2026.
+Last Updated 16th November 2026.
 
 # Privacy & Cookie Statement
 
