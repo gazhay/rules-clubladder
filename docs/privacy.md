@@ -1,7 +1,7 @@
 
 Last Updated 16.11.2026.
 
-# Privacy & Cookie Policy
+# Privacy & Cookie Statement
 
 This privacy notice explains how Club Ladder collects, uses, stores and protects personal information when you use the Club Ladder website at [cycleracing.club](https://cycleracing.club/).
 
