@@ -25,7 +25,7 @@ The league has a greater onus than normal on captains/managers of individual tea
 ## 2. Team Composition & Roster Management
 
 1. All teams are organised using a rider’s Zwift [zMAP](https://zwiftinsider.com/fitness-metrics-web/) value.<br>“*zMAP estimates your Maximal Aerobic Power using your best short-duration power efforts from the last 90 days*” - [Zwift](https://support.zwift.com/en_us/fitness-metrics-faq-Sk0Cebzti).<br>The rider’s zMAP value on the Ladder Site reflects the value provided to us directly from Zwift, as of the beginning of each “transfer window”. All existing riders on a team will have their zMAP value frozen as of that date. New riders who are added between transfer windows will have their zMAP value saved when they are first added to a roster. Any further reference to “zMAP” on the site refers to this frozen rank.
-     1. During normal operation of the ladder (between transfer windows) a rider will not be able to drop down in zMAP value.
+     1. During normal operation of the ladder (between transfer windows) a rider will not be able to drop down in zMAP value.<br>(This is shown / referred to as HWM (High Water Mark) Protected on the team's page)
      2. If a rider increases zMAP value, that new value will be reflected on the ladder site, and used until the following Transfer Window reset.
 3. Riders must have a valid zMAP value to take part in ladder. This is based upon the rider’s Zwift zMAP value as of the first day of each Transfer Window or Season Reset.
 Any rider without a zMAP value in Zwift cannot be added to a roster and, if already on a roster, must be removed by the end of the transfer window.
