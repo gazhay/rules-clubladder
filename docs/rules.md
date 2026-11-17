@@ -30,21 +30,20 @@ The league has a greater onus than normal on captains/managers of individual tea
 3. Riders must have a valid zMAP value to take part in ladder. This is based upon the rider’s Zwift zMAP value as of the first day of each Transfer Window or Season Reset.
 Any rider without a zMAP value in Zwift cannot be added to a roster and, if already on a roster, must be removed by the end of the transfer window.
     1. Note that any rider who races in a ladder race without a zMAP value, and goes on to gain a zMAP value from that race, will receive a short 10 day suspension. This is to stop the practice of unranked riders “racing anyway to get a zMAP value”.
-4. A team must not have a zMAP spread of greater than 1.2.
-   a. There is a zMAP ‘floor’ and ‘ceiling’;
+4. A team must not have a zMAP spread of greater than 1.2.<br>a. There is a zMAP ‘floor’ and ‘ceiling’;
     - Any rider with zMAP under 2.5 will be treated as 2.5 for the purposes of all spread rules.
     - Any rider with zMAP over 5.8 will be treated as 5.8 for the purposes of all spread rules.
-5. In an instance where riders in a squad upgrade beyond the permitted zMAP spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. They are referred to as ‘Outliers’.
+6. In an instance where riders in a squad upgrade beyond the permitted zMAP spread, they may remain in that squad until the next transfer window, however this will have a number of impacts on the team. They are referred to as ‘Outliers’.
     1. Any rider upgrading beyond the permitted zMAP spread and becoming an Outlier(s) of the team, may choose to transfer to a different team immediately, even if outwith a transfer window.
        Or, captains can choose to keep upgraders, and transfer the lower ranked Outlier(s) members to make their spread compliant if they wish to do so, even if outwith a transfer window.
        - (To do this - the Captain of the new ‘target’ team for the Outlier, can add them to to their roster and the system will allow the transfer - the rider does not need "released" frst.)
     3. In an instance where the team fielded in any one race has a spread of greater than the permitted zMAP spread, the highest “ranked” riders that breach the spread for the squad will score 50% points (rounded up).
     *E.g. In the example of a team with riders ranging from 3.0 zMAP to 4.3 zMAP, if rider(s) promoted to 4.3 zMAP enter a race with team mates at 3.0 zMAP level, the 4.3 zMAP rider(s) will score 50% points.*
     5. Any readjustment of zMAP (by reset request to Zwift for example) where the zMAP drops >1.0, will not be entitled to a Ladder zMAP reset until the next Transfer Window.
-6. Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely.
-7. There is a limit of 15 riders per roster.
-8. Other than the cases noted above (zMAP spread Outlier, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
-9. Riders may be active for one team only, irrespective of sub league. Therefore if a club is entering multiple teams of the same rank you must use a different roster for each team.
+7. Once a rider has been inactive on a roster for 30 days they become a free agent who can be moved freely.
+8. There is a limit of 15 riders per roster.
+9. Other than the cases noted above (zMAP spread Outlier, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
+10. Riders may be active for one team only, irrespective of sub league. Therefore if a club is entering multiple teams of the same rank you must use a different roster for each team.
 
 ## 3. Race Format & Participation
 
