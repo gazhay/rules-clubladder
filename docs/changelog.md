@@ -2,6 +2,9 @@
 
 All notable changes to the rulebook will be documented here.
 
+### 17.11.2026
+* Updated the [Transfer Windows & Seasons](https://gazhay.github.io/rules-clubladder/transfer/).
+
 ### 16.11.2026
 * Updated the [Privacy & Cookie Statment](https://gazhay.github.io/rules-clubladder/privacy/).
 
