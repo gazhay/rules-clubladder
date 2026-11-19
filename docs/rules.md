@@ -166,3 +166,4 @@ Note: Presently only one Women's ladder exists, nominally EMEA, however teams fr
 
 - Teams can toggle between “mixed” and, “women’s team” during a transfer window only.
 - Once active, a Women's team can challenge any team within range globally (Mixed or Women’s), but may only be challenged by other Women's teams.
+- As of December 2025, Women’s teams now also Play On to the Ladder - although Race Control may manually place teams on to the Ladder where deemed necessary, at their discretion.
