@@ -7,7 +7,7 @@ Points for riders in each team are combined with the winning team being the one 
 
 League standings are automatically updated based on the results of each event c.24 hours after the event finish.
 
-In the event of a “tie”, the result will be judged to be a failure to win by the challenging team (loss) and a successful defence by the challenged team (win).
+If a race ends in a tie, the defending team wins and the challenging team loses. The one exception is a flipped fixture, where the original defenders are the ones who win a tie.
 
 Bonus drop will engage after your 3rd consecutive defeat. Any further defeats will include the bonus drop.
 
