@@ -2,6 +2,9 @@
 
 All notable changes to the rulebook will be documented here.
 
+### 24.11.2026
+* Updated [Scoring & Results](https://gazhay.github.io/rules-clubladder/scoring/) wording regarding "tie" results.
+
 ### 19.11.2026
 * Updated [Women's Ladder Rule Differences](https://gazhay.github.io/rules-clubladder/rules/#rule-differences) regarding Play On.
 
