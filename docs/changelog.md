@@ -3,6 +3,7 @@
 All notable changes to the rulebook will be documented here.
 
 ### 24.11.2026
+* Updated wording of [Rider Performance & World Class](https://gazhay.github.io/rules-clubladder/performance/) and the [World Class Verification Process](https://gazhay.github.io/rules-clubladder/how-to/#world-class-verification-process) How To guide.
 * Updated [Scoring & Results](https://gazhay.github.io/rules-clubladder/scoring/) wording regarding "tie" results.
 
 ### 19.11.2026
