@@ -7,9 +7,13 @@ The exact parameters of each check will not be published, and are constantly und
 
 ## World Class Ability
 
-Riders power curves are regularly checked against commonly accepted power figures for professional or world class performance at their age grade. Any rider putting out such figures will be asked by race control to [verify their ability in a number of ways](https://gazhay.github.io/rules-clubladder/how-to/#verification-requirements) including comparable real life performance or a verified performance test by ZADA or another similar body. Riders may continue to race while pending verification but will not be allowed to continue in ladder if verification is not provided in a timely manner.
+Riders power curves are regularly checked against commonly accepted power figures for professional or world class performance at their age grade. Any rider putting out such figures will be asked by race control to [verify their ability in a number of ways](https://gazhay.github.io/rules-clubladder/how-to/#verification-requirements) including comparable real life performance or a verified performance test by ZADA or another similar body. If a rider is flagged for World Class they receive a Race DQ. This race DQ is only reversed if:
+* A rider has previously provided verification to a suitable level for the trigger, or
+* Confirms they will comply with our [World Class Verification Process](https://gazhay.github.io/rules-clubladder/how-to/#world-class-verification-process).
 
-The team captain of any rider receiving a World Class DQ will be contacted directly by race control  within 24 hours for further information if required.
+Once a Race DQ has been reversed it is final, and will not be re-applied later. They may continue to race during the 14 days while pending verification, but if they then fail a verification attempt, refuse to verify, or don’t provide evidence, they will be immediately suspended from the ladder from that point on. Results from races already scored will not be amended, as going back to change them would disrupt the ladder standings from previous weeks.
+
+The team captain of any rider receiving a World Class DQ will be contacted directly by race control within 24 hours for further information if required.
 
 ## Unusual Style/Technique
 
