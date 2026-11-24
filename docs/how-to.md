@@ -276,11 +276,13 @@ Evidence should be submitted via the rider’s Verification Portal.
 
 ## 🌍 World Class Verification Process
 
-The following steps are only required in an instance where the rider has been explicitly requested by race control to undertake verification. If flagged for verification, a rider has 14 days to complete the process, during which they may continue racing.
-A rider will be immediately suspended from the ladder if they:
+The following steps are only required in an instance where the rider has been explicitly requested by Race Control to undertake World Class verification. A rider has 14 days to complete the process from the date of request unless stated otherwise by Race Control.
+If a rider is flagged for World Class they receive a Race DQ. This race DQ is only reversed if:
 
-- Fail a verification attempt
-- Refuse to verify
+* A rider has previously provided verification to a suitable level for the trigger, or
+* Confirms they will comply with our World Class Verification Process.
+
+Once a Race DQ has been reversed it is final, and will not be re-applied later. They may continue to race during the 14 days while pending verification, but if they then fail a verification attempt, refuse to verify, or don’t provide evidence, they will be immediately suspended from the ladder from that point on. Results from races already scored will not be amended, as going back to change them would disrupt the ladder standings from previous weeks.
 
 A rider who fails a verification attempt during the 14-day window *may* be invited to re-attempt within that 14 day window, at the discretion of Race Control e.g. if due to a minor technical fault in one of the steps carried out.
 Each failed verification submission will be recorded as a Major Infringement - see [Infringement Penalties](https://gazhay.github.io/rules-clubladder/sanctions/#infringement-penalties) for full details.
@@ -292,7 +294,7 @@ Each subsequent failed re-attempt will be recorded as a further Major Infringeme
 
 ## <u>Verification Requirements:</u>
 
-### Provided via Rider Verification Portal on ladder website.<br>They have 14 days to do so.
+### Provided via Rider Verification Portal on ladder website.
 1. [Weight verification video](https://gazhay.github.io/rules-clubladder/how-to/#weigh-in-verification-process).
 2. A link to their Strava profile, and if Private - accept race control request to follow on Strava.
 3. A log file for both the activity in question *and* from the verification activity, both uploaded for review by following the [Rider Spot Check](https://gazhay.github.io/rules-clubladder/how-to/#rider-spot-check) process.
