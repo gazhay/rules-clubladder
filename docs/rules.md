@@ -44,6 +44,10 @@ Any rider without a zMAP value in Zwift cannot be added to a roster and, if alre
 8. There is a limit of 15 riders per roster.
 9. Other than the cases noted above (zMAP spread Outlier, inactive rider) riders may not be removed or transferred from a team outwith a transfer window.
 10. Riders may be active for one team only, irrespective of sub league. Therefore if a club is entering multiple teams of the same rank you must use a different roster for each team.
+11. Resignation & Re-entry (Play On)
+     1. A team that resigns from the ladder may not apply to Play On again until 30 days after the date of resignation (the “cooling-off period”). This applies whether or not the team has changed its name, captain or roster in the meantime.
+     2. Race Control may, at its sole discretion, shorten or waive the cooling-off period, and any such decision is final and does not set a precedent.
+     3. A team that is removed from the ladder under Rule 4.3 remains bound by the 30-day wait stated there.
 
 ## 3. Race Format & Participation
 
@@ -68,7 +72,7 @@ All riders must save their Club Ladder race activities to Zwift. Deletion of the
     1. For a trial period as of 22/10/2026, the first Power-Ups will be assigned to all riders in the Race Pen (other power-ups will still function as before, you just also start with one).
 3. All riders in each team must wear the same jersey and include their team name against their in game name. The challenging team have first choice of jersey where 2 teams normally wear the same kit.
 4. Teams can only reject challenges for "good reason", generally this would be because they can't get a team together for the proposed time, or they already have a challenge agreed, we would also consider a situation where a team has only been challenged and not made a challenge in a number of weeks to be good reason.
-Teams who reject challenges without good reason, or who forfeit 2 or more races in any 2 month period, will be removed from the ladder. Teams removed in this way must wait a minimum of 7 days before requesting to Play On again.
+Teams who reject challenges without good reason, or who forfeit 2 or more races in any 2 month period, will be removed from the ladder. Teams removed in this way must wait a minimum of 30 days before requesting to Play On again.
     1. Regarding the policing of rejecting challenges without "good reason" ;
         - The Ladder's preferred way of organising races is to create [Auction Offers](https://gazhay.github.io/rules-clubladder/how-to/#accepting-creating-an-auction-offer) for your own team, and to accept Open Auction Offers available to you from surrounding teams.
         - We would define a “direct challenge” as a 1:1 availability enquiry between Captains/VCs of two (and only two) teams. Once the “challenge” has been thrown down, all effort should be made between the two captains to find a mutual agreeable date and time for a race. Ignoring the request, insisting on unworkable dates/times, or otherwise avoiding a race is then subject to sanction.
