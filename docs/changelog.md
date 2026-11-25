@@ -3,6 +3,7 @@
 All notable changes to the rulebook will be documented here.
 
 ### 25.11.2026
+* Update to the [How To](https://gazhay.github.io/rules-clubladder/how-to/) section to replace expired Zwftalizer with our own [Log analyser tool](https://ladder.cycleracing.club/analysis/log).
 * Update to [Rule 4.3](https://gazhay.github.io/rules-clubladder/rules/#4-challenge-scheduling-rules) regarding the cool-off period after being removed from the ladder.
 * Addition of [Rule 2.9](https://gazhay.github.io/rules-clubladder/rules/#2-team-composition-roster-management) regarding Resignation & Re-entry (Play On).
   
