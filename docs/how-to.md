@@ -238,11 +238,7 @@ This guide summarises how to create an event using the Zwift Clubs functionality
 
 1. Where a sticky watts flag is given, race control will still check that it is not a false flag, if the DQ remains 24 hours after race finish, you can assume it is correct.
 2. If you'd like to investigate any possible device issues, first ask your rider to locate their log files for the ride in question - https://support.zwift.com/locating-log-files-BykKO63fr
-3. Use Zwiftalizer to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods. [Zwiftalizer](https://zwiftalizer.com/)
-
-Zwiftalizer provides a range of guides and tips to help you from uploading files, to analysis and resolving issues, so we would ask captains use their site rather than asking race control, who will likely just point you towards their help pages anyway.
-Zwiftalizer Help: [https://zwiftalizer.com/help](https://zwiftalizer.com/help)
-Zwiftalizer Video Guides: [https://www.youtube.com/@zwiftalizer](https://www.youtube.com/@zwiftalizer)
+3. Use our own [Log analyser tool](https://ladder.cycleracing.club/analysis/log) to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods.
 
 ## 🎲Rider Spot Check
 
@@ -253,26 +249,22 @@ Evidence should be submitted via the rider’s Verification Portal.
 
     <img width="250" height="80" alt="1000035381" src="https://github.com/user-attachments/assets/e0fa7309-48ab-45ed-aff8-3cd142592039" />
 
-    2. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
-3. (Preferred), the rider should upload their log file to [Zwiftalizer](https://zwiftalizer.com/).
-    1. Note that Zwiftalizer now only allows 5 free uses if you register an account.
-
-        If you no longer have any free uses available, please contact the @Club Ladder Race Committee on Discord via your captain, to discuss how to proceed.
-
-4. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
+    1. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
+    2. (Preferred), the rider should upload their log file to our own [Log analyser tool](https://ladder.cycleracing.club/analysis/log).
+    3. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
 
 <img width="200" height="110" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
 <img width="220" height="100" alt="image 4" src="https://github.com/user-attachments/assets/1cbb0869-5b1b-472b-a8d1-7c251ae351b0" />
 
-1. Input the riders Zwift ID (this will not be requested if you are submitting directly from their profile).
+2. Input the riders Zwift ID (this will not be requested if you are submitting directly from their profile).
 
 <img width="330" height="110" alt="image 5" src="https://github.com/user-attachments/assets/c56ca82d-72a5-4ac9-8ca5-7a051e7f16db" />
 
-1. Upload the necessary details. It is preferred that you give us a Zwiftalizer link, though you may also give us the log file directly.
+3. Upload the necessary details, including giving us the log file directly.
 
 <img width="200" height="150" alt="image 6" src="https://github.com/user-attachments/assets/6a921e4e-44d0-4f69-ac03-b5dd3a85a059" />
 
-1. Once submitted, race control will review within 72 hours. If you don’t hear anything from us within this time, all is well. If we need anything more, like analysis of a further ride, then we’ll get in touch via the team captain.
+4. Once submitted, Race Control should review within 72 hours. If you don’t hear anything from us within this time, all is well. If we need anything more, like analysis of a further ride, then we’ll get in touch via the team captain.
 
 ## 🌍 World Class Verification Process
 
