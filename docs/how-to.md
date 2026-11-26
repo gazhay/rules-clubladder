@@ -434,7 +434,7 @@ Evidence should be submitted via the rider’s Verification Portal.
     <img width="250" height="80" alt="1000035381" src="https://github.com/user-attachments/assets/e0fa7309-48ab-45ed-aff8-3cd142592039" />
 
     1. First rider should locate their <u>**LOG**</u> files for the ride in question (note: It is LOG files we need, not FIT files)  [https://support.zwift.com/locating-log-files-BykKO63fr](https://support.zwift.com/locating-log-files-BykKO63fr)
-    2. (Preferred), the rider should upload their log file to our own [Log analyser tool](https://ladder.cycleracing.club/analysis/log).
+    2. (Preferred), the rider should upload their log file to our own [Log Viewer tool](https://ladder.cycleracing.club/analysis/log).
     3. Go to the [rider spot check page](https://ladder.cycleracing.club/spotCheck) OR on the rider profile page select “upload evidence”.
 
 <img width="200" height="110" alt="image 3" src="https://github.com/user-attachments/assets/bdd8541d-c26a-405a-b689-2d4c49669861" />
