@@ -238,7 +238,191 @@ This guide summarises how to create an event using the Zwift Clubs functionality
 
 1. Where a sticky watts flag is given, race control will still check that it is not a false flag, if the DQ remains 24 hours after race finish, you can assume it is correct.
 2. If you'd like to investigate any possible device issues, first ask your rider to locate their log files for the ride in question - https://support.zwift.com/locating-log-files-BykKO63fr
-3. Use our own [Log analyser tool](https://ladder.cycleracing.club/analysis/log) to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods.
+3. Use our own [Log Viewer tool](https://ladder.cycleracing.club/analysis/log) to analyse these files to spot common device issues, dropouts of connections are particularly common causes of sticky periods.
+
+## Club Ladder Log Viewer User Guide
+
+### About The Log Viewer
+
+The Log Viewer reads a Zwift Log.txt file and shows what happened during a session: how smoothly the graphics ran, how well your computer talked to the Zwift servers, and how reliably your trainer, power meter and heart rate monitor stayed connected.
+
+It is a viewer only. The file is opened and read inside your own web browser and is not sent to anyone. This is NOT where you upload a log for a Spot Check or a World Class request. For those, use the evidence upload on the rider's profile / evidence page instead.
+
+To use it, drop a Zwift Log.txt onto the page, or click to browse for it.
+
+Where to find your log: C:\Users\<USER ID>\AppData\Local\Zwift\Logs
+
+Buttons on the page:
+- Show errors & warnings (the number in brackets is how many were found): opens the full list of errors and warnings from the log.
+- Export JSON: saves the results of the analysis as a data file
+- Load another log: clears the page so you can open a different log file.
+
+Tip: wherever you see a small (i) icon, hover over it or tap it for a short explanation.
+
+### Sessions & Devices
+
+**Date / Time**<br>The date and time the log file starts.
+
+**Duration**<br>The total time from the start to the end of the log file.
+
+**Active time**<br>The time spent inside the activity (the ride or run) itself, as opposed to Duration, which also includes time spent in menus, pairing devices and so on.
+
+**Activities**<br>The number of activities (rides or runs) in the log file. When more than one activity exists, choose the one you want to look at from the activity line shown below the device list.
+
+**Load time**<br>Time elapsed from the start of the log file to the device pairing screen appearing.
+
+**Game version**<br>The version of the game client used.
+
+**Launcher**<br>The version of the application used to start up the game client.
+
+**Video capture**<br>Shows whether Zwift's video capture (video screenshots) setting was on. Turn it off for the best FPS performance.
+
+**System / CPU / RAM / GPU**<br>Details of the computer that ran the game, as reported in the log. Two things to know when reading the rest of the page:
+- The game sets the graphics Profile automatically from your graphics processing unit (GPU).
+- The game does its crowd calculations on a single processor core, so a CPU with strong single-core performance matters most (see Network below).
+
+**Device list**<br>One line for each sensor or controller the game paired with. Each line shows how it connected (for example "BLE (native)" for a direct Bluetooth connection), what it is being used for (Power, Cadence, Controllable Trainer, HR, ZP User Input), the device name, its firmware version, and the time it connected.
+
+**Activity line**<br>Shows the name of the activity (for example the event or group ride), the route, and the start and end time of the activity. If the log has more than one activity, each is listed.
+
+### Graphics
+Understanding frame rates, graphics profiles, and visual performance metrics.
+
+**Profile**<br>Profile is the graphics quality, polygon count, level of detail, sophistication of shadows, etc. The game engine automatically sets this according to the capabilities of your graphics processing unit (GPU). You can not set it yourself.
+
+**Resolution**<br>Resolution is the size of the rendered image. You choose this in the game settings. It is independent of Profile.
+
+**Avg / Max (FPS - frames per second)**<br>The smoothness of the graphics, in terms of how many times a complete scene was redrawn per second, commonly referred to as frames per second or just FPS. Avg is the average over the activity and Max is the highest value reached.
+
+**P_1 (1st percentile)**<br>Out of 100 values, the bottom 1% were equal to or less than this value, and 99% were higher. In plain terms, this is how bad the worst moments were. A big gap between Avg and P_1 means there were noticeable stutters.
+
+**Std Dev (standard deviation)**<br>A measure of the amount of variation in the FPS values. A low standard deviation shows that the values are close to the average, while a high standard deviation shows the values are spread over a wider range (less steady).
+
+### Network
+Real-time game data communication between your computer and the Zwift server (UDP).
+
+The UDP network traffic is data sent to and from the server describing the whereabouts of yourself and other players. Higher numbers imply the surrounding crowd is larger. Crowding creates more work for your CPU, which results in lower FPS, because the CPU has to work out the drafting effect of the crowd on your avatar, and where to cast shadows for moving objects (for graphics profiles that support shadows). The CPU does this on the main core and will prevent the GPU from reaching its full potential in medium to large groups. A CPU with high single-core performance is needed so it does not become a bottleneck for the GPU.
+
+**Max StC**<br>The maximum server-to-client UDP packets, per one-minute interval. This is the server sending you the positions of the nearest 100 riders around you.
+
+**Avg StC**<br>The average server-to-client UDP packets, per one-minute interval. Same data as above, averaged.
+
+**Max CtS**<br>The maximum client-to-server UDP packets, per one-minute interval. This is your own movements being sent to the server.
+
+**Avg CtS**<br>The average client-to-server UDP packets, per one-minute interval. This is your own movements being sent to the server. You were probably stationary or just watching if this is 60 or less.
+
+**Crowding (percentage)**<br>An estimate of the size of the group around you, based on the number of UDP packets being transferred per minute compared with an assumed maximum.
+
+**Crowding (label: Solo, Company, Crowded, Packed or Fondo)**<br>A label for the crowding level. The percentage is divided into 20% steps, labelled Solo, Company, Crowded, Packed and Fondo from lowest to highest.
+
+**Chart: Graphics FPS (left axis) / Network packets per minute (right axis) / Connection events (points)**<br>Shows frame rate and crowd size on the same timeline, with connection events marked as points. If FPS drops at the same moments the packet numbers climb, your computer (usually the CPU) is struggling with the crowd rather than the graphics card being the problem. Click and drag to zoom in, and use the toolbar to reset the view.
+
+### ANT+ Communications
+ANT+ sensor communication, interference, and dropout issues. (Only relevant if you use an ANT+ dongle.)
+
+**Interference Channel 0 / 1 / 2 / 3 - RxFail**<br>RxFail shows the percentage of times the game failed to receive an ANT+ sensor message on that channel. These are not dropouts by themselves. The game engine expects to receive four messages per second, but some do not make it because ANT+ is sensitive to radio frequency (RF) interference. 2.4 GHz Wi-Fi is a common source of interference. Avoid Wi-Fi channel 10 because it uses 2.457 GHz, which is the same frequency as ANT+ (avoid channels 9 to 12 to be safe).
+An average failure rate of 15% or lower is normal. Eight failed messages in a row triggers all ANT+ devices to be reconnected, which can cause a dropout in power even if the power source was not the cause.
+Try Bluetooth if you see a lot of ANT+ failures. Bluetooth adapts and hops between 37 frequencies to avoid interference, whereas ANT+ uses one fixed frequency.
+
+**ANT+ FET Transfer Failures (Gradient/Resistance Change Failures)**<br>Times when the controllable trainer failed to receive an ANT+ resistance change message. The trainer may feel sluggish in responding to gradient changes (or ERG resistance changes) when the number of failures is high, but this is not a major concern: the game will send a new message the next time the gradient changes. Try Bluetooth if you see a lot of these. Bluetooth supports message acknowledgements and retries, so it can recover missed gradient changes quickly. ANT+ just has to wait for the next change.
+
+**ANT+ Dropouts**<br>These are drop outs. Times when an ANT+ sensor failed to receive eight data packets in a two second interval, which triggers the game to re-pair all ANT+ devices. Any dropout here can affect every ANT+ device, not just the one that had the problem.
+
+### Bluetooth
+Bluetooth sensor communication and trainer control.
+
+**Bluetooth Disconnects**<br>These are drop outs. Times when a Bluetooth device disconnected and needed to be reconnected. This event happens for a single device, but it is not possible to tell from the log entries which device it was. Bluetooth has an advantage over ANT+ here because each device is reconnected individually, whereas with ANT+ one device disconnecting triggers reconnection of all devices.
+
+**Bluetooth FTMS Message Resends**<br>Times when the controllable trainer failed to receive a Bluetooth FTMS (FiTness Machine Service) resistance change message, and the game sent the message again. Resends are a feature of Bluetooth FTMS that improves responsiveness and reliability compared with ANT+, which does not have these capabilities.
+
+**Bluetooth Trainer Resets**<br>Times when the controllable trainer failed to receive a series of resistance change messages in a row and had to be reset.
+
+### UDP Communications
+These show how reliably your computer stayed in touch with the Zwift server.
+
+**UDP Network Timeouts**<br>The game expects to get data from the server at regular intervals. A timeout is recorded when the game expected data by a certain time but did not get it.
+
+**UDP Network Errors**<br>Times when your computer failed to send data to the server. Ideally zero.
+
+**UDP Network Disconnects**<br>UDP does not set up a connection before sending data, so the word "disconnect" is not quite right. This lists the times when the game detected that no UDP data had been received when it should have been. When this happens the game tries to predict where everybody is while it works to resume communications.
+
+**UDP Network Connects (Many entries here is normal)**<br>UDP does not set up a connection before sending data, so the word "connection" is not quite right either. The game expects to get data from the server at regular intervals. A background connection manager tries to re-establish communication, using a different server IP address or port, when data is not received as expected. This counts those attempts. A fair number of entries is normal.
+
+### Trainer & Server Sync
+**Trainer Grade vs Grade Sent to Trainer**<br>Compares the road gradient the game worked out with the gradient changes it actually sent to your trainer. It shows how many game updates there were, how many grade changes were sent to the trainer, and the range of gradients in the ride. If you were riding in ERG mode (for example a workout), the trainer follows a target power rather than the road gradient, so it is normal to see 0 grade changes sent.
+
+**World Clock Offset Drift**<br>How the game adjusted your in-game clock to keep it in step with the server clock. This is critical for segment and race times to be accurate. The page shows the number of updates, the final drift, and the largest single adjustment ("step").
+
+### Companion App Connections
+This section shows times when the game tried to connect to the Zwift Companion app on a smartphone or tablet. It is useful when you use the Companion app to pair Bluetooth devices. Bluetooth connection messages are not logged when the Companion app is used for pairing, which makes it difficult to tell whether a dropout was caused by Bluetooth signal loss or by the phone losing its network connection. You can rule out the second possibility by looking for connection attempts during your activity: if you see entries mid-activity, your phone's Wi-Fi connection was lost and had to be reconnected.
+- If your PC is wired, it was definitely your phone that lost Wi-Fi.
+- If both your PC and phone use Wi-Fi, it could have been either one.
+- If the "riders nearby" list went blank in the game, it was a Wi-Fi interruption on your PC; otherwise it was a Wi-Fi interruption on your phone.
+
+The counters on the page:
+- Phone address: the network address(es) of the phone the game tried to reach.
+- Connection attempts: how many times the game tried to connect to the phone.
+- Refused: attempts the phone turned down (for example, the app was not open or not listening).
+- Failed (other): attempts that failed for any other reason.
+- Connected: attempts that succeeded.
+- Commands discarded: commands from the phone that the game ignored.
+- Protocol errors: messages between the game and the phone that were not in the expected format.
+
+Chart: attempts, failed, connected, protocol error, per minute for the whole log. The shaded band is the activity you have selected, and the text beneath gives the totals inside it.
+
+If you do not use the Companion app, many failed attempts here may simply be the game looking for a phone that is not there.
+
+### Device Health (whole log)
+All of the items in this section cover the whole log file, not just the selected activity.
+
+**Battery levels**<br>The battery level reported by each device during the log. Low batteries are a common cause of sensors dropping out.
+
+**Message latency & reliability**<br>For each device, how quickly and how reliably its data reached the game. Columns:
+- Source: the type of data (for example POWER SOURCE, CADENCE, HEART RATE, or ZP RTL for the Zwift Play / Ride controller messages).
+- Device: the sensor or controller that sent it.
+- Samples: how many messages were measured.
+- Min ms / Mean ms / Max ms: the shortest, average and longest gap, in milliseconds, between messages.
+- Std dev ms: how much the gap varied.
+- Success: the percentage of messages that arrived. Below 100% means some were lost.
+
+**Time to reconnect after a Bluetooth disconnect**<br>How long a device took to come back after a Bluetooth disconnect. Shows "No Bluetooth disconnects" if there were none.
+
+**Time to first connect**<br>How long each device took to connect when the game started: the time it connected, the device name, and how long it took.
+
+### Power Curve & FTP Estimate
+**FTP estimate**<br>An estimate of FTP (Functional Threshold Power) worked out from the best efforts in the ride. It is only an estimate from one session and is not an official rating.
+
+**Based on effort**<br>The effort duration the estimate was taken from.
+
+**Efforts analysed**<br>How many effort durations were checked.
+
+**Chart**<br>Best power for each effort duration (blue) and the FTP that effort would give (orange). Hover over the chart to see the numbers for a particular duration.
+
+### Notable Moments
+A summary of in-game events picked out of the log, with a count for each type, for example:
+- RIDE ON! - Ride Ons received
+- POWERUP - power-ups collected
+- SET A TIME - a segment time was recorded
+- NEW PR! - a new personal record on a segment
+- JOINED_EVENT / FINISHED EVENT - when you joined and finished an event
+- STARTED WORKOUT - when a workout began
+
+Show every moment lists each one with the time it happened.
+
+### Errors & Warnings
+The full list of error and warning messages found in the log. Many are routine and do not affect your ride. If you are helping someone with a problem, note the times of any entries near the moment the problem happened.
+
+### Quick Guide: What To Look At For Common Problems
+
+**Power or cadence dropping out, using ANT+**<br>Check ANT+ Communications. RxFail above about 15% or any ANT+ Dropouts point to radio interference. Move the dongle away from the PC and Wi-Fi router (a USB extension cable helps), avoid Wi-Fi channels 9-12, or try Bluetooth instead.
+
+**Trainer feels sluggish or resistance seems wrong**<br>Check ANT+ FET Transfer Failures, and Bluetooth FTMS Message Resends and Trainer Resets. Many of these suggest a weak connection. Bluetooth normally recovers from missed messages faster than ANT+.
+
+**Riders disappearing, avatar jumping or teleporting**<br>Check UDP Communications (timeouts, errors, disconnects) and use a wired network connection if you can. Wi-Fi interference and unstable internet are the usual causes.
+
+**Low or stuttering FPS**<br>Check the Network chart. If FPS falls when the packet numbers climb, the CPU is struggling with crowds. Also check Video capture is Disabled.
+
+**Dropout that only happened once, with a Companion app in use**<br>Check the Companion App Connections chart for attempts at that moment. If there are some, it was probably your phone's Wi-Fi rather than the sensor.
 
 ## 🎲Rider Spot Check
 
